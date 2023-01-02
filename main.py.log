@@ -1774,3 +1774,3455 @@
 2023-01-01 12:54:29,524 DEBUG multiple lines detected
 2023-01-01 12:54:29,524 DEBUG len line length: 1 y: 1
 2023-01-01 12:54:29,524 DEBUG new locations - y: 1 x: 25
+2023-01-01 13:06:50,555 INFO begin
+2023-01-01 13:06:51,240 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 13:06:51,240 DEBUG h
+2023-01-01 13:06:51,240 DEBUG new locations - y: 0 x: 1
+2023-01-01 13:06:51,344 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 13:06:51,344 DEBUG e
+2023-01-01 13:06:51,344 DEBUG new locations - y: 0 x: 2
+2023-01-01 13:06:51,474 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 13:06:51,474 DEBUG l
+2023-01-01 13:06:51,474 DEBUG new locations - y: 0 x: 3
+2023-01-01 13:06:51,629 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 13:06:51,629 DEBUG l
+2023-01-01 13:06:51,629 DEBUG new locations - y: 0 x: 4
+2023-01-01 13:06:51,787 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 13:06:51,787 DEBUG o
+2023-01-01 13:06:51,787 DEBUG new locations - y: 0 x: 5
+2023-01-01 13:06:51,888 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 13:06:51,888 DEBUG  
+2023-01-01 13:06:51,889 DEBUG new locations - y: 0 x: 6
+2023-01-01 13:06:52,049 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 13:06:52,049 DEBUG w
+2023-01-01 13:06:52,049 DEBUG new locations - y: 0 x: 7
+2023-01-01 13:06:52,116 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 13:06:52,116 DEBUG o
+2023-01-01 13:06:52,116 DEBUG new locations - y: 0 x: 8
+2023-01-01 13:06:52,183 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 13:06:52,183 DEBUG r
+2023-01-01 13:06:52,183 DEBUG new locations - y: 0 x: 9
+2023-01-01 13:06:52,306 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 13:06:52,306 DEBUG l
+2023-01-01 13:06:52,306 DEBUG new locations - y: 0 x: 10
+2023-01-01 13:06:52,386 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 13:06:52,386 DEBUG d
+2023-01-01 13:06:52,386 DEBUG new locations - y: 0 x: 11
+2023-01-01 13:06:52,770 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 13:06:52,770 DEBUG 
+
+2023-01-01 13:06:52,770 DEBUG new line detected
+2023-01-01 13:06:52,770 DEBUG new locations - y: 1 x: 0
+2023-01-01 13:06:53,107 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 13:06:53,107 DEBUG w
+2023-01-01 13:06:53,107 DEBUG multiple lines detected
+2023-01-01 13:06:53,107 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:53,107 DEBUG new locations - y: 1 x: 1
+2023-01-01 13:06:53,211 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 13:06:53,211 DEBUG h
+2023-01-01 13:06:53,211 DEBUG multiple lines detected
+2023-01-01 13:06:53,211 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:53,211 DEBUG new locations - y: 1 x: 2
+2023-01-01 13:06:53,282 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 13:06:53,282 DEBUG a
+2023-01-01 13:06:53,282 DEBUG multiple lines detected
+2023-01-01 13:06:53,282 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:53,282 DEBUG new locations - y: 1 x: 3
+2023-01-01 13:06:53,366 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 13:06:53,366 DEBUG t
+2023-01-01 13:06:53,366 DEBUG multiple lines detected
+2023-01-01 13:06:53,366 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:53,366 DEBUG new locations - y: 1 x: 4
+2023-01-01 13:06:53,501 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 13:06:53,501 DEBUG h
+2023-01-01 13:06:53,501 DEBUG multiple lines detected
+2023-01-01 13:06:53,501 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:53,501 DEBUG new locations - y: 1 x: 5
+2023-01-01 13:06:54,041 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 13:06:54,041 DEBUG 263
+2023-01-01 13:06:54,041 DEBUG new locations - y: 1 x: 4
+2023-01-01 13:06:54,229 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 13:06:54,229 DEBUG  
+2023-01-01 13:06:54,229 DEBUG multiple lines detected
+2023-01-01 13:06:54,229 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:54,229 DEBUG new locations - y: 1 x: 5
+2023-01-01 13:06:54,377 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 13:06:54,377 DEBUG i
+2023-01-01 13:06:54,377 DEBUG multiple lines detected
+2023-01-01 13:06:54,377 DEBUG len line length: 1 y: 1
+2023-01-01 13:06:54,377 DEBUG new locations - y: 1 x: 6
+2023-01-01 13:06:55,134 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 13:06:55,134 DEBUG 263
+2023-01-01 13:06:55,134 DEBUG new locations - y: 1 x: 5
+2023-01-01 13:06:55,337 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 13:06:55,337 DEBUG 263
+2023-01-01 13:06:55,337 DEBUG new locations - y: 1 x: 4
+2023-01-01 13:10:34,545 INFO begin
+2023-01-01 13:10:35,068 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 13:10:35,068 DEBUG h
+2023-01-01 13:10:35,068 DEBUG new locations - y: 0 x: 1
+2023-01-01 13:10:35,151 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 13:10:35,151 DEBUG e
+2023-01-01 13:10:35,151 DEBUG new locations - y: 0 x: 2
+2023-01-01 13:10:35,281 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 13:10:35,281 DEBUG l
+2023-01-01 13:10:35,281 DEBUG new locations - y: 0 x: 3
+2023-01-01 13:10:35,436 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 13:10:35,436 DEBUG l
+2023-01-01 13:10:35,436 DEBUG new locations - y: 0 x: 4
+2023-01-01 13:10:35,600 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 13:10:35,601 DEBUG o
+2023-01-01 13:10:35,601 DEBUG new locations - y: 0 x: 5
+2023-01-01 13:10:35,698 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 13:10:35,698 DEBUG  
+2023-01-01 13:10:35,698 DEBUG new locations - y: 0 x: 6
+2023-01-01 13:10:35,897 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 13:10:35,897 DEBUG w
+2023-01-01 13:10:35,897 DEBUG new locations - y: 0 x: 7
+2023-01-01 13:10:35,981 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 13:10:35,981 DEBUG o
+2023-01-01 13:10:35,981 DEBUG new locations - y: 0 x: 8
+2023-01-01 13:10:36,059 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 13:10:36,059 DEBUG r
+2023-01-01 13:10:36,059 DEBUG new locations - y: 0 x: 9
+2023-01-01 13:10:36,159 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 13:10:36,159 DEBUG l
+2023-01-01 13:10:36,159 DEBUG new locations - y: 0 x: 10
+2023-01-01 13:10:36,267 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 13:10:36,267 DEBUG d
+2023-01-01 13:10:36,267 DEBUG new locations - y: 0 x: 11
+2023-01-01 13:10:36,815 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 13:10:36,816 DEBUG 263
+2023-01-01 13:10:36,816 DEBUG new locations - y: 0 x: 10
+2023-01-01 13:10:37,012 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 13:10:37,012 DEBUG 263
+2023-01-01 13:10:37,012 DEBUG new locations - y: 0 x: 9
+2023-01-01 13:10:37,179 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 13:10:37,179 DEBUG 263
+2023-01-01 13:10:37,179 DEBUG new locations - y: 0 x: 8
+2023-01-01 13:10:37,876 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 13:10:37,876 DEBUG r
+2023-01-01 13:10:37,877 DEBUG new locations - y: 0 x: 9
+2023-01-01 13:10:37,986 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 13:10:37,986 DEBUG l
+2023-01-01 13:10:37,986 DEBUG new locations - y: 0 x: 10
+2023-01-01 13:10:38,081 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 13:10:38,082 DEBUG d
+2023-01-01 13:10:38,082 DEBUG new locations - y: 0 x: 11
+2023-01-01 13:10:38,366 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 13:10:38,366 DEBUG 
+
+2023-01-01 13:10:38,366 DEBUG new line detected
+2023-01-01 13:10:38,366 DEBUG new locations - y: 1 x: 0
+2023-01-01 13:10:38,840 DEBUG multiple lines detected
+2023-01-01 13:10:38,840 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:38,840 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 13:10:38,840 DEBUG w
+2023-01-01 13:10:38,840 DEBUG new locations - y: 1 x: 1
+2023-01-01 13:10:38,937 DEBUG multiple lines detected
+2023-01-01 13:10:38,937 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:38,937 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 13:10:38,937 DEBUG h
+2023-01-01 13:10:38,937 DEBUG new locations - y: 1 x: 2
+2023-01-01 13:10:39,041 DEBUG multiple lines detected
+2023-01-01 13:10:39,041 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:39,041 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 13:10:39,041 DEBUG a
+2023-01-01 13:10:39,041 DEBUG new locations - y: 1 x: 3
+2023-01-01 13:10:39,126 DEBUG multiple lines detected
+2023-01-01 13:10:39,126 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:39,126 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 13:10:39,126 DEBUG t
+2023-01-01 13:10:39,126 DEBUG new locations - y: 1 x: 4
+2023-01-01 13:10:39,277 DEBUG multiple lines detected
+2023-01-01 13:10:39,277 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:39,277 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 13:10:39,277 DEBUG  
+2023-01-01 13:10:39,277 DEBUG new locations - y: 1 x: 5
+2023-01-01 13:10:39,542 DEBUG multiple lines detected
+2023-01-01 13:10:39,542 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:39,542 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 13:10:39,542 DEBUG i
+2023-01-01 13:10:39,542 DEBUG new locations - y: 1 x: 6
+2023-01-01 13:10:39,614 DEBUG multiple lines detected
+2023-01-01 13:10:39,614 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:39,614 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 13:10:39,614 DEBUG s
+2023-01-01 13:10:39,614 DEBUG new locations - y: 1 x: 7
+2023-01-01 13:10:39,917 DEBUG multiple lines detected
+2023-01-01 13:10:39,917 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:39,917 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 13:10:39,917 DEBUG 263
+2023-01-01 13:10:39,917 DEBUG new locations - y: 1 x: 6
+2023-01-01 13:10:40,114 DEBUG multiple lines detected
+2023-01-01 13:10:40,114 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:40,114 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 13:10:40,114 DEBUG 263
+2023-01-01 13:10:40,114 DEBUG new locations - y: 1 x: 5
+2023-01-01 13:10:40,313 DEBUG multiple lines detected
+2023-01-01 13:10:40,313 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:40,313 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 13:10:40,313 DEBUG 263
+2023-01-01 13:10:40,313 DEBUG new locations - y: 1 x: 4
+2023-01-01 13:10:40,944 DEBUG multiple lines detected
+2023-01-01 13:10:40,944 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:40,944 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 13:10:40,944 DEBUG  
+2023-01-01 13:10:40,944 DEBUG new locations - y: 1 x: 5
+2023-01-01 13:10:41,427 DEBUG multiple lines detected
+2023-01-01 13:10:41,428 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:41,428 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 13:10:41,428 DEBUG i
+2023-01-01 13:10:41,428 DEBUG new locations - y: 1 x: 6
+2023-01-01 13:10:41,531 DEBUG multiple lines detected
+2023-01-01 13:10:41,531 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:41,531 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 13:10:41,531 DEBUG s
+2023-01-01 13:10:41,531 DEBUG new locations - y: 1 x: 7
+2023-01-01 13:10:41,618 DEBUG multiple lines detected
+2023-01-01 13:10:41,618 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:41,618 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 13:10:41,618 DEBUG  
+2023-01-01 13:10:41,618 DEBUG new locations - y: 1 x: 8
+2023-01-01 13:10:41,868 DEBUG multiple lines detected
+2023-01-01 13:10:41,868 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:41,868 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 13:10:41,868 DEBUG g
+2023-01-01 13:10:41,868 DEBUG new locations - y: 1 x: 9
+2023-01-01 13:10:41,888 DEBUG multiple lines detected
+2023-01-01 13:10:41,888 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:41,888 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 13:10:41,888 DEBUG o
+2023-01-01 13:10:41,888 DEBUG new locations - y: 1 x: 10
+2023-01-01 13:10:42,018 DEBUG multiple lines detected
+2023-01-01 13:10:42,018 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:42,018 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:42,018 DEBUG i
+2023-01-01 13:10:42,018 DEBUG new locations - y: 1 x: 11
+2023-01-01 13:10:42,148 DEBUG multiple lines detected
+2023-01-01 13:10:42,148 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:42,148 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 13:10:42,148 DEBUG n
+2023-01-01 13:10:42,148 DEBUG new locations - y: 1 x: 12
+2023-01-01 13:10:42,465 DEBUG multiple lines detected
+2023-01-01 13:10:42,465 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:42,465 DEBUG current cursor position - y: 1 x: 12
+2023-01-01 13:10:42,465 DEBUG g
+2023-01-01 13:10:42,465 DEBUG new locations - y: 1 x: 13
+2023-01-01 13:10:42,849 DEBUG multiple lines detected
+2023-01-01 13:10:42,849 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:42,849 DEBUG current cursor position - y: 1 x: 13
+2023-01-01 13:10:42,849 DEBUG 260
+2023-01-01 13:10:42,849 DEBUG new locations - y: 1 x: 12
+2023-01-01 13:10:43,038 DEBUG multiple lines detected
+2023-01-01 13:10:43,038 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:43,038 DEBUG current cursor position - y: 1 x: 12
+2023-01-01 13:10:43,039 DEBUG 260
+2023-01-01 13:10:43,039 DEBUG new locations - y: 1 x: 11
+2023-01-01 13:10:43,207 DEBUG multiple lines detected
+2023-01-01 13:10:43,207 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:43,207 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 13:10:43,207 DEBUG 260
+2023-01-01 13:10:43,207 DEBUG new locations - y: 1 x: 10
+2023-01-01 13:10:43,355 DEBUG multiple lines detected
+2023-01-01 13:10:43,355 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:43,355 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:43,355 DEBUG 260
+2023-01-01 13:10:43,355 DEBUG new locations - y: 1 x: 9
+2023-01-01 13:10:43,520 DEBUG multiple lines detected
+2023-01-01 13:10:43,520 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:43,520 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 13:10:43,520 DEBUG 260
+2023-01-01 13:10:43,520 DEBUG new locations - y: 1 x: 8
+2023-01-01 13:10:43,887 DEBUG multiple lines detected
+2023-01-01 13:10:43,888 DEBUG len line length: 1 y: 1
+2023-01-01 13:10:43,888 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 13:10:43,888 DEBUG 
+
+2023-01-01 13:10:43,888 DEBUG new line detected
+2023-01-01 13:10:43,888 DEBUG new locations - y: 2 x: 0
+2023-01-01 13:10:44,144 DEBUG multiple lines detected
+2023-01-01 13:10:44,144 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:44,144 DEBUG current cursor position - y: 2 x: 0
+2023-01-01 13:10:44,144 DEBUG o
+2023-01-01 13:10:44,144 DEBUG new locations - y: 2 x: 1
+2023-01-01 13:10:44,302 DEBUG multiple lines detected
+2023-01-01 13:10:44,302 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:44,302 DEBUG current cursor position - y: 2 x: 1
+2023-01-01 13:10:44,302 DEBUG n
+2023-01-01 13:10:44,302 DEBUG new locations - y: 2 x: 2
+2023-01-01 13:10:44,818 DEBUG multiple lines detected
+2023-01-01 13:10:44,819 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:44,819 DEBUG current cursor position - y: 2 x: 2
+2023-01-01 13:10:44,819 DEBUG  
+2023-01-01 13:10:44,819 DEBUG new locations - y: 2 x: 3
+2023-01-01 13:10:45,304 DEBUG multiple lines detected
+2023-01-01 13:10:45,304 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:45,304 DEBUG current cursor position - y: 2 x: 3
+2023-01-01 13:10:45,304 DEBUG 263
+2023-01-01 13:10:45,304 DEBUG new locations - y: 2 x: 2
+2023-01-01 13:10:46,069 DEBUG multiple lines detected
+2023-01-01 13:10:46,069 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:46,069 DEBUG current cursor position - y: 2 x: 2
+2023-01-01 13:10:46,069 DEBUG  
+2023-01-01 13:10:46,069 DEBUG new locations - y: 2 x: 3
+2023-01-01 13:10:46,684 DEBUG multiple lines detected
+2023-01-01 13:10:46,685 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:46,685 DEBUG current cursor position - y: 2 x: 3
+2023-01-01 13:10:46,685 DEBUG h
+2023-01-01 13:10:46,685 DEBUG new locations - y: 2 x: 4
+2023-01-01 13:10:46,911 DEBUG multiple lines detected
+2023-01-01 13:10:46,911 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:46,911 DEBUG current cursor position - y: 2 x: 4
+2023-01-01 13:10:46,911 DEBUG u
+2023-01-01 13:10:46,911 DEBUG new locations - y: 2 x: 5
+2023-01-01 13:10:47,177 DEBUG multiple lines detected
+2023-01-01 13:10:47,177 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:47,177 DEBUG current cursor position - y: 2 x: 5
+2023-01-01 13:10:47,177 DEBUG h
+2023-01-01 13:10:47,177 DEBUG new locations - y: 2 x: 6
+2023-01-01 13:10:47,469 DEBUG multiple lines detected
+2023-01-01 13:10:47,469 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:47,469 DEBUG current cursor position - y: 2 x: 6
+2023-01-01 13:10:47,469 DEBUG  
+2023-01-01 13:10:47,469 DEBUG new locations - y: 2 x: 7
+2023-01-01 13:10:48,752 DEBUG multiple lines detected
+2023-01-01 13:10:48,752 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:48,752 DEBUG current cursor position - y: 2 x: 7
+2023-01-01 13:10:48,752 DEBUG Y
+2023-01-01 13:10:48,752 DEBUG new locations - y: 2 x: 8
+2023-01-01 13:10:48,913 DEBUG multiple lines detected
+2023-01-01 13:10:48,913 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:48,913 DEBUG current cursor position - y: 2 x: 8
+2023-01-01 13:10:48,913 DEBUG U
+2023-01-01 13:10:48,913 DEBUG new locations - y: 2 x: 9
+2023-01-01 13:10:49,099 DEBUG multiple lines detected
+2023-01-01 13:10:49,099 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:49,099 DEBUG current cursor position - y: 2 x: 9
+2023-01-01 13:10:49,099 DEBUG H
+2023-01-01 13:10:49,099 DEBUG new locations - y: 2 x: 10
+2023-01-01 13:10:50,308 DEBUG multiple lines detected
+2023-01-01 13:10:50,309 DEBUG len line length: 2 y: 2
+2023-01-01 13:10:50,309 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 13:10:50,309 DEBUG 259
+2023-01-01 13:10:50,309 DEBUG new locations - y: 1 x: 10
+2023-01-01 13:10:50,673 DEBUG multiple lines detected
+2023-01-01 13:10:50,673 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:50,673 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:50,673 DEBUG 258
+2023-01-01 13:10:51,273 DEBUG multiple lines detected
+2023-01-01 13:10:51,273 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:51,273 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:51,273 DEBUG 258
+2023-01-01 13:10:51,472 DEBUG multiple lines detected
+2023-01-01 13:10:51,472 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:51,472 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:51,472 DEBUG 258
+2023-01-01 13:10:51,659 DEBUG multiple lines detected
+2023-01-01 13:10:51,659 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:51,659 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:51,659 DEBUG 258
+2023-01-01 13:10:51,822 DEBUG multiple lines detected
+2023-01-01 13:10:51,823 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:51,823 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:51,823 DEBUG 258
+2023-01-01 13:10:52,667 DEBUG multiple lines detected
+2023-01-01 13:10:52,667 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:52,667 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 13:10:52,667 DEBUG 260
+2023-01-01 13:10:52,667 DEBUG new locations - y: 1 x: 9
+2023-01-01 13:10:52,865 DEBUG multiple lines detected
+2023-01-01 13:10:52,865 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:52,865 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 13:10:52,865 DEBUG 260
+2023-01-01 13:10:52,865 DEBUG new locations - y: 1 x: 8
+2023-01-01 13:10:53,034 DEBUG multiple lines detected
+2023-01-01 13:10:53,034 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:53,034 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 13:10:53,034 DEBUG 260
+2023-01-01 13:10:53,034 DEBUG new locations - y: 1 x: 7
+2023-01-01 13:10:53,208 DEBUG multiple lines detected
+2023-01-01 13:10:53,209 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:53,209 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 13:10:53,209 DEBUG 260
+2023-01-01 13:10:53,209 DEBUG new locations - y: 1 x: 6
+2023-01-01 13:10:53,445 DEBUG multiple lines detected
+2023-01-01 13:10:53,445 DEBUG len line length: 2 y: 1
+2023-01-01 13:10:53,445 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 13:10:53,445 DEBUG 259
+2023-01-01 13:10:53,445 DEBUG new locations - y: 0 x: 6
+2023-01-01 13:10:54,216 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 13:10:54,217 DEBUG 261
+2023-01-01 13:10:54,217 DEBUG new locations - y: 0 x: 7
+2023-01-01 13:10:54,392 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 13:10:54,392 DEBUG 261
+2023-01-01 13:10:54,392 DEBUG new locations - y: 0 x: 8
+2023-01-01 13:10:54,798 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 13:10:54,799 DEBUG 258
+2023-01-01 13:10:55,200 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 13:10:55,200 DEBUG 260
+2023-01-01 13:10:55,200 DEBUG new locations - y: 0 x: 7
+2023-01-01 13:10:55,573 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 13:10:55,573 DEBUG 258
+2023-01-01 13:10:55,760 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 13:10:55,760 DEBUG 258
+2023-01-01 13:10:55,952 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 13:10:55,952 DEBUG 258
+2023-01-01 18:49:49,573 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:49:49,573 DEBUG s
+2023-01-01 18:49:49,573 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:49:50,086 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:49:50,086 DEBUG f
+2023-01-01 18:49:50,086 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:49:50,267 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:49:50,267 DEBUG a
+2023-01-01 18:49:50,267 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:49:50,860 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:50,861 DEBUG 258
+2023-01-01 18:49:51,102 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:51,102 DEBUG 258
+2023-01-01 18:49:51,941 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:51,941 DEBUG 258
+2023-01-01 18:49:52,164 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:52,164 DEBUG 258
+2023-01-01 18:49:52,356 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:52,357 DEBUG 258
+2023-01-01 18:49:52,526 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:52,526 DEBUG 258
+2023-01-01 18:49:52,738 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:52,738 DEBUG 258
+2023-01-01 18:49:52,979 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:52,979 DEBUG 259
+2023-01-01 18:49:52,979 DEBUG new locations - y: -1 x: 10
+2023-01-01 18:49:54,384 INFO begin
+2023-01-01 18:49:55,032 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:49:55,032 DEBUG h
+2023-01-01 18:49:55,032 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:49:55,214 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:49:55,214 DEBUG w
+2023-01-01 18:49:55,214 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:49:55,351 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:49:55,351 DEBUG l
+2023-01-01 18:49:55,351 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:49:55,532 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:49:55,532 DEBUG l
+2023-01-01 18:49:55,532 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:49:55,888 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:49:55,888 DEBUG 263
+2023-01-01 18:49:55,888 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:49:56,095 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:49:56,095 DEBUG 263
+2023-01-01 18:49:56,095 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:49:56,309 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:49:56,309 DEBUG 263
+2023-01-01 18:49:56,309 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:49:56,491 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:49:56,491 DEBUG e
+2023-01-01 18:49:56,491 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:49:56,770 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:49:56,770 DEBUG l
+2023-01-01 18:49:56,770 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:49:56,977 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:49:56,977 DEBUG l
+2023-01-01 18:49:56,977 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:49:57,164 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:49:57,164 DEBUG o
+2023-01-01 18:49:57,165 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:49:57,275 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:49:57,275 DEBUG  
+2023-01-01 18:49:57,275 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:49:57,495 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:49:57,495 DEBUG w
+2023-01-01 18:49:57,495 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:49:57,554 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:49:57,554 DEBUG o
+2023-01-01 18:49:57,554 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:49:57,684 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:49:57,684 DEBUG r
+2023-01-01 18:49:57,684 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:49:57,767 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:49:57,767 DEBUG l
+2023-01-01 18:49:57,767 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:49:57,891 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:49:57,891 DEBUG d
+2023-01-01 18:49:57,891 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:49:58,023 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:49:58,023 DEBUG  
+2023-01-01 18:49:58,023 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:49:58,539 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:49:58,539 DEBUG 263
+2023-01-01 18:49:58,540 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:49:58,747 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:49:58,747 DEBUG 
+
+2023-01-01 18:49:58,747 DEBUG new line detected
+2023-01-01 18:49:58,747 DEBUG new locations - y: 1 x: 0
+2023-01-01 18:49:59,208 DEBUG multiple lines detected
+2023-01-01 18:49:59,208 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,208 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 18:49:59,208 DEBUG w
+2023-01-01 18:49:59,208 DEBUG new locations - y: 1 x: 1
+2023-01-01 18:49:59,319 DEBUG multiple lines detected
+2023-01-01 18:49:59,319 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,319 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 18:49:59,319 DEBUG h
+2023-01-01 18:49:59,319 DEBUG new locations - y: 1 x: 2
+2023-01-01 18:49:59,378 DEBUG multiple lines detected
+2023-01-01 18:49:59,378 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,378 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 18:49:59,378 DEBUG a
+2023-01-01 18:49:59,378 DEBUG new locations - y: 1 x: 3
+2023-01-01 18:49:59,480 DEBUG multiple lines detected
+2023-01-01 18:49:59,480 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,480 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 18:49:59,480 DEBUG t
+2023-01-01 18:49:59,480 DEBUG new locations - y: 1 x: 4
+2023-01-01 18:49:59,571 DEBUG multiple lines detected
+2023-01-01 18:49:59,571 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,571 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 18:49:59,571 DEBUG  
+2023-01-01 18:49:59,571 DEBUG new locations - y: 1 x: 5
+2023-01-01 18:49:59,783 DEBUG multiple lines detected
+2023-01-01 18:49:59,783 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,783 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 18:49:59,783 DEBUG i
+2023-01-01 18:49:59,783 DEBUG new locations - y: 1 x: 6
+2023-01-01 18:49:59,862 DEBUG multiple lines detected
+2023-01-01 18:49:59,862 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,862 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 18:49:59,862 DEBUG s
+2023-01-01 18:49:59,862 DEBUG new locations - y: 1 x: 7
+2023-01-01 18:49:59,944 DEBUG multiple lines detected
+2023-01-01 18:49:59,944 DEBUG len line length: 1 y: 1
+2023-01-01 18:49:59,944 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 18:49:59,944 DEBUG  
+2023-01-01 18:49:59,944 DEBUG new locations - y: 1 x: 8
+2023-01-01 18:50:00,147 DEBUG multiple lines detected
+2023-01-01 18:50:00,147 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,147 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 18:50:00,147 DEBUG g
+2023-01-01 18:50:00,147 DEBUG new locations - y: 1 x: 9
+2023-01-01 18:50:00,219 DEBUG multiple lines detected
+2023-01-01 18:50:00,219 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,219 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 18:50:00,219 DEBUG o
+2023-01-01 18:50:00,219 DEBUG new locations - y: 1 x: 10
+2023-01-01 18:50:00,380 DEBUG multiple lines detected
+2023-01-01 18:50:00,380 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,380 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 18:50:00,380 DEBUG i
+2023-01-01 18:50:00,380 DEBUG new locations - y: 1 x: 11
+2023-01-01 18:50:00,510 DEBUG multiple lines detected
+2023-01-01 18:50:00,510 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,510 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 18:50:00,510 DEBUG n
+2023-01-01 18:50:00,510 DEBUG new locations - y: 1 x: 12
+2023-01-01 18:50:00,588 DEBUG multiple lines detected
+2023-01-01 18:50:00,588 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,588 DEBUG current cursor position - y: 1 x: 12
+2023-01-01 18:50:00,588 DEBUG g
+2023-01-01 18:50:00,588 DEBUG new locations - y: 1 x: 13
+2023-01-01 18:50:00,713 DEBUG multiple lines detected
+2023-01-01 18:50:00,713 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,713 DEBUG current cursor position - y: 1 x: 13
+2023-01-01 18:50:00,713 DEBUG  
+2023-01-01 18:50:00,713 DEBUG new locations - y: 1 x: 14
+2023-01-01 18:50:00,821 DEBUG multiple lines detected
+2023-01-01 18:50:00,821 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,821 DEBUG current cursor position - y: 1 x: 14
+2023-01-01 18:50:00,821 DEBUG o
+2023-01-01 18:50:00,821 DEBUG new locations - y: 1 x: 15
+2023-01-01 18:50:00,979 DEBUG multiple lines detected
+2023-01-01 18:50:00,979 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:00,979 DEBUG current cursor position - y: 1 x: 15
+2023-01-01 18:50:00,979 DEBUG n
+2023-01-01 18:50:00,979 DEBUG new locations - y: 1 x: 16
+2023-01-01 18:50:01,488 DEBUG multiple lines detected
+2023-01-01 18:50:01,488 DEBUG len line length: 1 y: 1
+2023-01-01 18:50:01,488 DEBUG current cursor position - y: 1 x: 16
+2023-01-01 18:50:01,488 DEBUG 259
+2023-01-01 18:50:01,488 DEBUG new locations - y: 0 x: 16
+2023-01-01 18:50:02,861 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 18:50:02,861 DEBUG j
+2023-01-01 18:50:02,861 DEBUG new locations - y: 0 x: 17
+2023-01-01 18:50:03,464 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 18:50:03,464 DEBUG j
+2023-01-01 18:50:03,464 DEBUG new locations - y: 0 x: 18
+2023-01-01 18:50:03,664 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 18:50:03,664 DEBUG j
+2023-01-01 18:50:03,664 DEBUG new locations - y: 0 x: 19
+2023-01-01 18:50:03,840 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 18:50:03,840 DEBUG j
+2023-01-01 18:50:03,840 DEBUG new locations - y: 0 x: 20
+2023-01-01 18:50:04,593 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:50:04,593 DEBUG 258
+2023-01-01 18:50:05,009 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:50:05,009 DEBUG 258
+2023-01-01 18:50:05,371 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:50:05,371 DEBUG h
+2023-01-01 18:50:05,371 DEBUG new locations - y: 0 x: 21
+2023-01-01 18:50:05,396 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:50:05,396 DEBUG f
+2023-01-01 18:50:05,396 DEBUG new locations - y: 0 x: 22
+2023-01-01 18:50:05,640 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 18:50:05,640 DEBUG s
+2023-01-01 18:50:05,640 DEBUG new locations - y: 0 x: 23
+2023-01-01 18:50:05,723 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 18:50:05,723 DEBUG d
+2023-01-01 18:50:05,723 DEBUG new locations - y: 0 x: 24
+2023-01-01 18:50:05,982 DEBUG current cursor position - y: 0 x: 24
+2023-01-01 18:50:05,982 DEBUG f
+2023-01-01 18:50:05,982 DEBUG new locations - y: 0 x: 25
+2023-01-01 18:51:53,724 DEBUG current cursor position - y: 0 x: 25
+2023-01-01 18:51:53,724 DEBUG 260
+2023-01-01 18:51:53,724 DEBUG new locations - y: 0 x: 24
+2023-01-01 18:51:53,964 DEBUG current cursor position - y: 0 x: 24
+2023-01-01 18:51:53,965 DEBUG 260
+2023-01-01 18:51:53,965 DEBUG new locations - y: 0 x: 23
+2023-01-01 18:51:54,161 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 18:51:54,161 DEBUG 260
+2023-01-01 18:51:54,161 DEBUG new locations - y: 0 x: 22
+2023-01-01 18:51:54,334 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 18:51:54,334 DEBUG 260
+2023-01-01 18:51:54,334 DEBUG new locations - y: 0 x: 21
+2023-01-01 18:51:54,688 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:51:54,688 DEBUG 258
+2023-01-01 18:51:57,576 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:51:57,576 DEBUG 258
+2023-01-01 18:51:58,299 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:51:58,299 DEBUG 258
+2023-01-01 18:51:59,953 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:51:59,953 DEBUG 259
+2023-01-01 18:51:59,954 DEBUG new locations - y: -1 x: 21
+2023-01-01 18:52:01,617 INFO begin
+2023-01-01 18:52:02,496 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:02,496 DEBUG h
+2023-01-01 18:52:02,496 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:52:02,610 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:52:02,610 DEBUG e
+2023-01-01 18:52:02,610 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:52:02,761 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:52:02,761 DEBUG l
+2023-01-01 18:52:02,761 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:52:02,911 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:52:02,911 DEBUG l
+2023-01-01 18:52:02,911 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:52:03,092 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:52:03,092 DEBUG o
+2023-01-01 18:52:03,092 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:52:03,254 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:52:03,254 DEBUG  
+2023-01-01 18:52:03,254 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:52:03,467 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:52:03,468 DEBUG w
+2023-01-01 18:52:03,468 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:52:03,539 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:52:03,539 DEBUG o
+2023-01-01 18:52:03,539 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:52:03,619 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:52:03,619 DEBUG r
+2023-01-01 18:52:03,619 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:52:03,748 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:52:03,748 DEBUG l
+2023-01-01 18:52:03,748 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:52:03,850 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:52:03,850 DEBUG d
+2023-01-01 18:52:03,850 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:52:04,269 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:52:04,270 DEBUG 
+
+2023-01-01 18:52:04,270 DEBUG new line detected
+2023-01-01 18:52:04,270 DEBUG new locations - y: 1 x: 0
+2023-01-01 18:52:06,972 DEBUG multiple lines detected
+2023-01-01 18:52:06,972 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:06,972 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 18:52:06,972 DEBUG 259
+2023-01-01 18:52:06,972 DEBUG new locations - y: 0 x: 0
+2023-01-01 18:52:10,259 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:10,259 DEBUG 258
+2023-01-01 18:52:13,093 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:13,093 DEBUG 258
+2023-01-01 18:52:13,551 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:13,551 DEBUG 258
+2023-01-01 18:52:13,762 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:13,762 DEBUG 258
+2023-01-01 18:52:13,985 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:13,985 DEBUG 258
+2023-01-01 18:52:14,323 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:14,323 DEBUG 258
+2023-01-01 18:52:14,492 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:14,492 DEBUG 258
+2023-01-01 18:52:14,903 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:14,903 DEBUG 258
+2023-01-01 18:52:15,090 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:15,090 DEBUG 258
+2023-01-01 18:52:15,264 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:15,264 DEBUG 258
+2023-01-01 18:52:15,461 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:15,461 DEBUG 258
+2023-01-01 18:52:41,645 INFO begin
+2023-01-01 18:52:42,553 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:52:42,553 DEBUG h
+2023-01-01 18:52:42,553 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:52:42,648 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:52:42,648 DEBUG e
+2023-01-01 18:52:42,648 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:52:42,780 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:52:42,780 DEBUG l
+2023-01-01 18:52:42,780 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:52:42,953 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:52:42,953 DEBUG l
+2023-01-01 18:52:42,953 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:52:43,135 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:52:43,135 DEBUG o
+2023-01-01 18:52:43,135 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:52:43,298 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:52:43,298 DEBUG  
+2023-01-01 18:52:43,298 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:52:43,558 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:52:43,558 DEBUG w
+2023-01-01 18:52:43,558 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:52:43,660 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:52:43,660 DEBUG o
+2023-01-01 18:52:43,660 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:52:43,720 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:52:43,720 DEBUG r
+2023-01-01 18:52:43,720 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:52:43,860 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:52:43,860 DEBUG l
+2023-01-01 18:52:43,860 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:52:43,949 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:52:43,949 DEBUG d
+2023-01-01 18:52:43,949 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:52:44,157 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:52:44,157 DEBUG  
+2023-01-01 18:52:44,157 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:52:44,781 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:52:44,781 DEBUG 263
+2023-01-01 18:52:44,781 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:52:45,012 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:52:45,012 DEBUG 
+
+2023-01-01 18:52:45,012 DEBUG new line detected
+2023-01-01 18:52:45,012 DEBUG new locations - y: 1 x: 0
+2023-01-01 18:52:45,509 DEBUG multiple lines detected
+2023-01-01 18:52:45,509 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:45,509 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 18:52:45,509 DEBUG m
+2023-01-01 18:52:45,509 DEBUG new locations - y: 1 x: 1
+2023-01-01 18:52:45,760 DEBUG multiple lines detected
+2023-01-01 18:52:45,760 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:45,760 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 18:52:45,760 DEBUG y
+2023-01-01 18:52:45,760 DEBUG new locations - y: 1 x: 2
+2023-01-01 18:52:45,987 DEBUG multiple lines detected
+2023-01-01 18:52:45,987 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:45,987 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 18:52:45,987 DEBUG  
+2023-01-01 18:52:45,987 DEBUG new locations - y: 1 x: 3
+2023-01-01 18:52:46,304 DEBUG multiple lines detected
+2023-01-01 18:52:46,304 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:46,304 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 18:52:46,304 DEBUG a
+2023-01-01 18:52:46,304 DEBUG new locations - y: 1 x: 4
+2023-01-01 18:52:46,330 DEBUG multiple lines detected
+2023-01-01 18:52:46,330 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:46,330 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 18:52:46,330 DEBUG n
+2023-01-01 18:52:46,330 DEBUG new locations - y: 1 x: 5
+2023-01-01 18:52:46,877 DEBUG multiple lines detected
+2023-01-01 18:52:46,877 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:46,877 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 18:52:46,877 DEBUG 263
+2023-01-01 18:52:46,877 DEBUG new locations - y: 1 x: 4
+2023-01-01 18:52:47,065 DEBUG multiple lines detected
+2023-01-01 18:52:47,066 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,066 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 18:52:47,066 DEBUG 263
+2023-01-01 18:52:47,066 DEBUG new locations - y: 1 x: 3
+2023-01-01 18:52:47,194 DEBUG multiple lines detected
+2023-01-01 18:52:47,194 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,194 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 18:52:47,194 DEBUG n
+2023-01-01 18:52:47,194 DEBUG new locations - y: 1 x: 4
+2023-01-01 18:52:47,263 DEBUG multiple lines detected
+2023-01-01 18:52:47,263 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,263 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 18:52:47,263 DEBUG a
+2023-01-01 18:52:47,263 DEBUG new locations - y: 1 x: 5
+2023-01-01 18:52:47,419 DEBUG multiple lines detected
+2023-01-01 18:52:47,419 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,419 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 18:52:47,419 DEBUG m
+2023-01-01 18:52:47,419 DEBUG new locations - y: 1 x: 6
+2023-01-01 18:52:47,517 DEBUG multiple lines detected
+2023-01-01 18:52:47,517 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,517 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 18:52:47,517 DEBUG e
+2023-01-01 18:52:47,517 DEBUG new locations - y: 1 x: 7
+2023-01-01 18:52:47,646 DEBUG multiple lines detected
+2023-01-01 18:52:47,646 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,646 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 18:52:47,646 DEBUG  
+2023-01-01 18:52:47,646 DEBUG new locations - y: 1 x: 8
+2023-01-01 18:52:47,782 DEBUG multiple lines detected
+2023-01-01 18:52:47,782 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,782 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 18:52:47,783 DEBUG i
+2023-01-01 18:52:47,783 DEBUG new locations - y: 1 x: 9
+2023-01-01 18:52:47,880 DEBUG multiple lines detected
+2023-01-01 18:52:47,880 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,880 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 18:52:47,880 DEBUG s
+2023-01-01 18:52:47,880 DEBUG new locations - y: 1 x: 10
+2023-01-01 18:52:47,943 DEBUG multiple lines detected
+2023-01-01 18:52:47,943 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:47,943 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 18:52:47,943 DEBUG  
+2023-01-01 18:52:47,943 DEBUG new locations - y: 1 x: 11
+2023-01-01 18:52:48,075 DEBUG multiple lines detected
+2023-01-01 18:52:48,075 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:48,075 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 18:52:48,075 DEBUG a
+2023-01-01 18:52:48,075 DEBUG new locations - y: 1 x: 12
+2023-01-01 18:52:48,275 DEBUG multiple lines detected
+2023-01-01 18:52:48,275 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:48,275 DEBUG current cursor position - y: 1 x: 12
+2023-01-01 18:52:48,275 DEBUG s
+2023-01-01 18:52:48,275 DEBUG new locations - y: 1 x: 13
+2023-01-01 18:52:48,379 DEBUG multiple lines detected
+2023-01-01 18:52:48,379 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:48,379 DEBUG current cursor position - y: 1 x: 13
+2023-01-01 18:52:48,379 DEBUG h
+2023-01-01 18:52:48,379 DEBUG new locations - y: 1 x: 14
+2023-01-01 18:52:48,956 DEBUG multiple lines detected
+2023-01-01 18:52:48,956 DEBUG len line length: 1 y: 1
+2023-01-01 18:52:48,956 DEBUG current cursor position - y: 1 x: 14
+2023-01-01 18:52:48,956 DEBUG 
+
+2023-01-01 18:52:48,956 DEBUG new line detected
+2023-01-01 18:52:48,956 DEBUG new locations - y: 2 x: 0
+2023-01-01 18:52:49,649 DEBUG multiple lines detected
+2023-01-01 18:52:49,649 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:49,649 DEBUG current cursor position - y: 2 x: 0
+2023-01-01 18:52:49,649 DEBUG w
+2023-01-01 18:52:49,649 DEBUG new locations - y: 2 x: 1
+2023-01-01 18:52:49,752 DEBUG multiple lines detected
+2023-01-01 18:52:49,753 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:49,753 DEBUG current cursor position - y: 2 x: 1
+2023-01-01 18:52:49,753 DEBUG h
+2023-01-01 18:52:49,753 DEBUG new locations - y: 2 x: 2
+2023-01-01 18:52:49,811 DEBUG multiple lines detected
+2023-01-01 18:52:49,811 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:49,811 DEBUG current cursor position - y: 2 x: 2
+2023-01-01 18:52:49,811 DEBUG a
+2023-01-01 18:52:49,811 DEBUG new locations - y: 2 x: 3
+2023-01-01 18:52:49,908 DEBUG multiple lines detected
+2023-01-01 18:52:49,909 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:49,909 DEBUG current cursor position - y: 2 x: 3
+2023-01-01 18:52:49,909 DEBUG t
+2023-01-01 18:52:49,909 DEBUG new locations - y: 2 x: 4
+2023-01-01 18:52:49,963 DEBUG multiple lines detected
+2023-01-01 18:52:49,963 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:49,963 DEBUG current cursor position - y: 2 x: 4
+2023-01-01 18:52:49,963 DEBUG  
+2023-01-01 18:52:49,963 DEBUG new locations - y: 2 x: 5
+2023-01-01 18:52:51,205 DEBUG multiple lines detected
+2023-01-01 18:52:51,205 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:51,205 DEBUG current cursor position - y: 2 x: 5
+2023-01-01 18:52:51,205 DEBUG i
+2023-01-01 18:52:51,205 DEBUG new locations - y: 2 x: 6
+2023-01-01 18:52:51,284 DEBUG multiple lines detected
+2023-01-01 18:52:51,285 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:51,285 DEBUG current cursor position - y: 2 x: 6
+2023-01-01 18:52:51,285 DEBUG s
+2023-01-01 18:52:51,285 DEBUG new locations - y: 2 x: 7
+2023-01-01 18:52:51,354 DEBUG multiple lines detected
+2023-01-01 18:52:51,355 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:51,355 DEBUG current cursor position - y: 2 x: 7
+2023-01-01 18:52:51,355 DEBUG  
+2023-01-01 18:52:51,355 DEBUG new locations - y: 2 x: 8
+2023-01-01 18:52:51,831 DEBUG multiple lines detected
+2023-01-01 18:52:51,832 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:51,832 DEBUG current cursor position - y: 2 x: 8
+2023-01-01 18:52:51,832 DEBUG y
+2023-01-01 18:52:51,832 DEBUG new locations - y: 2 x: 9
+2023-01-01 18:52:51,959 DEBUG multiple lines detected
+2023-01-01 18:52:51,959 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:51,959 DEBUG current cursor position - y: 2 x: 9
+2023-01-01 18:52:51,959 DEBUG o
+2023-01-01 18:52:51,959 DEBUG new locations - y: 2 x: 10
+2023-01-01 18:52:52,080 DEBUG multiple lines detected
+2023-01-01 18:52:52,081 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,081 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 18:52:52,081 DEBUG u
+2023-01-01 18:52:52,081 DEBUG new locations - y: 2 x: 11
+2023-01-01 18:52:52,164 DEBUG multiple lines detected
+2023-01-01 18:52:52,164 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,164 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 18:52:52,164 DEBUG r
+2023-01-01 18:52:52,164 DEBUG new locations - y: 2 x: 12
+2023-01-01 18:52:52,261 DEBUG multiple lines detected
+2023-01-01 18:52:52,262 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,262 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 18:52:52,262 DEBUG  
+2023-01-01 18:52:52,262 DEBUG new locations - y: 2 x: 13
+2023-01-01 18:52:52,554 DEBUG multiple lines detected
+2023-01-01 18:52:52,554 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,554 DEBUG current cursor position - y: 2 x: 13
+2023-01-01 18:52:52,554 DEBUG n
+2023-01-01 18:52:52,554 DEBUG new locations - y: 2 x: 14
+2023-01-01 18:52:52,605 DEBUG multiple lines detected
+2023-01-01 18:52:52,605 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,605 DEBUG current cursor position - y: 2 x: 14
+2023-01-01 18:52:52,605 DEBUG a
+2023-01-01 18:52:52,605 DEBUG new locations - y: 2 x: 15
+2023-01-01 18:52:52,737 DEBUG multiple lines detected
+2023-01-01 18:52:52,737 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,737 DEBUG current cursor position - y: 2 x: 15
+2023-01-01 18:52:52,737 DEBUG m
+2023-01-01 18:52:52,737 DEBUG new locations - y: 2 x: 16
+2023-01-01 18:52:52,812 DEBUG multiple lines detected
+2023-01-01 18:52:52,812 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:52,812 DEBUG current cursor position - y: 2 x: 16
+2023-01-01 18:52:52,812 DEBUG e
+2023-01-01 18:52:52,813 DEBUG new locations - y: 2 x: 17
+2023-01-01 18:52:53,176 DEBUG multiple lines detected
+2023-01-01 18:52:53,176 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:53,176 DEBUG current cursor position - y: 2 x: 17
+2023-01-01 18:52:53,176 DEBUG ?
+2023-01-01 18:52:53,176 DEBUG new locations - y: 2 x: 18
+2023-01-01 18:52:53,734 DEBUG multiple lines detected
+2023-01-01 18:52:53,735 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:53,735 DEBUG current cursor position - y: 2 x: 18
+2023-01-01 18:52:53,735 DEBUG 259
+2023-01-01 18:52:53,735 DEBUG new locations - y: 1 x: 18
+2023-01-01 18:52:54,219 DEBUG multiple lines detected
+2023-01-01 18:52:54,219 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:54,219 DEBUG current cursor position - y: 1 x: 18
+2023-01-01 18:52:54,219 DEBUG 260
+2023-01-01 18:52:54,219 DEBUG new locations - y: 1 x: 17
+2023-01-01 18:52:54,385 DEBUG multiple lines detected
+2023-01-01 18:52:54,386 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:54,386 DEBUG current cursor position - y: 1 x: 17
+2023-01-01 18:52:54,386 DEBUG 260
+2023-01-01 18:52:54,386 DEBUG new locations - y: 1 x: 16
+2023-01-01 18:52:54,555 DEBUG multiple lines detected
+2023-01-01 18:52:54,555 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:54,555 DEBUG current cursor position - y: 1 x: 16
+2023-01-01 18:52:54,555 DEBUG 260
+2023-01-01 18:52:54,555 DEBUG new locations - y: 1 x: 15
+2023-01-01 18:52:54,724 DEBUG multiple lines detected
+2023-01-01 18:52:54,724 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:54,724 DEBUG current cursor position - y: 1 x: 15
+2023-01-01 18:52:54,724 DEBUG 260
+2023-01-01 18:52:54,724 DEBUG new locations - y: 1 x: 14
+2023-01-01 18:52:54,899 DEBUG multiple lines detected
+2023-01-01 18:52:54,899 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:54,899 DEBUG current cursor position - y: 1 x: 14
+2023-01-01 18:52:54,899 DEBUG 260
+2023-01-01 18:52:54,899 DEBUG new locations - y: 1 x: 13
+2023-01-01 18:52:55,538 DEBUG multiple lines detected
+2023-01-01 18:52:55,539 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:55,539 DEBUG current cursor position - y: 1 x: 13
+2023-01-01 18:52:55,539 DEBUG 261
+2023-01-01 18:52:55,539 DEBUG new locations - y: 1 x: 14
+2023-01-01 18:52:56,137 DEBUG multiple lines detected
+2023-01-01 18:52:56,138 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:56,138 DEBUG current cursor position - y: 1 x: 14
+2023-01-01 18:52:56,138 DEBUG l
+2023-01-01 18:52:56,138 DEBUG new locations - y: 1 x: 15
+2023-01-01 18:52:56,269 DEBUG multiple lines detected
+2023-01-01 18:52:56,269 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:56,269 DEBUG current cursor position - y: 1 x: 15
+2023-01-01 18:52:56,269 DEBUG e
+2023-01-01 18:52:56,269 DEBUG new locations - y: 1 x: 16
+2023-01-01 18:52:56,736 DEBUG multiple lines detected
+2023-01-01 18:52:56,737 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:56,737 DEBUG current cursor position - y: 1 x: 16
+2023-01-01 18:52:56,737 DEBUG y
+2023-01-01 18:52:56,737 DEBUG new locations - y: 1 x: 17
+2023-01-01 18:52:56,987 DEBUG multiple lines detected
+2023-01-01 18:52:56,987 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:56,987 DEBUG current cursor position - y: 1 x: 17
+2023-01-01 18:52:56,987 DEBUG  
+2023-01-01 18:52:56,987 DEBUG new locations - y: 1 x: 18
+2023-01-01 18:52:57,381 DEBUG multiple lines detected
+2023-01-01 18:52:57,381 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:57,381 DEBUG current cursor position - y: 1 x: 18
+2023-01-01 18:52:57,381 DEBUG n
+2023-01-01 18:52:57,381 DEBUG new locations - y: 1 x: 19
+2023-01-01 18:52:57,584 DEBUG multiple lines detected
+2023-01-01 18:52:57,584 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:57,584 DEBUG current cursor position - y: 1 x: 19
+2023-01-01 18:52:57,584 DEBUG e
+2023-01-01 18:52:57,584 DEBUG new locations - y: 1 x: 20
+2023-01-01 18:52:57,655 DEBUG multiple lines detected
+2023-01-01 18:52:57,655 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:57,655 DEBUG current cursor position - y: 1 x: 20
+2023-01-01 18:52:57,655 DEBUG w
+2023-01-01 18:52:57,655 DEBUG new locations - y: 1 x: 21
+2023-01-01 18:52:57,758 DEBUG multiple lines detected
+2023-01-01 18:52:57,758 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:57,758 DEBUG current cursor position - y: 1 x: 21
+2023-01-01 18:52:57,758 DEBUG m
+2023-01-01 18:52:57,758 DEBUG new locations - y: 1 x: 22
+2023-01-01 18:52:57,868 DEBUG multiple lines detected
+2023-01-01 18:52:57,868 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:57,868 DEBUG current cursor position - y: 1 x: 22
+2023-01-01 18:52:57,868 DEBUG a
+2023-01-01 18:52:57,869 DEBUG new locations - y: 1 x: 23
+2023-01-01 18:52:57,955 DEBUG multiple lines detected
+2023-01-01 18:52:57,956 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:57,956 DEBUG current cursor position - y: 1 x: 23
+2023-01-01 18:52:57,956 DEBUG n
+2023-01-01 18:52:57,956 DEBUG new locations - y: 1 x: 24
+2023-01-01 18:52:58,531 DEBUG multiple lines detected
+2023-01-01 18:52:58,531 DEBUG len line length: 2 y: 1
+2023-01-01 18:52:58,531 DEBUG current cursor position - y: 1 x: 24
+2023-01-01 18:52:58,532 DEBUG 258
+2023-01-01 18:52:58,532 DEBUG new locations - y: 2 x: 24
+2023-01-01 18:52:58,821 DEBUG multiple lines detected
+2023-01-01 18:52:58,821 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:58,821 DEBUG current cursor position - y: 2 x: 24
+2023-01-01 18:52:58,821 DEBUG 260
+2023-01-01 18:52:58,821 DEBUG new locations - y: 2 x: 23
+2023-01-01 18:52:59,014 DEBUG multiple lines detected
+2023-01-01 18:52:59,014 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:59,014 DEBUG current cursor position - y: 2 x: 23
+2023-01-01 18:52:59,014 DEBUG 260
+2023-01-01 18:52:59,014 DEBUG new locations - y: 2 x: 22
+2023-01-01 18:52:59,189 DEBUG multiple lines detected
+2023-01-01 18:52:59,189 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:59,189 DEBUG current cursor position - y: 2 x: 22
+2023-01-01 18:52:59,189 DEBUG 260
+2023-01-01 18:52:59,189 DEBUG new locations - y: 2 x: 21
+2023-01-01 18:52:59,377 DEBUG multiple lines detected
+2023-01-01 18:52:59,378 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:59,378 DEBUG current cursor position - y: 2 x: 21
+2023-01-01 18:52:59,378 DEBUG 260
+2023-01-01 18:52:59,378 DEBUG new locations - y: 2 x: 20
+2023-01-01 18:52:59,569 DEBUG multiple lines detected
+2023-01-01 18:52:59,569 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:59,569 DEBUG current cursor position - y: 2 x: 20
+2023-01-01 18:52:59,569 DEBUG 260
+2023-01-01 18:52:59,569 DEBUG new locations - y: 2 x: 19
+2023-01-01 18:52:59,756 DEBUG multiple lines detected
+2023-01-01 18:52:59,757 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:59,757 DEBUG current cursor position - y: 2 x: 19
+2023-01-01 18:52:59,757 DEBUG 260
+2023-01-01 18:52:59,757 DEBUG new locations - y: 2 x: 18
+2023-01-01 18:52:59,949 DEBUG multiple lines detected
+2023-01-01 18:52:59,949 DEBUG len line length: 2 y: 2
+2023-01-01 18:52:59,949 DEBUG current cursor position - y: 2 x: 18
+2023-01-01 18:52:59,949 DEBUG 260
+2023-01-01 18:52:59,950 DEBUG new locations - y: 2 x: 17
+2023-01-01 18:53:00,127 DEBUG multiple lines detected
+2023-01-01 18:53:00,127 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:00,127 DEBUG current cursor position - y: 2 x: 17
+2023-01-01 18:53:00,127 DEBUG 260
+2023-01-01 18:53:00,127 DEBUG new locations - y: 2 x: 16
+2023-01-01 18:53:00,336 DEBUG multiple lines detected
+2023-01-01 18:53:00,336 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:00,336 DEBUG current cursor position - y: 2 x: 16
+2023-01-01 18:53:00,336 DEBUG 260
+2023-01-01 18:53:00,336 DEBUG new locations - y: 2 x: 15
+2023-01-01 18:53:00,514 DEBUG multiple lines detected
+2023-01-01 18:53:00,514 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:00,514 DEBUG current cursor position - y: 2 x: 15
+2023-01-01 18:53:00,514 DEBUG 260
+2023-01-01 18:53:00,514 DEBUG new locations - y: 2 x: 14
+2023-01-01 18:53:01,018 DEBUG multiple lines detected
+2023-01-01 18:53:01,018 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:01,018 DEBUG current cursor position - y: 2 x: 14
+2023-01-01 18:53:01,018 DEBUG 260
+2023-01-01 18:53:01,018 DEBUG new locations - y: 2 x: 13
+2023-01-01 18:53:01,053 DEBUG multiple lines detected
+2023-01-01 18:53:01,054 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:01,054 DEBUG current cursor position - y: 2 x: 13
+2023-01-01 18:53:01,054 DEBUG 260
+2023-01-01 18:53:01,054 DEBUG new locations - y: 2 x: 12
+2023-01-01 18:53:01,074 DEBUG multiple lines detected
+2023-01-01 18:53:01,075 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:01,075 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 18:53:01,075 DEBUG 260
+2023-01-01 18:53:01,075 DEBUG new locations - y: 2 x: 11
+2023-01-01 18:53:01,104 DEBUG multiple lines detected
+2023-01-01 18:53:01,105 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:01,105 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 18:53:01,105 DEBUG 260
+2023-01-01 18:53:01,105 DEBUG new locations - y: 2 x: 10
+2023-01-01 18:53:01,214 DEBUG multiple lines detected
+2023-01-01 18:53:01,214 DEBUG len line length: 2 y: 2
+2023-01-01 18:53:01,214 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 18:53:01,214 DEBUG 259
+2023-01-01 18:53:01,214 DEBUG new locations - y: 1 x: 10
+2023-01-01 18:53:01,398 DEBUG multiple lines detected
+2023-01-01 18:53:01,398 DEBUG len line length: 2 y: 1
+2023-01-01 18:53:01,398 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 18:53:01,398 DEBUG 259
+2023-01-01 18:53:01,398 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:53:01,572 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:53:01,572 DEBUG 259
+2023-01-01 18:53:01,573 DEBUG new locations - y: -1 x: 10
+2023-01-01 18:53:48,661 INFO begin
+2023-01-01 18:53:53,094 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:53:53,094 DEBUG 
+2023-01-01 18:53:53,095 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:54:02,747 INFO begin
+2023-01-01 18:54:07,286 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:54:07,286 DEBUG 
+2023-01-01 18:54:07,286 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:54:12,575 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:54:12,575 DEBUG 258
+2023-01-01 18:54:12,575 DEBUG new locations - y: 1 x: 1
+2023-01-01 18:54:13,055 DEBUG multiple lines detected
+2023-01-01 18:54:13,056 DEBUG len line length: 0 y: 1
+2023-01-01 18:54:13,056 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 18:54:13,056 DEBUG 258
+2023-01-01 18:54:13,056 DEBUG new locations - y: 2 x: 1
+2023-01-01 18:54:13,274 DEBUG multiple lines detected
+2023-01-01 18:54:13,274 DEBUG len line length: 0 y: 2
+2023-01-01 18:54:13,275 DEBUG current cursor position - y: 2 x: 1
+2023-01-01 18:54:13,275 DEBUG 258
+2023-01-01 18:54:13,275 DEBUG new locations - y: 3 x: 1
+2023-01-01 18:54:13,471 DEBUG multiple lines detected
+2023-01-01 18:54:13,471 DEBUG len line length: 0 y: 3
+2023-01-01 18:54:13,471 DEBUG current cursor position - y: 3 x: 1
+2023-01-01 18:54:13,471 DEBUG 258
+2023-01-01 18:54:13,471 DEBUG new locations - y: 4 x: 1
+2023-01-01 18:54:13,988 DEBUG multiple lines detected
+2023-01-01 18:54:13,988 DEBUG len line length: 0 y: 4
+2023-01-01 18:54:13,988 DEBUG current cursor position - y: 4 x: 1
+2023-01-01 18:54:13,988 DEBUG 
+2023-01-01 18:54:13,988 DEBUG new locations - y: 4 x: 2
+2023-01-01 18:54:16,327 DEBUG multiple lines detected
+2023-01-01 18:54:16,327 DEBUG len line length: 0 y: 4
+2023-01-01 18:54:16,327 DEBUG current cursor position - y: 4 x: 2
+2023-01-01 18:54:16,327 DEBUG 263
+2023-01-01 18:54:16,327 DEBUG new locations - y: 4 x: 1
+2023-01-01 18:54:16,558 DEBUG multiple lines detected
+2023-01-01 18:54:16,558 DEBUG len line length: 0 y: 4
+2023-01-01 18:54:16,558 DEBUG current cursor position - y: 4 x: 1
+2023-01-01 18:54:16,558 DEBUG 263
+2023-01-01 18:54:16,558 DEBUG new locations - y: 4 x: 0
+2023-01-01 18:54:16,734 DEBUG multiple lines detected
+2023-01-01 18:54:16,734 DEBUG len line length: 0 y: 4
+2023-01-01 18:54:16,734 DEBUG current cursor position - y: 4 x: 0
+2023-01-01 18:54:16,734 DEBUG 263
+2023-01-01 18:54:16,734 DEBUG new locations - y: 4 x: -1
+2023-01-01 18:54:17,882 INFO begin
+2023-01-01 18:54:19,138 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:54:19,138 DEBUG h
+2023-01-01 18:54:19,138 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:54:19,215 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:54:19,215 DEBUG e
+2023-01-01 18:54:19,215 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:54:19,373 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:54:19,373 DEBUG l
+2023-01-01 18:54:19,373 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:54:19,509 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:54:19,509 DEBUG l
+2023-01-01 18:54:19,509 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:54:19,708 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:54:19,708 DEBUG o
+2023-01-01 18:54:19,708 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:54:19,840 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:54:19,840 DEBUG  
+2023-01-01 18:54:19,840 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:54:20,019 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:54:20,019 DEBUG w
+2023-01-01 18:54:20,020 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:54:20,123 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:54:20,123 DEBUG o
+2023-01-01 18:54:20,123 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:54:20,179 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:54:20,179 DEBUG r
+2023-01-01 18:54:20,179 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:54:20,311 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:54:20,311 DEBUG l
+2023-01-01 18:54:20,311 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:54:20,408 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:54:20,408 DEBUG d
+2023-01-01 18:54:20,408 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:54:20,512 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:54:20,512 DEBUG  
+2023-01-01 18:54:20,512 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:54:26,863 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:54:26,863 DEBUG 
+2023-01-01 18:54:26,863 DEBUG new locations - y: 0 x: 13
+2023-01-01 18:54:54,514 INFO begin
+2023-01-01 18:54:55,543 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:54:55,543 DEBUG 
+2023-01-01 18:54:55,543 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:54:55,803 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:54:55,803 DEBUG 
+2023-01-01 18:54:55,803 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:54:56,632 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:54:56,632 DEBUG 
+2023-01-01 18:54:56,632 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:54:56,833 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:54:56,833 DEBUG 
+2023-01-01 18:54:56,833 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:54:58,441 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:54:58,441 DEBUG 
+2023-01-01 18:54:58,441 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:55:00,500 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:55:00,501 DEBUG s
+2023-01-01 18:55:00,501 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:55:26,383 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:55:26,383 DEBUG 
+2023-01-01 18:55:26,383 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:55:27,005 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:55:27,006 DEBUG 
+2023-01-01 18:55:27,006 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:55:27,190 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:55:27,190 DEBUG 
+2023-01-01 18:55:27,190 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:55:27,446 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:55:27,446 DEBUG 
+2023-01-01 18:55:27,447 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:55:27,810 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:55:27,810 DEBUG 
+2023-01-01 18:55:27,810 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:55:28,045 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:55:28,045 DEBUG 
+2023-01-01 18:55:28,045 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:55:28,302 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:55:28,302 DEBUG 
+2023-01-01 18:55:28,302 DEBUG new locations - y: 0 x: 13
+2023-01-01 18:55:28,509 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 18:55:28,509 DEBUG 
+2023-01-01 18:55:28,509 DEBUG new locations - y: 0 x: 14
+2023-01-01 18:55:28,749 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 18:55:28,749 DEBUG 
+2023-01-01 18:55:28,749 DEBUG new locations - y: 0 x: 15
+2023-01-01 18:55:29,001 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 18:55:29,001 DEBUG 
+2023-01-01 18:55:29,001 DEBUG new locations - y: 0 x: 16
+2023-01-01 18:55:29,237 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 18:55:29,237 DEBUG 
+2023-01-01 18:55:29,237 DEBUG new locations - y: 0 x: 17
+2023-01-01 18:55:30,332 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 18:55:30,332 DEBUG 
+2023-01-01 18:55:30,332 DEBUG new locations - y: 0 x: 18
+2023-01-01 18:55:30,551 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 18:55:30,551 DEBUG 
+2023-01-01 18:55:30,551 DEBUG new locations - y: 0 x: 19
+2023-01-01 18:55:30,739 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 18:55:30,739 DEBUG 
+2023-01-01 18:55:30,739 DEBUG new locations - y: 0 x: 20
+2023-01-01 18:55:33,443 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:55:33,443 DEBUG 
+2023-01-01 18:55:33,443 DEBUG new locations - y: 0 x: 21
+2023-01-01 18:55:34,194 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:55:34,195 DEBUG 
+2023-01-01 18:55:34,195 DEBUG new locations - y: 0 x: 22
+2023-01-01 18:55:34,652 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 18:55:34,652 DEBUG 
+2023-01-01 18:55:34,652 DEBUG new locations - y: 0 x: 23
+2023-01-01 18:55:35,126 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 18:55:35,126 DEBUG 
+2023-01-01 18:55:35,126 DEBUG new locations - y: 0 x: 24
+2023-01-01 18:55:35,665 DEBUG current cursor position - y: 0 x: 24
+2023-01-01 18:55:35,665 DEBUG 
+2023-01-01 18:55:35,665 DEBUG new locations - y: 0 x: 25
+2023-01-01 18:55:50,878 DEBUG current cursor position - y: 0 x: 25
+2023-01-01 18:55:50,878 DEBUG 
+2023-01-01 18:55:50,878 DEBUG new locations - y: 0 x: 26
+2023-01-01 18:55:52,225 DEBUG current cursor position - y: 0 x: 26
+2023-01-01 18:55:52,225 DEBUG 
+2023-01-01 18:55:52,225 DEBUG new locations - y: 0 x: 27
+2023-01-01 18:55:52,433 DEBUG current cursor position - y: 0 x: 27
+2023-01-01 18:55:52,433 DEBUG 
+2023-01-01 18:55:52,433 DEBUG new locations - y: 0 x: 28
+2023-01-01 18:55:52,634 DEBUG current cursor position - y: 0 x: 28
+2023-01-01 18:55:52,634 DEBUG 
+2023-01-01 18:55:52,634 DEBUG new locations - y: 0 x: 29
+2023-01-01 18:55:52,951 DEBUG current cursor position - y: 0 x: 29
+2023-01-01 18:55:52,951 DEBUG 
+2023-01-01 18:55:52,951 DEBUG new locations - y: 0 x: 30
+2023-01-01 18:55:53,152 DEBUG current cursor position - y: 0 x: 30
+2023-01-01 18:55:53,152 DEBUG 
+2023-01-01 18:55:53,152 DEBUG new locations - y: 0 x: 31
+2023-01-01 18:56:06,359 DEBUG current cursor position - y: 0 x: 31
+2023-01-01 18:56:06,359 DEBUG 
+2023-01-01 18:56:06,359 DEBUG new locations - y: 0 x: 32
+2023-01-01 18:56:06,580 DEBUG current cursor position - y: 0 x: 32
+2023-01-01 18:56:06,580 DEBUG 
+2023-01-01 18:56:06,580 DEBUG new locations - y: 0 x: 33
+2023-01-01 18:56:06,761 DEBUG current cursor position - y: 0 x: 33
+2023-01-01 18:56:06,761 DEBUG 
+2023-01-01 18:56:06,761 DEBUG new locations - y: 0 x: 34
+2023-01-01 18:56:09,956 DEBUG current cursor position - y: 0 x: 34
+2023-01-01 18:56:09,956 DEBUG 263
+2023-01-01 18:56:09,956 DEBUG new locations - y: 0 x: 33
+2023-01-01 18:56:10,457 DEBUG current cursor position - y: 0 x: 33
+2023-01-01 18:56:10,458 DEBUG 263
+2023-01-01 18:56:10,458 DEBUG new locations - y: 0 x: 32
+2023-01-01 18:56:10,486 DEBUG current cursor position - y: 0 x: 32
+2023-01-01 18:56:10,486 DEBUG 263
+2023-01-01 18:56:10,486 DEBUG new locations - y: 0 x: 31
+2023-01-01 18:56:10,520 DEBUG current cursor position - y: 0 x: 31
+2023-01-01 18:56:10,520 DEBUG 263
+2023-01-01 18:56:10,521 DEBUG new locations - y: 0 x: 30
+2023-01-01 18:56:10,547 DEBUG current cursor position - y: 0 x: 30
+2023-01-01 18:56:10,548 DEBUG 263
+2023-01-01 18:56:10,548 DEBUG new locations - y: 0 x: 29
+2023-01-01 18:56:10,579 DEBUG current cursor position - y: 0 x: 29
+2023-01-01 18:56:10,580 DEBUG 263
+2023-01-01 18:56:10,580 DEBUG new locations - y: 0 x: 28
+2023-01-01 18:56:10,612 DEBUG current cursor position - y: 0 x: 28
+2023-01-01 18:56:10,612 DEBUG 263
+2023-01-01 18:56:10,612 DEBUG new locations - y: 0 x: 27
+2023-01-01 18:56:10,636 DEBUG current cursor position - y: 0 x: 27
+2023-01-01 18:56:10,637 DEBUG 263
+2023-01-01 18:56:10,637 DEBUG new locations - y: 0 x: 26
+2023-01-01 18:56:10,666 DEBUG current cursor position - y: 0 x: 26
+2023-01-01 18:56:10,666 DEBUG 263
+2023-01-01 18:56:10,666 DEBUG new locations - y: 0 x: 25
+2023-01-01 18:56:10,697 DEBUG current cursor position - y: 0 x: 25
+2023-01-01 18:56:10,697 DEBUG 263
+2023-01-01 18:56:10,697 DEBUG new locations - y: 0 x: 24
+2023-01-01 18:56:10,727 DEBUG current cursor position - y: 0 x: 24
+2023-01-01 18:56:10,727 DEBUG 263
+2023-01-01 18:56:10,727 DEBUG new locations - y: 0 x: 23
+2023-01-01 18:56:10,759 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 18:56:10,759 DEBUG 263
+2023-01-01 18:56:10,759 DEBUG new locations - y: 0 x: 22
+2023-01-01 18:56:10,789 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 18:56:10,789 DEBUG 263
+2023-01-01 18:56:10,789 DEBUG new locations - y: 0 x: 21
+2023-01-01 18:56:10,822 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:56:10,822 DEBUG 263
+2023-01-01 18:56:10,822 DEBUG new locations - y: 0 x: 20
+2023-01-01 18:56:10,847 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:56:10,847 DEBUG 263
+2023-01-01 18:56:10,847 DEBUG new locations - y: 0 x: 19
+2023-01-01 18:56:10,876 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 18:56:10,876 DEBUG 263
+2023-01-01 18:56:10,877 DEBUG new locations - y: 0 x: 18
+2023-01-01 18:56:10,907 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 18:56:10,907 DEBUG 263
+2023-01-01 18:56:10,907 DEBUG new locations - y: 0 x: 17
+2023-01-01 18:56:10,945 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 18:56:10,946 DEBUG 263
+2023-01-01 18:56:10,946 DEBUG new locations - y: 0 x: 16
+2023-01-01 18:56:10,969 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 18:56:10,970 DEBUG 263
+2023-01-01 18:56:10,970 DEBUG new locations - y: 0 x: 15
+2023-01-01 18:56:10,999 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 18:56:10,999 DEBUG 263
+2023-01-01 18:56:10,999 DEBUG new locations - y: 0 x: 14
+2023-01-01 18:56:11,027 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 18:56:11,027 DEBUG 263
+2023-01-01 18:56:11,027 DEBUG new locations - y: 0 x: 13
+2023-01-01 18:56:11,915 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 18:56:11,915 DEBUG 261
+2023-01-01 18:56:11,915 DEBUG new locations - y: 0 x: 14
+2023-01-01 18:56:12,415 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 18:56:12,415 DEBUG 261
+2023-01-01 18:56:12,415 DEBUG new locations - y: 0 x: 15
+2023-01-01 18:56:12,447 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 18:56:12,447 DEBUG 261
+2023-01-01 18:56:12,447 DEBUG new locations - y: 0 x: 16
+2023-01-01 18:56:12,477 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 18:56:12,477 DEBUG 261
+2023-01-01 18:56:12,477 DEBUG new locations - y: 0 x: 17
+2023-01-01 18:56:12,505 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 18:56:12,505 DEBUG 261
+2023-01-01 18:56:12,505 DEBUG new locations - y: 0 x: 18
+2023-01-01 18:56:12,534 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 18:56:12,535 DEBUG 261
+2023-01-01 18:56:12,535 DEBUG new locations - y: 0 x: 19
+2023-01-01 18:56:12,566 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 18:56:12,566 DEBUG 261
+2023-01-01 18:56:12,566 DEBUG new locations - y: 0 x: 20
+2023-01-01 18:56:12,595 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:56:12,595 DEBUG 261
+2023-01-01 18:56:12,595 DEBUG new locations - y: 0 x: 21
+2023-01-01 18:56:12,626 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:56:12,626 DEBUG 261
+2023-01-01 18:56:12,626 DEBUG new locations - y: 0 x: 22
+2023-01-01 18:56:12,656 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 18:56:12,656 DEBUG 261
+2023-01-01 18:56:12,656 DEBUG new locations - y: 0 x: 23
+2023-01-01 18:56:12,686 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 18:56:12,686 DEBUG 261
+2023-01-01 18:56:12,686 DEBUG new locations - y: 0 x: 24
+2023-01-01 18:56:12,716 DEBUG current cursor position - y: 0 x: 24
+2023-01-01 18:56:12,716 DEBUG 261
+2023-01-01 18:56:12,716 DEBUG new locations - y: 0 x: 25
+2023-01-01 18:56:12,745 DEBUG current cursor position - y: 0 x: 25
+2023-01-01 18:56:12,746 DEBUG 261
+2023-01-01 18:56:12,746 DEBUG new locations - y: 0 x: 26
+2023-01-01 18:56:12,774 DEBUG current cursor position - y: 0 x: 26
+2023-01-01 18:56:12,774 DEBUG 261
+2023-01-01 18:56:12,774 DEBUG new locations - y: 0 x: 27
+2023-01-01 18:56:12,805 DEBUG current cursor position - y: 0 x: 27
+2023-01-01 18:56:12,805 DEBUG 261
+2023-01-01 18:56:12,805 DEBUG new locations - y: 0 x: 28
+2023-01-01 18:56:12,835 DEBUG current cursor position - y: 0 x: 28
+2023-01-01 18:56:12,835 DEBUG 261
+2023-01-01 18:56:12,835 DEBUG new locations - y: 0 x: 29
+2023-01-01 18:56:12,870 DEBUG current cursor position - y: 0 x: 29
+2023-01-01 18:56:12,870 DEBUG 261
+2023-01-01 18:56:12,870 DEBUG new locations - y: 0 x: 30
+2023-01-01 18:56:13,282 DEBUG current cursor position - y: 0 x: 30
+2023-01-01 18:56:13,282 DEBUG 263
+2023-01-01 18:56:13,282 DEBUG new locations - y: 0 x: 29
+2023-01-01 18:56:13,787 DEBUG current cursor position - y: 0 x: 29
+2023-01-01 18:56:13,787 DEBUG 263
+2023-01-01 18:56:13,787 DEBUG new locations - y: 0 x: 28
+2023-01-01 18:56:13,812 DEBUG current cursor position - y: 0 x: 28
+2023-01-01 18:56:13,812 DEBUG 263
+2023-01-01 18:56:13,813 DEBUG new locations - y: 0 x: 27
+2023-01-01 18:56:13,843 DEBUG current cursor position - y: 0 x: 27
+2023-01-01 18:56:13,843 DEBUG 263
+2023-01-01 18:56:13,843 DEBUG new locations - y: 0 x: 26
+2023-01-01 18:56:13,873 DEBUG current cursor position - y: 0 x: 26
+2023-01-01 18:56:13,873 DEBUG 263
+2023-01-01 18:56:13,873 DEBUG new locations - y: 0 x: 25
+2023-01-01 18:56:13,903 DEBUG current cursor position - y: 0 x: 25
+2023-01-01 18:56:13,903 DEBUG 263
+2023-01-01 18:56:13,903 DEBUG new locations - y: 0 x: 24
+2023-01-01 18:56:13,932 DEBUG current cursor position - y: 0 x: 24
+2023-01-01 18:56:13,932 DEBUG 263
+2023-01-01 18:56:13,932 DEBUG new locations - y: 0 x: 23
+2023-01-01 18:56:13,962 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 18:56:13,963 DEBUG 263
+2023-01-01 18:56:13,963 DEBUG new locations - y: 0 x: 22
+2023-01-01 18:56:13,993 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 18:56:13,993 DEBUG 263
+2023-01-01 18:56:13,993 DEBUG new locations - y: 0 x: 21
+2023-01-01 18:56:14,023 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 18:56:14,023 DEBUG 263
+2023-01-01 18:56:14,023 DEBUG new locations - y: 0 x: 20
+2023-01-01 18:56:14,053 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 18:56:14,053 DEBUG 263
+2023-01-01 18:56:14,053 DEBUG new locations - y: 0 x: 19
+2023-01-01 18:56:14,087 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 18:56:14,087 DEBUG 263
+2023-01-01 18:56:14,087 DEBUG new locations - y: 0 x: 18
+2023-01-01 18:56:14,114 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 18:56:14,114 DEBUG 263
+2023-01-01 18:56:14,114 DEBUG new locations - y: 0 x: 17
+2023-01-01 18:56:14,142 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 18:56:14,142 DEBUG 263
+2023-01-01 18:56:14,142 DEBUG new locations - y: 0 x: 16
+2023-01-01 18:56:14,173 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 18:56:14,173 DEBUG 263
+2023-01-01 18:56:14,173 DEBUG new locations - y: 0 x: 15
+2023-01-01 18:56:14,202 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 18:56:14,202 DEBUG 263
+2023-01-01 18:56:14,203 DEBUG new locations - y: 0 x: 14
+2023-01-01 18:56:14,233 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 18:56:14,233 DEBUG 263
+2023-01-01 18:56:14,233 DEBUG new locations - y: 0 x: 13
+2023-01-01 18:56:14,264 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 18:56:14,264 DEBUG 263
+2023-01-01 18:56:14,264 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:56:14,293 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:56:14,293 DEBUG 263
+2023-01-01 18:56:14,293 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:56:14,323 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:56:14,323 DEBUG 263
+2023-01-01 18:56:14,323 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:56:14,355 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:56:14,355 DEBUG 263
+2023-01-01 18:56:14,355 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:56:14,384 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:56:14,384 DEBUG 263
+2023-01-01 18:56:14,384 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:56:14,414 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:56:14,414 DEBUG 263
+2023-01-01 18:56:14,414 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:56:14,442 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:56:14,442 DEBUG 263
+2023-01-01 18:56:14,442 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:56:14,474 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:56:14,474 DEBUG 263
+2023-01-01 18:56:14,474 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:56:14,503 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:56:14,503 DEBUG 263
+2023-01-01 18:56:14,503 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:56:14,532 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:56:14,532 DEBUG 263
+2023-01-01 18:56:14,532 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:56:14,563 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:56:14,563 DEBUG 263
+2023-01-01 18:56:14,563 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:56:14,929 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:56:14,929 DEBUG 261
+2023-01-01 18:56:14,930 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:56:15,432 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:56:15,432 DEBUG 261
+2023-01-01 18:56:15,432 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:56:15,635 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:56:15,635 DEBUG 263
+2023-01-01 18:56:15,635 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:56:15,989 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:56:15,989 DEBUG 263
+2023-01-01 18:56:15,989 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:56:16,157 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:56:16,158 DEBUG 263
+2023-01-01 18:56:16,158 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:56:16,361 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:56:16,361 DEBUG 263
+2023-01-01 18:56:16,361 DEBUG new locations - y: 0 x: 0
+2023-01-01 18:56:16,937 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:56:16,937 DEBUG 261
+2023-01-01 18:56:16,937 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:56:17,449 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:56:17,449 DEBUG 263
+2023-01-01 18:56:17,449 DEBUG new locations - y: 0 x: 0
+2023-01-01 18:56:20,164 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:56:20,164 DEBUG 
+2023-01-01 18:56:20,164 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:56:21,046 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:56:21,046 DEBUG 
+2023-01-01 18:56:21,046 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:56:21,207 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:56:21,207 DEBUG 
+2023-01-01 18:56:21,207 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:56:21,382 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:56:21,382 DEBUG 
+2023-01-01 18:56:21,382 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:56:21,786 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:56:21,786 DEBUG 
+2023-01-01 18:56:21,786 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:56:22,056 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:56:22,057 DEBUG 
+2023-01-01 18:56:22,057 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:56:35,446 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:56:35,446 DEBUG 261
+2023-01-01 18:56:35,446 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:56:35,655 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:56:35,655 DEBUG 261
+2023-01-01 18:56:35,655 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:56:35,827 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:56:35,827 DEBUG 261
+2023-01-01 18:56:35,827 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:56:35,992 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:56:35,992 DEBUG 261
+2023-01-01 18:56:35,992 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:56:36,155 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:56:36,155 DEBUG 261
+2023-01-01 18:56:36,155 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:56:36,289 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:56:36,289 DEBUG 261
+2023-01-01 18:56:36,289 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:56:36,498 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:56:36,498 DEBUG 263
+2023-01-01 18:56:36,498 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:56:36,709 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:56:36,709 DEBUG 263
+2023-01-01 18:56:36,709 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:56:36,884 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:56:36,884 DEBUG 263
+2023-01-01 18:56:36,884 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:56:37,384 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:56:37,384 DEBUG 263
+2023-01-01 18:56:37,384 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:56:37,415 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:56:37,415 DEBUG 263
+2023-01-01 18:56:37,415 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:56:37,445 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:56:37,445 DEBUG 263
+2023-01-01 18:56:37,446 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:56:37,475 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:56:37,475 DEBUG 263
+2023-01-01 18:56:37,475 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:56:37,508 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:56:37,508 DEBUG 263
+2023-01-01 18:56:37,508 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:56:37,535 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:56:37,535 DEBUG 263
+2023-01-01 18:56:37,535 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:56:37,567 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:56:37,567 DEBUG 263
+2023-01-01 18:56:37,567 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:56:37,599 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:56:37,599 DEBUG 263
+2023-01-01 18:56:37,599 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:56:37,632 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:56:37,632 DEBUG 263
+2023-01-01 18:56:37,632 DEBUG new locations - y: 0 x: 0
+2023-01-01 18:56:37,658 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:56:37,658 DEBUG 263
+2023-01-01 18:56:37,658 DEBUG new locations - y: 0 x: -1
+2023-01-01 18:56:38,832 INFO begin
+2023-01-01 18:56:40,901 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 18:56:40,901 DEBUG 
+2023-01-01 18:56:40,901 DEBUG new locations - y: 0 x: 1
+2023-01-01 18:57:00,119 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 18:57:00,119 DEBUG 
+2023-01-01 18:57:00,119 DEBUG new locations - y: 0 x: 2
+2023-01-01 18:57:00,860 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 18:57:00,860 DEBUG 
+2023-01-01 18:57:00,860 DEBUG new locations - y: 0 x: 3
+2023-01-01 18:57:01,154 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 18:57:01,154 DEBUG 
+2023-01-01 18:57:01,154 DEBUG new locations - y: 0 x: 4
+2023-01-01 18:57:01,387 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 18:57:01,387 DEBUG 
+2023-01-01 18:57:01,387 DEBUG new locations - y: 0 x: 5
+2023-01-01 18:57:01,748 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 18:57:01,748 DEBUG 
+2023-01-01 18:57:01,748 DEBUG new locations - y: 0 x: 6
+2023-01-01 18:57:02,059 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 18:57:02,059 DEBUG 
+2023-01-01 18:57:02,059 DEBUG new locations - y: 0 x: 7
+2023-01-01 18:57:02,266 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 18:57:02,266 DEBUG 
+2023-01-01 18:57:02,266 DEBUG new locations - y: 0 x: 8
+2023-01-01 18:57:02,494 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 18:57:02,494 DEBUG 
+2023-01-01 18:57:02,494 DEBUG new locations - y: 0 x: 9
+2023-01-01 18:57:02,713 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 18:57:02,714 DEBUG 
+2023-01-01 18:57:02,714 DEBUG new locations - y: 0 x: 10
+2023-01-01 18:57:03,038 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 18:57:03,038 DEBUG 
+2023-01-01 18:57:03,038 DEBUG new locations - y: 0 x: 11
+2023-01-01 18:57:03,390 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 18:57:03,390 DEBUG 
+2023-01-01 18:57:03,390 DEBUG new locations - y: 0 x: 12
+2023-01-01 18:57:04,912 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 18:57:04,912 DEBUG 
+2023-01-01 18:57:04,912 DEBUG new locations - y: 0 x: 13
+2023-01-01 18:57:05,138 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 18:57:05,138 DEBUG 
+2023-01-01 18:57:05,138 DEBUG new locations - y: 0 x: 14
+2023-01-01 18:57:05,335 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 18:57:05,335 DEBUG 
+2023-01-01 18:57:05,335 DEBUG new locations - y: 0 x: 15
+2023-01-01 18:57:05,532 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 18:57:05,532 DEBUG 
+2023-01-01 18:57:05,532 DEBUG new locations - y: 0 x: 16
+2023-01-01 18:57:05,733 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 18:57:05,734 DEBUG 
+2023-01-01 18:57:05,734 DEBUG new locations - y: 0 x: 17
+2023-01-01 18:57:05,942 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 18:57:05,942 DEBUG 
+2023-01-01 18:57:05,942 DEBUG new locations - y: 0 x: 18
+2023-01-01 18:57:06,134 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 18:57:06,134 DEBUG 
+2023-01-01 18:57:06,134 DEBUG new locations - y: 0 x: 19
+2023-01-01 18:57:06,310 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 18:57:06,310 DEBUG 
+2023-01-01 18:57:06,311 DEBUG new locations - y: 0 x: 20
+2023-01-01 19:04:33,895 INFO begin
+2023-01-01 19:04:35,695 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:06:20,529 INFO begin
+2023-01-01 19:06:20,529 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:06:20,529 DEBUG [' ']
+2023-01-01 19:06:20,529 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:06:20,949 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:06:20,949 DEBUG ['s']
+2023-01-01 19:06:20,949 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:06:22,426 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:06:22,426 DEBUG ['f']
+2023-01-01 19:06:22,426 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:06:24,921 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:06:26,190 INFO begin
+2023-01-01 19:06:29,433 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:06:29,433 DEBUG ['h']
+2023-01-01 19:06:29,433 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:06:35,273 INFO begin
+2023-01-01 19:06:35,843 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:06:35,843 DEBUG ['h']
+2023-01-01 19:06:35,843 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:06:35,972 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:06:35,973 DEBUG ['e']
+2023-01-01 19:06:35,973 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:06:36,136 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:06:36,136 DEBUG ['l']
+2023-01-01 19:06:36,136 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:06:36,315 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:06:36,315 DEBUG ['l']
+2023-01-01 19:06:36,315 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:06:36,501 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:06:36,501 DEBUG ['o']
+2023-01-01 19:06:36,501 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:06:36,737 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:06:36,737 DEBUG [' ']
+2023-01-01 19:06:36,737 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:06:37,128 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:06:37,128 DEBUG ['w']
+2023-01-01 19:06:37,128 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:06:37,300 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:06:37,300 DEBUG ['o']
+2023-01-01 19:06:37,300 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:06:37,379 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:06:37,379 DEBUG ['r']
+2023-01-01 19:06:37,379 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:06:37,517 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:06:37,517 DEBUG ['l']
+2023-01-01 19:06:37,517 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:06:37,619 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:06:37,619 DEBUG ['d']
+2023-01-01 19:06:37,619 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:06:37,787 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:06:37,787 DEBUG [' ']
+2023-01-01 19:06:37,787 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:06:38,949 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:08:16,313 INFO begin
+2023-01-01 19:08:18,604 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:08:18,604 DEBUG 261
+2023-01-01 19:08:18,604 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:08:19,328 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:08:19,328 DEBUG 261
+2023-01-01 19:08:19,328 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:08:19,691 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:08:19,691 DEBUG 261
+2023-01-01 19:08:19,691 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:08:19,925 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:08:19,925 DEBUG 261
+2023-01-01 19:08:19,926 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:08:20,214 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:08:20,214 DEBUG 260
+2023-01-01 19:08:20,215 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:08:20,419 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:08:20,419 DEBUG 260
+2023-01-01 19:08:20,419 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:08:20,601 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:08:20,601 DEBUG 260
+2023-01-01 19:08:20,601 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:08:21,089 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:08:21,089 DEBUG 260
+2023-01-01 19:08:21,089 DEBUG new locations - y: 0 x: 0
+2023-01-01 19:08:21,362 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:08:21,362 DEBUG 261
+2023-01-01 19:08:21,362 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:08:21,577 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:08:21,577 DEBUG 261
+2023-01-01 19:08:21,577 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:08:21,764 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:08:21,764 DEBUG 261
+2023-01-01 19:08:21,764 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:08:21,952 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:08:21,952 DEBUG 261
+2023-01-01 19:08:21,952 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:08:22,127 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:08:22,127 DEBUG 261
+2023-01-01 19:08:22,127 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:08:22,368 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:08:22,368 DEBUG 260
+2023-01-01 19:08:22,368 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:08:22,544 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:08:22,545 DEBUG 260
+2023-01-01 19:08:22,545 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:08:22,730 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:08:22,730 DEBUG 260
+2023-01-01 19:08:22,730 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:08:23,062 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:08:23,062 DEBUG 260
+2023-01-01 19:08:23,062 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:08:23,574 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:08:23,574 DEBUG 260
+2023-01-01 19:08:23,574 DEBUG new locations - y: 0 x: 0
+2023-01-01 19:08:24,557 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:08:24,557 DEBUG 261
+2023-01-01 19:08:24,557 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:08:24,756 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:08:24,756 DEBUG 261
+2023-01-01 19:08:24,756 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:08:24,949 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:08:24,949 DEBUG 261
+2023-01-01 19:08:24,949 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:08:25,322 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:08:25,322 DEBUG f
+2023-01-01 19:08:25,322 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:08:25,655 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:08:25,655 DEBUG s
+2023-01-01 19:08:25,655 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:08:25,727 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:08:25,727 DEBUG d
+2023-01-01 19:08:25,727 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:08:25,784 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:08:25,784 DEBUG k
+2023-01-01 19:08:25,784 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:08:25,864 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:08:25,864 DEBUG f
+2023-01-01 19:08:25,864 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:08:25,934 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:08:25,934 DEBUG j
+2023-01-01 19:08:25,934 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:08:25,992 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:08:25,992 DEBUG s
+2023-01-01 19:08:25,992 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:08:26,050 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:08:26,050 DEBUG d
+2023-01-01 19:08:26,050 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:08:26,095 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:08:26,095 DEBUG f
+2023-01-01 19:08:26,096 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:08:26,432 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:08:26,432 DEBUG 260
+2023-01-01 19:08:26,432 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:08:26,619 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:08:26,619 DEBUG 260
+2023-01-01 19:08:26,619 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:08:26,816 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:08:26,816 DEBUG 260
+2023-01-01 19:08:26,816 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:08:26,989 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:08:26,989 DEBUG 260
+2023-01-01 19:08:26,989 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:08:27,367 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:08:27,367 DEBUG 261
+2023-01-01 19:08:27,367 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:08:28,278 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:08:28,278 DEBUG a
+2023-01-01 19:08:28,278 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:08:28,337 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:08:28,337 DEBUG s
+2023-01-01 19:08:28,337 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:08:28,509 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:08:28,509 DEBUG d
+2023-01-01 19:08:28,509 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:08:28,591 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:08:28,591 DEBUG f
+2023-01-01 19:08:28,591 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:08:28,612 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:08:28,613 DEBUG k
+2023-01-01 19:08:28,613 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:08:28,769 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:08:28,769 DEBUG j
+2023-01-01 19:08:28,769 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:08:29,981 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:08:29,981 DEBUG 263
+2023-01-01 19:08:29,981 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:08:30,810 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:08:30,810 DEBUG 263
+2023-01-01 19:08:30,810 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:08:31,018 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:08:31,018 DEBUG 263
+2023-01-01 19:08:31,018 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:08:31,251 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:08:31,251 DEBUG 263
+2023-01-01 19:08:31,251 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:08:31,432 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:08:31,432 DEBUG 263
+2023-01-01 19:08:31,432 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:08:31,621 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:08:31,621 DEBUG 263
+2023-01-01 19:08:31,621 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:08:34,008 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:08:34,008 DEBUG 
+2023-01-01 19:08:34,008 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:08:36,125 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:08:36,125 DEBUG 
+2023-01-01 19:08:36,125 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:08:36,759 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:08:36,759 DEBUG 
+2023-01-01 19:08:36,759 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:08:37,245 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:08:37,246 DEBUG 
+2023-01-01 19:08:37,246 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:08:37,479 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:08:37,479 DEBUG 
+2023-01-01 19:08:37,479 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:08:37,669 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:08:37,670 DEBUG 
+2023-01-01 19:08:37,670 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:08:37,972 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:08:37,972 DEBUG 
+2023-01-01 19:08:37,972 DEBUG new locations - y: 0 x: 16
+2023-01-01 19:08:38,265 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 19:08:38,265 DEBUG 
+2023-01-01 19:08:38,265 DEBUG new locations - y: 0 x: 17
+2023-01-01 19:08:38,665 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 19:08:38,665 DEBUG 
+2023-01-01 19:08:38,665 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:08:38,836 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:08:38,836 DEBUG 
+2023-01-01 19:08:38,836 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:08:39,009 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 19:08:39,009 DEBUG 
+2023-01-01 19:08:39,009 DEBUG new locations - y: 0 x: 20
+2023-01-01 19:08:39,376 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 19:08:39,376 DEBUG 
+2023-01-01 19:08:39,376 DEBUG new locations - y: 0 x: 21
+2023-01-01 19:08:39,988 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 19:08:39,988 DEBUG 
+2023-01-01 19:08:39,988 DEBUG new locations - y: 0 x: 22
+2023-01-01 19:08:40,309 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 19:08:40,310 DEBUG 
+2023-01-01 19:08:40,310 DEBUG new locations - y: 0 x: 23
+2023-01-01 19:08:40,720 DEBUG current cursor position - y: 0 x: 23
+2023-01-01 19:08:40,720 DEBUG 
+2023-01-01 19:08:40,720 DEBUG new locations - y: 0 x: 24
+2023-01-01 19:12:47,766 INFO begin
+2023-01-01 19:12:48,928 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:12:48,928 DEBUG 97
+2023-01-01 19:13:21,173 INFO begin
+2023-01-01 19:13:22,151 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:13:22,151 DEBUG 261
+2023-01-01 19:13:22,151 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:13:22,344 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:13:22,344 DEBUG 261
+2023-01-01 19:13:22,344 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:13:22,513 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:13:22,513 DEBUG 261
+2023-01-01 19:13:22,513 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:13:22,681 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:13:22,682 DEBUG 261
+2023-01-01 19:13:22,682 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:13:22,850 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:13:22,850 DEBUG 261
+2023-01-01 19:13:22,850 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:13:23,025 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:13:23,025 DEBUG 261
+2023-01-01 19:13:23,025 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:13:23,195 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:13:23,196 DEBUG 261
+2023-01-01 19:13:23,196 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:13:23,883 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:13:23,883 DEBUG 260
+2023-01-01 19:13:23,883 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:13:24,051 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:13:24,051 DEBUG 260
+2023-01-01 19:13:24,051 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:13:24,250 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:13:24,250 DEBUG 260
+2023-01-01 19:13:24,250 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:13:24,515 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:13:24,515 DEBUG 261
+2023-01-01 19:13:24,515 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:13:24,685 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:13:24,685 DEBUG 261
+2023-01-01 19:13:24,685 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:13:28,847 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:13:28,847 DEBUG 9
+2023-01-01 19:14:04,281 INFO begin
+2023-01-01 19:14:04,921 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:14:04,921 DEBUG 104
+2023-01-01 19:14:04,921 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:14:05,407 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:14:05,407 DEBUG 101
+2023-01-01 19:14:05,407 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:14:05,608 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:14:05,608 DEBUG 108
+2023-01-01 19:14:05,608 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:14:05,789 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:14:05,789 DEBUG 108
+2023-01-01 19:14:05,789 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:14:06,003 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:14:06,003 DEBUG 111
+2023-01-01 19:14:06,003 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:14:06,185 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:14:06,185 DEBUG 32
+2023-01-01 19:14:06,185 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:14:06,427 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:14:06,427 DEBUG 119
+2023-01-01 19:14:06,427 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:14:06,521 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:14:06,521 DEBUG 111
+2023-01-01 19:14:06,521 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:14:06,593 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:14:06,593 DEBUG 114
+2023-01-01 19:14:06,593 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:14:06,705 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:14:06,705 DEBUG 108
+2023-01-01 19:14:06,705 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:14:06,790 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:14:06,790 DEBUG 100
+2023-01-01 19:14:06,790 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:14:07,189 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:14:07,190 DEBUG 260
+2023-01-01 19:14:07,190 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:14:07,431 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:14:07,431 DEBUG 260
+2023-01-01 19:14:07,431 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:14:07,605 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:14:07,605 DEBUG 260
+2023-01-01 19:14:07,605 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:14:07,787 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:14:07,787 DEBUG 260
+2023-01-01 19:14:07,787 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:14:07,986 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:14:07,986 DEBUG 261
+2023-01-01 19:14:07,986 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:14:08,179 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:14:08,179 DEBUG 261
+2023-01-01 19:14:08,179 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:14:08,366 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:14:08,366 DEBUG 261
+2023-01-01 19:14:08,366 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:14:08,536 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:14:08,536 DEBUG 261
+2023-01-01 19:14:08,536 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:14:09,031 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:14:09,031 DEBUG 10
+2023-01-01 19:14:09,031 DEBUG new line detected
+2023-01-01 19:14:09,031 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:14:09,523 DEBUG multiple lines detected
+2023-01-01 19:14:09,524 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:09,524 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:14:09,524 DEBUG 119
+2023-01-01 19:14:09,524 DEBUG new locations - y: 1 x: 1
+2023-01-01 19:14:09,655 DEBUG multiple lines detected
+2023-01-01 19:14:09,655 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:09,655 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 19:14:09,655 DEBUG 104
+2023-01-01 19:14:09,655 DEBUG new locations - y: 1 x: 2
+2023-01-01 19:14:09,738 DEBUG multiple lines detected
+2023-01-01 19:14:09,738 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:09,738 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 19:14:09,738 DEBUG 97
+2023-01-01 19:14:09,738 DEBUG new locations - y: 1 x: 3
+2023-01-01 19:14:09,861 DEBUG multiple lines detected
+2023-01-01 19:14:09,861 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:09,861 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 19:14:09,861 DEBUG 116
+2023-01-01 19:14:09,861 DEBUG new locations - y: 1 x: 4
+2023-01-01 19:14:09,939 DEBUG multiple lines detected
+2023-01-01 19:14:09,939 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:09,939 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 19:14:09,939 DEBUG 32
+2023-01-01 19:14:09,939 DEBUG new locations - y: 1 x: 5
+2023-01-01 19:14:10,425 DEBUG multiple lines detected
+2023-01-01 19:14:10,425 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:10,425 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 19:14:10,425 DEBUG 105
+2023-01-01 19:14:10,425 DEBUG new locations - y: 1 x: 6
+2023-01-01 19:14:10,477 DEBUG multiple lines detected
+2023-01-01 19:14:10,478 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:10,478 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 19:14:10,478 DEBUG 115
+2023-01-01 19:14:10,478 DEBUG new locations - y: 1 x: 7
+2023-01-01 19:14:10,563 DEBUG multiple lines detected
+2023-01-01 19:14:10,563 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:10,563 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 19:14:10,563 DEBUG 32
+2023-01-01 19:14:10,563 DEBUG new locations - y: 1 x: 8
+2023-01-01 19:14:10,795 DEBUG multiple lines detected
+2023-01-01 19:14:10,795 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:10,795 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 19:14:10,795 DEBUG 117
+2023-01-01 19:14:10,795 DEBUG new locations - y: 1 x: 9
+2023-01-01 19:14:10,950 DEBUG multiple lines detected
+2023-01-01 19:14:10,950 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:10,950 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 19:14:10,950 DEBUG 112
+2023-01-01 19:14:10,950 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:14:15,535 DEBUG multiple lines detected
+2023-01-01 19:14:15,535 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:15,535 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:14:15,535 DEBUG 102
+2023-01-01 19:14:15,535 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:14:16,161 DEBUG multiple lines detected
+2023-01-01 19:14:16,161 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:16,161 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 19:14:16,161 DEBUG 6
+2023-01-01 19:14:16,161 DEBUG new locations - y: 1 x: 12
+2023-01-01 19:14:18,614 DEBUG multiple lines detected
+2023-01-01 19:14:18,614 DEBUG len line length: 1 y: 1
+2023-01-01 19:14:18,614 DEBUG current cursor position - y: 1 x: 12
+2023-01-01 19:14:18,614 DEBUG 106
+2023-01-01 19:14:18,614 DEBUG new locations - y: 1 x: 13
+2023-01-01 19:15:31,660 INFO begin
+2023-01-01 19:15:34,654 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:15:34,654 DEBUG 102
+2023-01-01 19:15:34,654 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:16:25,924 INFO begin
+2023-01-01 19:16:26,783 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:16:26,783 DEBUG 6
+2023-01-01 19:16:26,783 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:16:27,688 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:16:27,688 DEBUG 104
+2023-01-01 19:16:27,688 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:16:28,103 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:16:28,103 DEBUG 101
+2023-01-01 19:16:28,103 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:16:28,234 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:16:28,234 DEBUG 108
+2023-01-01 19:16:28,234 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:16:28,382 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:16:28,382 DEBUG 108
+2023-01-01 19:16:28,382 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:16:28,622 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:16:28,622 DEBUG 105
+2023-01-01 19:16:28,622 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:16:30,387 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:16:30,387 DEBUG 6
+2023-01-01 19:16:30,387 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:16:33,048 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:16:33,049 DEBUG 115
+2023-01-01 19:16:33,049 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:16:33,101 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:16:33,101 DEBUG 107
+2023-01-01 19:16:33,101 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:16:33,204 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:16:33,205 DEBUG 100
+2023-01-01 19:16:33,205 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:16:33,238 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:16:33,238 DEBUG 102
+2023-01-01 19:16:33,238 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:16:33,273 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:16:33,273 DEBUG 106
+2023-01-01 19:16:33,273 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:16:33,401 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:16:33,401 DEBUG 115
+2023-01-01 19:16:33,401 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:16:33,413 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:16:33,413 DEBUG 107
+2023-01-01 19:16:33,413 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:16:33,446 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:16:33,446 DEBUG 108
+2023-01-01 19:16:33,446 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:16:33,470 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:16:33,470 DEBUG 100
+2023-01-01 19:16:33,470 DEBUG new locations - y: 0 x: 16
+2023-01-01 19:16:33,521 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 19:16:33,521 DEBUG 102
+2023-01-01 19:16:33,521 DEBUG new locations - y: 0 x: 17
+2023-01-01 19:16:33,536 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 19:16:33,536 DEBUG 106
+2023-01-01 19:16:33,536 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:16:34,434 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:16:34,434 DEBUG 6
+2023-01-01 19:16:34,434 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:16:41,581 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 19:16:41,581 DEBUG 4
+2023-01-01 19:16:41,581 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:16:43,113 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 19:16:43,113 DEBUG 115
+2023-01-01 19:16:43,113 DEBUG new locations - y: 0 x: 20
+2023-01-01 19:16:43,127 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 19:16:43,127 DEBUG 104
+2023-01-01 19:16:43,127 DEBUG new locations - y: 0 x: 21
+2023-01-01 19:17:00,245 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 19:17:00,245 DEBUG 6
+2023-01-01 19:17:00,245 DEBUG new locations - y: 0 x: 22
+2023-01-01 19:17:57,744 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 19:17:57,744 DEBUG 100
+2023-01-01 19:17:57,744 DEBUG new locations - y: 0 x: 23
+2023-01-01 19:19:06,256 INFO begin
+2023-01-01 19:19:06,953 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:19:06,954 DEBUG 104
+2023-01-01 19:19:06,954 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:19:07,322 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:19:07,322 DEBUG 101
+2023-01-01 19:19:07,322 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:19:07,486 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:19:07,486 DEBUG 108
+2023-01-01 19:19:07,486 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:19:07,640 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:19:07,640 DEBUG 108
+2023-01-01 19:19:07,640 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:19:07,841 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:19:07,841 DEBUG 111
+2023-01-01 19:19:07,841 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:19:07,927 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:19:07,927 DEBUG 32
+2023-01-01 19:19:07,927 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:19:08,102 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:19:08,102 DEBUG 119
+2023-01-01 19:19:08,102 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:19:08,159 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:19:08,159 DEBUG 111
+2023-01-01 19:19:08,159 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:19:08,258 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:19:08,258 DEBUG 114
+2023-01-01 19:19:08,258 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:19:08,366 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:19:08,366 DEBUG 108
+2023-01-01 19:19:08,366 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:19:08,457 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:19:08,457 DEBUG 100
+2023-01-01 19:19:08,457 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:19:08,562 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:19:08,562 DEBUG 32
+2023-01-01 19:19:08,562 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:19:09,034 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:19:09,035 DEBUG 263
+2023-01-01 19:19:09,035 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:19:10,065 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:19:10,065 DEBUG 10
+2023-01-01 19:19:10,065 DEBUG new line detected
+2023-01-01 19:19:10,065 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:19:10,486 DEBUG multiple lines detected
+2023-01-01 19:19:10,486 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:10,486 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:19:10,486 DEBUG 119
+2023-01-01 19:19:10,486 DEBUG new locations - y: 1 x: 1
+2023-01-01 19:19:10,591 DEBUG multiple lines detected
+2023-01-01 19:19:10,591 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:10,591 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 19:19:10,591 DEBUG 104
+2023-01-01 19:19:10,591 DEBUG new locations - y: 1 x: 2
+2023-01-01 19:19:10,667 DEBUG multiple lines detected
+2023-01-01 19:19:10,667 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:10,667 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 19:19:10,667 DEBUG 97
+2023-01-01 19:19:10,667 DEBUG new locations - y: 1 x: 3
+2023-01-01 19:19:10,747 DEBUG multiple lines detected
+2023-01-01 19:19:10,747 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:10,747 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 19:19:10,747 DEBUG 116
+2023-01-01 19:19:10,747 DEBUG new locations - y: 1 x: 4
+2023-01-01 19:19:10,799 DEBUG multiple lines detected
+2023-01-01 19:19:10,799 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:10,799 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 19:19:10,799 DEBUG 32
+2023-01-01 19:19:10,799 DEBUG new locations - y: 1 x: 5
+2023-01-01 19:19:10,972 DEBUG multiple lines detected
+2023-01-01 19:19:10,972 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:10,972 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 19:19:10,972 DEBUG 105
+2023-01-01 19:19:10,972 DEBUG new locations - y: 1 x: 6
+2023-01-01 19:19:11,056 DEBUG multiple lines detected
+2023-01-01 19:19:11,056 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:11,056 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 19:19:11,056 DEBUG 115
+2023-01-01 19:19:11,056 DEBUG new locations - y: 1 x: 7
+2023-01-01 19:19:11,143 DEBUG multiple lines detected
+2023-01-01 19:19:11,143 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:11,143 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 19:19:11,143 DEBUG 32
+2023-01-01 19:19:11,143 DEBUG new locations - y: 1 x: 8
+2023-01-01 19:19:11,678 DEBUG multiple lines detected
+2023-01-01 19:19:11,678 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:11,679 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 19:19:11,679 DEBUG 117
+2023-01-01 19:19:11,679 DEBUG new locations - y: 1 x: 9
+2023-01-01 19:19:11,843 DEBUG multiple lines detected
+2023-01-01 19:19:11,843 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:11,843 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 19:19:11,843 DEBUG 112
+2023-01-01 19:19:11,843 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:19:12,172 DEBUG multiple lines detected
+2023-01-01 19:19:12,172 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:12,172 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:19:12,172 DEBUG 32
+2023-01-01 19:19:12,172 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:19:13,291 DEBUG multiple lines detected
+2023-01-01 19:19:13,291 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:13,291 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 19:19:13,291 DEBUG 6
+2023-01-01 19:19:13,291 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:19:13,618 DEBUG multiple lines detected
+2023-01-01 19:19:13,618 DEBUG len line length: 1 y: 1
+2023-01-01 19:19:13,618 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 19:19:13,618 DEBUG 100
+2023-01-01 19:19:13,618 DEBUG new locations - y: 1 x: 12
+2023-01-01 19:20:08,698 INFO begin
+2023-01-01 19:20:10,032 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:20:10,033 DEBUG 104
+2023-01-01 19:20:10,033 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:20:10,136 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:20:10,136 DEBUG 101
+2023-01-01 19:20:10,136 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:20:10,249 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:20:10,249 DEBUG 108
+2023-01-01 19:20:10,249 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:20:10,379 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:20:10,379 DEBUG 108
+2023-01-01 19:20:10,379 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:20:10,623 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:20:10,623 DEBUG 32
+2023-01-01 19:20:10,623 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:20:11,070 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:20:11,070 DEBUG 263
+2023-01-01 19:20:11,070 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:20:11,230 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:20:11,230 DEBUG 111
+2023-01-01 19:20:11,230 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:20:11,355 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:20:11,355 DEBUG 32
+2023-01-01 19:20:11,355 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:20:11,562 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:20:11,562 DEBUG 119
+2023-01-01 19:20:11,562 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:20:11,571 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:20:11,571 DEBUG 111
+2023-01-01 19:20:11,571 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:20:11,699 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:20:11,699 DEBUG 114
+2023-01-01 19:20:11,699 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:20:11,815 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:20:11,815 DEBUG 108
+2023-01-01 19:20:11,815 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:20:11,894 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:20:11,894 DEBUG 100
+2023-01-01 19:20:11,894 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:20:12,003 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:20:12,003 DEBUG 32
+2023-01-01 19:20:12,003 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:20:12,470 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:20:12,470 DEBUG 263
+2023-01-01 19:20:12,470 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:20:12,602 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:20:12,602 DEBUG 10
+2023-01-01 19:20:12,602 DEBUG new line detected
+2023-01-01 19:20:12,602 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:20:12,887 DEBUG multiple lines detected
+2023-01-01 19:20:12,887 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:12,887 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:20:12,887 DEBUG 119
+2023-01-01 19:20:12,887 DEBUG new locations - y: 1 x: 1
+2023-01-01 19:20:12,989 DEBUG multiple lines detected
+2023-01-01 19:20:12,989 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:12,989 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 19:20:12,989 DEBUG 104
+2023-01-01 19:20:12,989 DEBUG new locations - y: 1 x: 2
+2023-01-01 19:20:13,061 DEBUG multiple lines detected
+2023-01-01 19:20:13,061 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,061 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 19:20:13,061 DEBUG 97
+2023-01-01 19:20:13,061 DEBUG new locations - y: 1 x: 3
+2023-01-01 19:20:13,118 DEBUG multiple lines detected
+2023-01-01 19:20:13,118 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,118 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 19:20:13,119 DEBUG 116
+2023-01-01 19:20:13,119 DEBUG new locations - y: 1 x: 4
+2023-01-01 19:20:13,197 DEBUG multiple lines detected
+2023-01-01 19:20:13,197 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,197 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 19:20:13,197 DEBUG 32
+2023-01-01 19:20:13,197 DEBUG new locations - y: 1 x: 5
+2023-01-01 19:20:13,352 DEBUG multiple lines detected
+2023-01-01 19:20:13,352 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,352 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 19:20:13,352 DEBUG 105
+2023-01-01 19:20:13,352 DEBUG new locations - y: 1 x: 6
+2023-01-01 19:20:13,431 DEBUG multiple lines detected
+2023-01-01 19:20:13,431 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,431 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 19:20:13,431 DEBUG 115
+2023-01-01 19:20:13,431 DEBUG new locations - y: 1 x: 7
+2023-01-01 19:20:13,534 DEBUG multiple lines detected
+2023-01-01 19:20:13,534 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,534 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 19:20:13,534 DEBUG 32
+2023-01-01 19:20:13,534 DEBUG new locations - y: 1 x: 8
+2023-01-01 19:20:13,768 DEBUG multiple lines detected
+2023-01-01 19:20:13,768 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,768 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 19:20:13,768 DEBUG 117
+2023-01-01 19:20:13,768 DEBUG new locations - y: 1 x: 9
+2023-01-01 19:20:13,769 DEBUG multiple lines detected
+2023-01-01 19:20:13,769 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:13,769 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 19:20:13,769 DEBUG 106
+2023-01-01 19:20:13,769 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:20:14,280 DEBUG multiple lines detected
+2023-01-01 19:20:14,280 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:14,280 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:20:14,280 DEBUG 263
+2023-01-01 19:20:14,280 DEBUG new locations - y: 1 x: 9
+2023-01-01 19:20:14,414 DEBUG multiple lines detected
+2023-01-01 19:20:14,415 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:14,415 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 19:20:14,415 DEBUG 112
+2023-01-01 19:20:14,415 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:20:14,570 DEBUG multiple lines detected
+2023-01-01 19:20:14,571 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:14,571 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:20:14,571 DEBUG 32
+2023-01-01 19:20:14,571 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:20:15,846 DEBUG multiple lines detected
+2023-01-01 19:20:15,847 DEBUG len line length: 1 y: 1
+2023-01-01 19:20:15,847 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 19:20:15,847 DEBUG 4
+2023-01-01 19:20:15,847 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:21:00,429 INFO begin
+2023-01-01 19:21:00,934 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:21:00,935 DEBUG 104
+2023-01-01 19:21:00,935 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:21:01,036 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:21:01,036 DEBUG 101
+2023-01-01 19:21:01,036 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:21:01,139 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:21:01,140 DEBUG 108
+2023-01-01 19:21:01,140 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:21:01,315 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:21:01,315 DEBUG 108
+2023-01-01 19:21:01,315 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:21:01,470 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:21:01,470 DEBUG 111
+2023-01-01 19:21:01,470 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:21:01,582 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:21:01,582 DEBUG 32
+2023-01-01 19:21:01,582 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:21:01,741 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:21:01,741 DEBUG 119
+2023-01-01 19:21:01,741 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:21:01,814 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:21:01,814 DEBUG 111
+2023-01-01 19:21:01,814 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:21:01,911 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:21:01,911 DEBUG 114
+2023-01-01 19:21:01,911 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:21:02,005 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:21:02,005 DEBUG 108
+2023-01-01 19:21:02,005 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:21:02,100 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:21:02,100 DEBUG 100
+2023-01-01 19:21:02,100 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:21:02,333 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:21:02,333 DEBUG 10
+2023-01-01 19:21:02,334 DEBUG new line detected
+2023-01-01 19:21:02,334 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:21:02,799 DEBUG multiple lines detected
+2023-01-01 19:21:02,800 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:02,800 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:21:02,800 DEBUG 119
+2023-01-01 19:21:02,800 DEBUG new locations - y: 1 x: 1
+2023-01-01 19:21:02,905 DEBUG multiple lines detected
+2023-01-01 19:21:02,905 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:02,905 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 19:21:02,905 DEBUG 104
+2023-01-01 19:21:02,905 DEBUG new locations - y: 1 x: 2
+2023-01-01 19:21:02,955 DEBUG multiple lines detected
+2023-01-01 19:21:02,955 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:02,955 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 19:21:02,955 DEBUG 97
+2023-01-01 19:21:02,955 DEBUG new locations - y: 1 x: 3
+2023-01-01 19:21:03,007 DEBUG multiple lines detected
+2023-01-01 19:21:03,007 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,007 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 19:21:03,007 DEBUG 116
+2023-01-01 19:21:03,007 DEBUG new locations - y: 1 x: 4
+2023-01-01 19:21:03,079 DEBUG multiple lines detected
+2023-01-01 19:21:03,079 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,079 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 19:21:03,079 DEBUG 32
+2023-01-01 19:21:03,079 DEBUG new locations - y: 1 x: 5
+2023-01-01 19:21:03,215 DEBUG multiple lines detected
+2023-01-01 19:21:03,215 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,215 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 19:21:03,215 DEBUG 105
+2023-01-01 19:21:03,215 DEBUG new locations - y: 1 x: 6
+2023-01-01 19:21:03,274 DEBUG multiple lines detected
+2023-01-01 19:21:03,274 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,274 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 19:21:03,274 DEBUG 115
+2023-01-01 19:21:03,274 DEBUG new locations - y: 1 x: 7
+2023-01-01 19:21:03,370 DEBUG multiple lines detected
+2023-01-01 19:21:03,370 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,370 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 19:21:03,370 DEBUG 32
+2023-01-01 19:21:03,370 DEBUG new locations - y: 1 x: 8
+2023-01-01 19:21:03,577 DEBUG multiple lines detected
+2023-01-01 19:21:03,578 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,578 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 19:21:03,578 DEBUG 117
+2023-01-01 19:21:03,578 DEBUG new locations - y: 1 x: 9
+2023-01-01 19:21:03,709 DEBUG multiple lines detected
+2023-01-01 19:21:03,709 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,709 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 19:21:03,709 DEBUG 112
+2023-01-01 19:21:03,709 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:21:03,987 DEBUG multiple lines detected
+2023-01-01 19:21:03,987 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:03,987 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:21:03,987 DEBUG 32
+2023-01-01 19:21:03,987 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:21:04,518 DEBUG multiple lines detected
+2023-01-01 19:21:04,518 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:04,518 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 19:21:04,518 DEBUG 263
+2023-01-01 19:21:04,518 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:21:05,816 DEBUG multiple lines detected
+2023-01-01 19:21:05,816 DEBUG len line length: 1 y: 1
+2023-01-01 19:21:05,816 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:21:05,816 DEBUG 6
+2023-01-01 19:21:31,791 INFO begin
+2023-01-01 19:21:32,403 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:21:32,403 DEBUG 104
+2023-01-01 19:21:32,403 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:21:32,498 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:21:32,499 DEBUG 101
+2023-01-01 19:21:32,499 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:21:32,621 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:21:32,622 DEBUG 108
+2023-01-01 19:21:32,622 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:21:32,764 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:21:32,764 DEBUG 108
+2023-01-01 19:21:32,764 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:21:32,933 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:21:32,933 DEBUG 111
+2023-01-01 19:21:32,933 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:21:33,047 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:21:33,048 DEBUG 32
+2023-01-01 19:21:33,048 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:21:33,151 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:21:33,151 DEBUG 119
+2023-01-01 19:21:33,151 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:21:33,226 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:21:33,226 DEBUG 111
+2023-01-01 19:21:33,226 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:21:33,279 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:21:33,279 DEBUG 114
+2023-01-01 19:21:33,279 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:21:33,414 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:21:33,414 DEBUG 108
+2023-01-01 19:21:33,414 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:21:33,510 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:21:33,510 DEBUG 100
+2023-01-01 19:21:33,510 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:21:33,636 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:21:33,636 DEBUG 32
+2023-01-01 19:21:33,636 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:21:34,002 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:21:34,002 DEBUG 119
+2023-01-01 19:21:34,002 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:21:34,102 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:21:34,103 DEBUG 104
+2023-01-01 19:21:34,103 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:21:34,125 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:21:34,125 DEBUG 97
+2023-01-01 19:21:34,125 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:21:34,210 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:21:34,210 DEBUG 116
+2023-01-01 19:21:34,210 DEBUG new locations - y: 0 x: 16
+2023-01-01 19:21:34,288 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 19:21:34,288 DEBUG 32
+2023-01-01 19:21:34,288 DEBUG new locations - y: 0 x: 17
+2023-01-01 19:21:34,418 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 19:21:34,418 DEBUG 105
+2023-01-01 19:21:34,418 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:21:34,503 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:21:34,503 DEBUG 115
+2023-01-01 19:21:34,503 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:21:34,578 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 19:21:34,578 DEBUG 32
+2023-01-01 19:21:34,578 DEBUG new locations - y: 0 x: 20
+2023-01-01 19:21:34,801 DEBUG current cursor position - y: 0 x: 20
+2023-01-01 19:21:34,801 DEBUG 117
+2023-01-01 19:21:34,801 DEBUG new locations - y: 0 x: 21
+2023-01-01 19:21:34,963 DEBUG current cursor position - y: 0 x: 21
+2023-01-01 19:21:34,963 DEBUG 112
+2023-01-01 19:21:34,963 DEBUG new locations - y: 0 x: 22
+2023-01-01 19:21:38,041 DEBUG current cursor position - y: 0 x: 22
+2023-01-01 19:21:38,041 DEBUG 6
+2023-01-01 19:21:39,628 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:21:39,628 DEBUG 104
+2023-01-01 19:21:39,628 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:21:39,710 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:21:39,711 DEBUG 101
+2023-01-01 19:21:39,711 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:21:39,844 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:21:39,844 DEBUG 108
+2023-01-01 19:21:39,844 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:21:40,020 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:21:40,020 DEBUG 108
+2023-01-01 19:21:40,020 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:22:15,119 INFO begin
+2023-01-01 19:22:15,567 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:22:15,567 DEBUG 104
+2023-01-01 19:22:15,568 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:22:15,639 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:22:15,639 DEBUG 101
+2023-01-01 19:22:15,639 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:22:15,755 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:22:15,756 DEBUG 108
+2023-01-01 19:22:15,756 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:22:15,910 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:22:15,911 DEBUG 108
+2023-01-01 19:22:15,911 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:22:16,080 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:22:16,080 DEBUG 111
+2023-01-01 19:22:16,080 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:22:16,194 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:22:16,194 DEBUG 32
+2023-01-01 19:22:16,194 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:22:16,296 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:22:16,296 DEBUG 119
+2023-01-01 19:22:16,296 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:22:16,380 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:22:16,381 DEBUG 111
+2023-01-01 19:22:16,381 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:22:16,444 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:22:16,444 DEBUG 114
+2023-01-01 19:22:16,444 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:22:16,580 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:22:16,581 DEBUG 108
+2023-01-01 19:22:16,581 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:22:17,715 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:22:17,715 DEBUG 6
+2023-01-01 19:22:20,547 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:22:20,547 DEBUG 100
+2023-01-01 19:22:20,547 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:22:21,687 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:22:21,687 DEBUG 6
+2023-01-01 19:22:22,931 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:22:22,931 DEBUG 104
+2023-01-01 19:22:22,931 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:22:23,009 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:22:23,009 DEBUG 101
+2023-01-01 19:22:23,009 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:22:23,140 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:22:23,140 DEBUG 108
+2023-01-01 19:22:23,140 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:22:23,323 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:22:23,323 DEBUG 108
+2023-01-01 19:22:23,323 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:22:42,721 INFO begin
+2023-01-01 19:22:44,293 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:22:44,293 DEBUG 104
+2023-01-01 19:22:44,293 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:22:44,377 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:22:44,377 DEBUG 101
+2023-01-01 19:22:44,377 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:22:44,481 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:22:44,481 DEBUG 108
+2023-01-01 19:22:44,481 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:22:44,649 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:22:44,649 DEBUG 108
+2023-01-01 19:22:44,649 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:22:44,788 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:22:44,788 DEBUG 111
+2023-01-01 19:22:44,788 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:22:44,909 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:22:44,909 DEBUG 32
+2023-01-01 19:22:44,909 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:22:45,045 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:22:45,045 DEBUG 119
+2023-01-01 19:22:45,045 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:22:45,116 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:22:45,117 DEBUG 111
+2023-01-01 19:22:45,117 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:22:45,194 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:22:45,194 DEBUG 114
+2023-01-01 19:22:45,194 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:22:45,307 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:22:45,307 DEBUG 108
+2023-01-01 19:22:45,307 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:22:45,407 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:22:45,408 DEBUG 100
+2023-01-01 19:22:45,408 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:22:45,486 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:22:45,486 DEBUG 32
+2023-01-01 19:22:45,486 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:22:46,065 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:22:46,065 DEBUG 263
+2023-01-01 19:22:46,065 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:22:47,100 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:22:47,100 DEBUG 6
+2023-01-01 19:22:48,804 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:22:48,804 DEBUG 119
+2023-01-01 19:22:48,804 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:22:48,901 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:22:48,901 DEBUG 104
+2023-01-01 19:22:48,901 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:22:48,964 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:22:48,964 DEBUG 97
+2023-01-01 19:22:48,964 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:22:49,039 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:22:49,039 DEBUG 116
+2023-01-01 19:22:49,039 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:22:49,108 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:22:49,108 DEBUG 32
+2023-01-01 19:22:49,108 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:22:49,244 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:22:49,244 DEBUG 105
+2023-01-01 19:22:49,244 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:22:49,322 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:22:49,322 DEBUG 115
+2023-01-01 19:22:49,322 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:22:49,407 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:22:49,407 DEBUG 32
+2023-01-01 19:22:49,407 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:22:49,634 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:22:49,634 DEBUG 103
+2023-01-01 19:22:49,634 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:22:49,712 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:22:49,712 DEBUG 111
+2023-01-01 19:22:49,712 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:22:49,843 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:22:49,843 DEBUG 105
+2023-01-01 19:22:49,844 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:22:50,016 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:22:50,016 DEBUG 110
+2023-01-01 19:22:50,016 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:22:50,100 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:22:50,100 DEBUG 103
+2023-01-01 19:22:50,100 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:22:50,198 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:22:50,198 DEBUG 32
+2023-01-01 19:22:50,198 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:22:50,334 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:22:50,334 DEBUG 111
+2023-01-01 19:22:50,334 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:22:50,518 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:22:50,518 DEBUG 110
+2023-01-01 19:22:50,518 DEBUG new locations - y: 0 x: 16
+2023-01-01 19:22:51,502 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 19:22:51,503 DEBUG 10
+2023-01-01 19:22:51,503 DEBUG new line detected
+2023-01-01 19:22:51,503 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:22:52,256 DEBUG multiple lines detected
+2023-01-01 19:22:52,257 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,257 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:22:52,257 DEBUG 97
+2023-01-01 19:22:52,257 DEBUG new locations - y: 1 x: 1
+2023-01-01 19:22:52,356 DEBUG multiple lines detected
+2023-01-01 19:22:52,356 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,356 DEBUG current cursor position - y: 1 x: 1
+2023-01-01 19:22:52,356 DEBUG 110
+2023-01-01 19:22:52,356 DEBUG new locations - y: 1 x: 2
+2023-01-01 19:22:52,467 DEBUG multiple lines detected
+2023-01-01 19:22:52,467 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,467 DEBUG current cursor position - y: 1 x: 2
+2023-01-01 19:22:52,467 DEBUG 100
+2023-01-01 19:22:52,467 DEBUG new locations - y: 1 x: 3
+2023-01-01 19:22:52,565 DEBUG multiple lines detected
+2023-01-01 19:22:52,565 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,565 DEBUG current cursor position - y: 1 x: 3
+2023-01-01 19:22:52,565 DEBUG 32
+2023-01-01 19:22:52,565 DEBUG new locations - y: 1 x: 4
+2023-01-01 19:22:52,693 DEBUG multiple lines detected
+2023-01-01 19:22:52,693 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,693 DEBUG current cursor position - y: 1 x: 4
+2023-01-01 19:22:52,693 DEBUG 119
+2023-01-01 19:22:52,693 DEBUG new locations - y: 1 x: 5
+2023-01-01 19:22:52,792 DEBUG multiple lines detected
+2023-01-01 19:22:52,792 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,792 DEBUG current cursor position - y: 1 x: 5
+2023-01-01 19:22:52,792 DEBUG 104
+2023-01-01 19:22:52,792 DEBUG new locations - y: 1 x: 6
+2023-01-01 19:22:52,875 DEBUG multiple lines detected
+2023-01-01 19:22:52,875 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,875 DEBUG current cursor position - y: 1 x: 6
+2023-01-01 19:22:52,876 DEBUG 97
+2023-01-01 19:22:52,876 DEBUG new locations - y: 1 x: 7
+2023-01-01 19:22:52,946 DEBUG multiple lines detected
+2023-01-01 19:22:52,947 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:52,947 DEBUG current cursor position - y: 1 x: 7
+2023-01-01 19:22:52,947 DEBUG 116
+2023-01-01 19:22:52,947 DEBUG new locations - y: 1 x: 8
+2023-01-01 19:22:53,027 DEBUG multiple lines detected
+2023-01-01 19:22:53,027 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,027 DEBUG current cursor position - y: 1 x: 8
+2023-01-01 19:22:53,027 DEBUG 32
+2023-01-01 19:22:53,027 DEBUG new locations - y: 1 x: 9
+2023-01-01 19:22:53,134 DEBUG multiple lines detected
+2023-01-01 19:22:53,134 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,134 DEBUG current cursor position - y: 1 x: 9
+2023-01-01 19:22:53,134 DEBUG 105
+2023-01-01 19:22:53,134 DEBUG new locations - y: 1 x: 10
+2023-01-01 19:22:53,212 DEBUG multiple lines detected
+2023-01-01 19:22:53,212 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,212 DEBUG current cursor position - y: 1 x: 10
+2023-01-01 19:22:53,212 DEBUG 115
+2023-01-01 19:22:53,212 DEBUG new locations - y: 1 x: 11
+2023-01-01 19:22:53,300 DEBUG multiple lines detected
+2023-01-01 19:22:53,300 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,300 DEBUG current cursor position - y: 1 x: 11
+2023-01-01 19:22:53,300 DEBUG 32
+2023-01-01 19:22:53,300 DEBUG new locations - y: 1 x: 12
+2023-01-01 19:22:53,608 DEBUG multiple lines detected
+2023-01-01 19:22:53,608 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,608 DEBUG current cursor position - y: 1 x: 12
+2023-01-01 19:22:53,608 DEBUG 116
+2023-01-01 19:22:53,608 DEBUG new locations - y: 1 x: 13
+2023-01-01 19:22:53,682 DEBUG multiple lines detected
+2023-01-01 19:22:53,682 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,682 DEBUG current cursor position - y: 1 x: 13
+2023-01-01 19:22:53,682 DEBUG 104
+2023-01-01 19:22:53,682 DEBUG new locations - y: 1 x: 14
+2023-01-01 19:22:53,752 DEBUG multiple lines detected
+2023-01-01 19:22:53,752 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,753 DEBUG current cursor position - y: 1 x: 14
+2023-01-01 19:22:53,753 DEBUG 105
+2023-01-01 19:22:53,753 DEBUG new locations - y: 1 x: 15
+2023-01-01 19:22:53,861 DEBUG multiple lines detected
+2023-01-01 19:22:53,861 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:53,861 DEBUG current cursor position - y: 1 x: 15
+2023-01-01 19:22:53,861 DEBUG 115
+2023-01-01 19:22:53,861 DEBUG new locations - y: 1 x: 16
+2023-01-01 19:22:57,278 DEBUG multiple lines detected
+2023-01-01 19:22:57,278 DEBUG len line length: 1 y: 1
+2023-01-01 19:22:57,279 DEBUG current cursor position - y: 1 x: 16
+2023-01-01 19:22:57,279 DEBUG 6
+2023-01-01 19:23:04,861 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:23:04,861 DEBUG 115
+2023-01-01 19:23:04,861 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:25:31,579 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:25:31,579 DEBUG 99
+2023-01-01 19:25:31,580 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:29:25,271 INFO begin
+2023-01-01 19:29:28,394 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:29:28,394 DEBUG 115
+2023-01-01 19:29:28,394 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:29:28,705 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:29:28,705 DEBUG 115
+2023-01-01 19:29:28,705 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:29:28,865 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:29:28,865 DEBUG 100
+2023-01-01 19:29:28,865 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:29:28,960 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:29:28,960 DEBUG 102
+2023-01-01 19:29:28,960 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:29:29,120 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:29:29,120 DEBUG 115
+2023-01-01 19:29:29,121 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:29:29,124 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:29:29,124 DEBUG 107
+2023-01-01 19:29:29,124 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:29:29,145 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:29:29,145 DEBUG 100
+2023-01-01 19:29:29,145 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:29:29,198 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:29:29,198 DEBUG 97
+2023-01-01 19:29:29,198 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:29:29,226 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:29:29,226 DEBUG 102
+2023-01-01 19:29:29,226 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:29:29,282 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:29:29,283 DEBUG 106
+2023-01-01 19:29:29,283 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:29:29,348 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:29:29,348 DEBUG 107
+2023-01-01 19:29:29,348 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:29:29,389 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:29:29,389 DEBUG 97
+2023-01-01 19:29:29,389 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:29:29,412 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:29:29,412 DEBUG 115
+2023-01-01 19:29:29,412 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:29:29,488 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:29:29,488 DEBUG 102
+2023-01-01 19:29:29,488 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:29:29,489 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:29:29,490 DEBUG 106
+2023-01-01 19:29:29,490 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:29:29,509 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:29:29,509 DEBUG 100
+2023-01-01 19:29:29,509 DEBUG new locations - y: 0 x: 16
+2023-01-01 19:29:29,641 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 19:29:29,642 DEBUG 107
+2023-01-01 19:29:29,642 DEBUG new locations - y: 0 x: 17
+2023-01-01 19:29:29,648 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 19:29:29,649 DEBUG 106
+2023-01-01 19:29:29,649 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:29:30,367 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:29:30,367 DEBUG 24
+2023-01-01 19:29:30,367 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:30:17,901 INFO begin
+2023-01-01 19:30:19,697 DEBUG multiple lines detected
+2023-01-01 19:30:19,697 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:19,697 DEBUG current cursor position - y: 2 x: 0
+2023-01-01 19:30:19,697 DEBUG 111
+2023-01-01 19:30:19,697 DEBUG new locations - y: 2 x: 1
+2023-01-01 19:30:19,977 DEBUG multiple lines detected
+2023-01-01 19:30:19,977 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:19,977 DEBUG current cursor position - y: 2 x: 1
+2023-01-01 19:30:19,977 DEBUG 109
+2023-01-01 19:30:19,977 DEBUG new locations - y: 2 x: 2
+2023-01-01 19:30:20,079 DEBUG multiple lines detected
+2023-01-01 19:30:20,079 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,079 DEBUG current cursor position - y: 2 x: 2
+2023-01-01 19:30:20,079 DEBUG 103
+2023-01-01 19:30:20,079 DEBUG new locations - y: 2 x: 3
+2023-01-01 19:30:20,233 DEBUG multiple lines detected
+2023-01-01 19:30:20,234 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,234 DEBUG current cursor position - y: 2 x: 3
+2023-01-01 19:30:20,234 DEBUG 32
+2023-01-01 19:30:20,234 DEBUG new locations - y: 2 x: 4
+2023-01-01 19:30:20,363 DEBUG multiple lines detected
+2023-01-01 19:30:20,364 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,364 DEBUG current cursor position - y: 2 x: 4
+2023-01-01 19:30:20,364 DEBUG 105
+2023-01-01 19:30:20,364 DEBUG new locations - y: 2 x: 5
+2023-01-01 19:30:20,598 DEBUG multiple lines detected
+2023-01-01 19:30:20,598 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,598 DEBUG current cursor position - y: 2 x: 5
+2023-01-01 19:30:20,598 DEBUG 116
+2023-01-01 19:30:20,598 DEBUG new locations - y: 2 x: 6
+2023-01-01 19:30:20,678 DEBUG multiple lines detected
+2023-01-01 19:30:20,678 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,678 DEBUG current cursor position - y: 2 x: 6
+2023-01-01 19:30:20,678 DEBUG 32
+2023-01-01 19:30:20,678 DEBUG new locations - y: 2 x: 7
+2023-01-01 19:30:20,831 DEBUG multiple lines detected
+2023-01-01 19:30:20,831 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,831 DEBUG current cursor position - y: 2 x: 7
+2023-01-01 19:30:20,831 DEBUG 119
+2023-01-01 19:30:20,831 DEBUG new locations - y: 2 x: 8
+2023-01-01 19:30:20,883 DEBUG multiple lines detected
+2023-01-01 19:30:20,883 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,883 DEBUG current cursor position - y: 2 x: 8
+2023-01-01 19:30:20,883 DEBUG 111
+2023-01-01 19:30:20,883 DEBUG new locations - y: 2 x: 9
+2023-01-01 19:30:20,982 DEBUG multiple lines detected
+2023-01-01 19:30:20,983 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:20,983 DEBUG current cursor position - y: 2 x: 9
+2023-01-01 19:30:20,983 DEBUG 114
+2023-01-01 19:30:20,983 DEBUG new locations - y: 2 x: 10
+2023-01-01 19:30:21,064 DEBUG multiple lines detected
+2023-01-01 19:30:21,064 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:21,064 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 19:30:21,064 DEBUG 107
+2023-01-01 19:30:21,064 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:21,175 DEBUG multiple lines detected
+2023-01-01 19:30:21,175 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:21,175 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:21,175 DEBUG 100
+2023-01-01 19:30:21,175 DEBUG new locations - y: 2 x: 12
+2023-01-01 19:30:21,713 DEBUG multiple lines detected
+2023-01-01 19:30:21,713 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:21,713 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 19:30:21,713 DEBUG 263
+2023-01-01 19:30:21,713 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:21,919 DEBUG multiple lines detected
+2023-01-01 19:30:21,920 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:21,920 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:21,920 DEBUG 263
+2023-01-01 19:30:21,920 DEBUG new locations - y: 2 x: 10
+2023-01-01 19:30:22,059 DEBUG multiple lines detected
+2023-01-01 19:30:22,059 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:22,059 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 19:30:22,059 DEBUG 107
+2023-01-01 19:30:22,059 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:22,134 DEBUG multiple lines detected
+2023-01-01 19:30:22,135 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:22,135 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:22,135 DEBUG 100
+2023-01-01 19:30:22,135 DEBUG new locations - y: 2 x: 12
+2023-01-01 19:30:22,603 DEBUG multiple lines detected
+2023-01-01 19:30:22,603 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:22,603 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 19:30:22,603 DEBUG 263
+2023-01-01 19:30:22,603 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:22,795 DEBUG multiple lines detected
+2023-01-01 19:30:22,795 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:22,795 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:22,795 DEBUG 263
+2023-01-01 19:30:22,795 DEBUG new locations - y: 2 x: 10
+2023-01-01 19:30:23,009 DEBUG multiple lines detected
+2023-01-01 19:30:23,009 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:23,009 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 19:30:23,009 DEBUG 107
+2023-01-01 19:30:23,009 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:23,294 DEBUG multiple lines detected
+2023-01-01 19:30:23,294 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:23,294 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:23,294 DEBUG 263
+2023-01-01 19:30:23,294 DEBUG new locations - y: 2 x: 10
+2023-01-01 19:30:23,812 DEBUG multiple lines detected
+2023-01-01 19:30:23,812 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:23,812 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 19:30:23,812 DEBUG 107
+2023-01-01 19:30:23,812 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:24,027 DEBUG multiple lines detected
+2023-01-01 19:30:24,027 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:24,027 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:24,027 DEBUG 115
+2023-01-01 19:30:24,027 DEBUG new locations - y: 2 x: 12
+2023-01-01 19:30:24,409 DEBUG multiple lines detected
+2023-01-01 19:30:24,409 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:24,409 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 19:30:24,409 DEBUG 263
+2023-01-01 19:30:24,409 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:30:24,543 DEBUG multiple lines detected
+2023-01-01 19:30:24,543 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:24,543 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:30:24,543 DEBUG 101
+2023-01-01 19:30:24,543 DEBUG new locations - y: 2 x: 12
+2023-01-01 19:30:24,766 DEBUG multiple lines detected
+2023-01-01 19:30:24,766 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:24,766 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 19:30:24,766 DEBUG 100
+2023-01-01 19:30:24,766 DEBUG new locations - y: 2 x: 13
+2023-01-01 19:30:25,712 DEBUG multiple lines detected
+2023-01-01 19:30:25,712 DEBUG len line length: 2 y: 2
+2023-01-01 19:30:25,712 DEBUG current cursor position - y: 2 x: 13
+2023-01-01 19:30:25,712 DEBUG 259
+2023-01-01 19:30:25,712 DEBUG new locations - y: 1 x: 13
+2023-01-01 19:30:25,954 DEBUG multiple lines detected
+2023-01-01 19:30:25,954 DEBUG len line length: 2 y: 1
+2023-01-01 19:30:25,954 DEBUG current cursor position - y: 1 x: 13
+2023-01-01 19:30:25,954 DEBUG 259
+2023-01-01 19:30:25,954 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:30:26,726 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:30:26,726 DEBUG 260
+2023-01-01 19:30:26,726 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:30:26,918 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:30:26,918 DEBUG 260
+2023-01-01 19:30:26,918 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:30:27,087 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:30:27,087 DEBUG 260
+2023-01-01 19:30:27,087 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:30:27,666 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:30:27,666 DEBUG 119
+2023-01-01 19:30:27,666 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:30:27,792 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:30:27,792 DEBUG 104
+2023-01-01 19:30:27,792 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:30:27,874 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:30:27,874 DEBUG 97
+2023-01-01 19:30:27,874 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:30:27,972 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:30:27,972 DEBUG 116
+2023-01-01 19:30:27,972 DEBUG new locations - y: 0 x: 14
+2023-01-01 19:30:28,049 DEBUG current cursor position - y: 0 x: 14
+2023-01-01 19:30:28,049 DEBUG 32
+2023-01-01 19:30:28,049 DEBUG new locations - y: 0 x: 15
+2023-01-01 19:30:28,444 DEBUG current cursor position - y: 0 x: 15
+2023-01-01 19:30:28,444 DEBUG 116
+2023-01-01 19:30:28,444 DEBUG new locations - y: 0 x: 16
+2023-01-01 19:30:28,529 DEBUG current cursor position - y: 0 x: 16
+2023-01-01 19:30:28,529 DEBUG 104
+2023-01-01 19:30:28,529 DEBUG new locations - y: 0 x: 17
+2023-01-01 19:30:28,682 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 19:30:28,682 DEBUG 115
+2023-01-01 19:30:28,682 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:30:28,703 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:30:28,703 DEBUG 119
+2023-01-01 19:30:28,703 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:30:28,957 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 19:30:28,957 DEBUG 263
+2023-01-01 19:30:28,957 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:30:29,197 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:30:29,197 DEBUG 263
+2023-01-01 19:30:29,197 DEBUG new locations - y: 0 x: 17
+2023-01-01 19:30:29,325 DEBUG current cursor position - y: 0 x: 17
+2023-01-01 19:30:29,325 DEBUG 101
+2023-01-01 19:30:29,325 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:30:29,508 DEBUG current cursor position - y: 0 x: 18
+2023-01-01 19:30:29,508 DEBUG 104
+2023-01-01 19:30:29,508 DEBUG new locations - y: 0 x: 19
+2023-01-01 19:30:29,821 DEBUG current cursor position - y: 0 x: 19
+2023-01-01 19:30:29,821 DEBUG 263
+2023-01-01 19:30:29,821 DEBUG new locations - y: 0 x: 18
+2023-01-01 19:32:35,304 INFO begin
+2023-01-01 19:32:36,983 DEBUG multiple lines detected
+2023-01-01 19:32:36,984 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:36,984 DEBUG current cursor position - y: 2 x: 0
+2023-01-01 19:32:36,984 DEBUG 119
+2023-01-01 19:32:36,984 DEBUG new locations - y: 2 x: 1
+2023-01-01 19:32:37,106 DEBUG multiple lines detected
+2023-01-01 19:32:37,106 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:37,106 DEBUG current cursor position - y: 2 x: 1
+2023-01-01 19:32:37,106 DEBUG 104
+2023-01-01 19:32:37,106 DEBUG new locations - y: 2 x: 2
+2023-01-01 19:32:37,156 DEBUG multiple lines detected
+2023-01-01 19:32:37,156 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:37,156 DEBUG current cursor position - y: 2 x: 2
+2023-01-01 19:32:37,156 DEBUG 97
+2023-01-01 19:32:37,156 DEBUG new locations - y: 2 x: 3
+2023-01-01 19:32:37,260 DEBUG multiple lines detected
+2023-01-01 19:32:37,260 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:37,260 DEBUG current cursor position - y: 2 x: 3
+2023-01-01 19:32:37,260 DEBUG 116
+2023-01-01 19:32:37,260 DEBUG new locations - y: 2 x: 4
+2023-01-01 19:32:37,332 DEBUG multiple lines detected
+2023-01-01 19:32:37,332 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:37,332 DEBUG current cursor position - y: 2 x: 4
+2023-01-01 19:32:37,332 DEBUG 32
+2023-01-01 19:32:37,332 DEBUG new locations - y: 2 x: 5
+2023-01-01 19:32:37,943 DEBUG multiple lines detected
+2023-01-01 19:32:37,943 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:37,943 DEBUG current cursor position - y: 2 x: 5
+2023-01-01 19:32:37,943 DEBUG 116
+2023-01-01 19:32:37,943 DEBUG new locations - y: 2 x: 6
+2023-01-01 19:32:38,044 DEBUG multiple lines detected
+2023-01-01 19:32:38,044 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:38,044 DEBUG current cursor position - y: 2 x: 6
+2023-01-01 19:32:38,044 DEBUG 104
+2023-01-01 19:32:38,044 DEBUG new locations - y: 2 x: 7
+2023-01-01 19:32:38,120 DEBUG multiple lines detected
+2023-01-01 19:32:38,120 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:38,120 DEBUG current cursor position - y: 2 x: 7
+2023-01-01 19:32:38,120 DEBUG 101
+2023-01-01 19:32:38,120 DEBUG new locations - y: 2 x: 8
+2023-01-01 19:32:38,212 DEBUG multiple lines detected
+2023-01-01 19:32:38,213 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:38,213 DEBUG current cursor position - y: 2 x: 8
+2023-01-01 19:32:38,213 DEBUG 32
+2023-01-01 19:32:38,213 DEBUG new locations - y: 2 x: 9
+2023-01-01 19:32:38,511 DEBUG multiple lines detected
+2023-01-01 19:32:38,511 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:38,511 DEBUG current cursor position - y: 2 x: 9
+2023-01-01 19:32:38,511 DEBUG 104
+2023-01-01 19:32:38,511 DEBUG new locations - y: 2 x: 10
+2023-01-01 19:32:38,816 DEBUG multiple lines detected
+2023-01-01 19:32:38,816 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:38,816 DEBUG current cursor position - y: 2 x: 10
+2023-01-01 19:32:38,816 DEBUG 101
+2023-01-01 19:32:38,816 DEBUG new locations - y: 2 x: 11
+2023-01-01 19:32:39,043 DEBUG multiple lines detected
+2023-01-01 19:32:39,043 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,043 DEBUG current cursor position - y: 2 x: 11
+2023-01-01 19:32:39,043 DEBUG 99
+2023-01-01 19:32:39,043 DEBUG new locations - y: 2 x: 12
+2023-01-01 19:32:39,127 DEBUG multiple lines detected
+2023-01-01 19:32:39,127 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,127 DEBUG current cursor position - y: 2 x: 12
+2023-01-01 19:32:39,127 DEBUG 107
+2023-01-01 19:32:39,127 DEBUG new locations - y: 2 x: 13
+2023-01-01 19:32:39,230 DEBUG multiple lines detected
+2023-01-01 19:32:39,231 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,231 DEBUG current cursor position - y: 2 x: 13
+2023-01-01 19:32:39,231 DEBUG 32
+2023-01-01 19:32:39,231 DEBUG new locations - y: 2 x: 14
+2023-01-01 19:32:39,594 DEBUG multiple lines detected
+2023-01-01 19:32:39,594 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,594 DEBUG current cursor position - y: 2 x: 14
+2023-01-01 19:32:39,595 DEBUG 105
+2023-01-01 19:32:39,595 DEBUG new locations - y: 2 x: 15
+2023-01-01 19:32:39,698 DEBUG multiple lines detected
+2023-01-01 19:32:39,698 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,698 DEBUG current cursor position - y: 2 x: 15
+2023-01-01 19:32:39,698 DEBUG 115
+2023-01-01 19:32:39,698 DEBUG new locations - y: 2 x: 16
+2023-01-01 19:32:39,749 DEBUG multiple lines detected
+2023-01-01 19:32:39,749 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,750 DEBUG current cursor position - y: 2 x: 16
+2023-01-01 19:32:39,750 DEBUG 32
+2023-01-01 19:32:39,750 DEBUG new locations - y: 2 x: 17
+2023-01-01 19:32:39,907 DEBUG multiple lines detected
+2023-01-01 19:32:39,907 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,907 DEBUG current cursor position - y: 2 x: 17
+2023-01-01 19:32:39,907 DEBUG 116
+2023-01-01 19:32:39,907 DEBUG new locations - y: 2 x: 18
+2023-01-01 19:32:39,983 DEBUG multiple lines detected
+2023-01-01 19:32:39,983 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:39,983 DEBUG current cursor position - y: 2 x: 18
+2023-01-01 19:32:39,983 DEBUG 104
+2023-01-01 19:32:39,983 DEBUG new locations - y: 2 x: 19
+2023-01-01 19:32:40,139 DEBUG multiple lines detected
+2023-01-01 19:32:40,139 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,139 DEBUG current cursor position - y: 2 x: 19
+2023-01-01 19:32:40,139 DEBUG 105
+2023-01-01 19:32:40,139 DEBUG new locations - y: 2 x: 20
+2023-01-01 19:32:40,269 DEBUG multiple lines detected
+2023-01-01 19:32:40,269 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,269 DEBUG current cursor position - y: 2 x: 20
+2023-01-01 19:32:40,269 DEBUG 115
+2023-01-01 19:32:40,269 DEBUG new locations - y: 2 x: 21
+2023-01-01 19:32:40,366 DEBUG multiple lines detected
+2023-01-01 19:32:40,366 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,366 DEBUG current cursor position - y: 2 x: 21
+2023-01-01 19:32:40,366 DEBUG 32
+2023-01-01 19:32:40,366 DEBUG new locations - y: 2 x: 22
+2023-01-01 19:32:40,606 DEBUG multiple lines detected
+2023-01-01 19:32:40,606 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,606 DEBUG current cursor position - y: 2 x: 22
+2023-01-01 19:32:40,606 DEBUG 109
+2023-01-01 19:32:40,606 DEBUG new locations - y: 2 x: 23
+2023-01-01 19:32:40,709 DEBUG multiple lines detected
+2023-01-01 19:32:40,709 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,709 DEBUG current cursor position - y: 2 x: 23
+2023-01-01 19:32:40,709 DEBUG 97
+2023-01-01 19:32:40,710 DEBUG new locations - y: 2 x: 24
+2023-01-01 19:32:40,786 DEBUG multiple lines detected
+2023-01-01 19:32:40,786 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,787 DEBUG current cursor position - y: 2 x: 24
+2023-01-01 19:32:40,787 DEBUG 103
+2023-01-01 19:32:40,787 DEBUG new locations - y: 2 x: 25
+2023-01-01 19:32:40,847 DEBUG multiple lines detected
+2023-01-01 19:32:40,847 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:40,847 DEBUG current cursor position - y: 2 x: 25
+2023-01-01 19:32:40,847 DEBUG 105
+2023-01-01 19:32:40,847 DEBUG new locations - y: 2 x: 26
+2023-01-01 19:32:41,001 DEBUG multiple lines detected
+2023-01-01 19:32:41,002 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:41,002 DEBUG current cursor position - y: 2 x: 26
+2023-01-01 19:32:41,002 DEBUG 99
+2023-01-01 19:32:41,002 DEBUG new locations - y: 2 x: 27
+2023-01-01 19:32:42,673 DEBUG multiple lines detected
+2023-01-01 19:32:42,673 DEBUG len line length: 2 y: 2
+2023-01-01 19:32:42,673 DEBUG current cursor position - y: 2 x: 27
+2023-01-01 19:32:42,673 DEBUG 6
+2023-01-01 19:32:46,207 INFO begin
+2023-01-01 19:48:31,680 INFO begin
+2023-01-01 19:48:34,047 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:48:34,047 DEBUG 104
+2023-01-01 19:48:34,047 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:48:34,726 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:48:34,726 DEBUG 101
+2023-01-01 19:48:34,726 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:48:34,818 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:48:34,818 DEBUG 108
+2023-01-01 19:48:34,818 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:48:35,000 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:48:35,000 DEBUG 108
+2023-01-01 19:48:35,000 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:48:35,193 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:48:35,194 DEBUG 111
+2023-01-01 19:48:35,194 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:48:35,360 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:48:35,360 DEBUG 32
+2023-01-01 19:48:35,360 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:48:35,657 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:48:35,657 DEBUG 119
+2023-01-01 19:48:35,657 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:48:35,738 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:48:35,738 DEBUG 111
+2023-01-01 19:48:35,738 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:48:35,911 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:48:35,911 DEBUG 114
+2023-01-01 19:48:35,911 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:48:36,000 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:48:36,000 DEBUG 108
+2023-01-01 19:48:36,000 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:48:36,153 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:48:36,153 DEBUG 100
+2023-01-01 19:48:36,153 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:48:36,949 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:48:36,949 DEBUG 33
+2023-01-01 19:48:36,949 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:48:37,300 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:48:37,300 DEBUG 33
+2023-01-01 19:48:37,300 DEBUG new locations - y: 0 x: 13
+2023-01-01 19:48:38,073 DEBUG current cursor position - y: 0 x: 13
+2023-01-01 19:48:38,073 DEBUG 10
+2023-01-01 19:48:38,073 DEBUG new line detected
+2023-01-01 19:48:38,073 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:48:40,587 DEBUG multiple lines detected
+2023-01-01 19:48:40,587 DEBUG len line length: 1 y: 1
+2023-01-01 19:48:40,587 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:48:40,587 DEBUG 259
+2023-01-01 19:48:40,587 DEBUG new locations - y: 0 x: 0
+2023-01-01 19:48:40,984 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:48:40,984 DEBUG 261
+2023-01-01 19:48:40,984 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:48:41,202 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:48:41,203 DEBUG 261
+2023-01-01 19:48:41,203 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:48:41,374 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:48:41,374 DEBUG 261
+2023-01-01 19:48:41,374 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:48:42,671 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:48:42,671 DEBUG 108
+2023-01-01 19:48:42,671 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:48:42,867 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:48:42,867 DEBUG 108
+2023-01-01 19:48:42,867 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:48:43,001 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:48:43,001 DEBUG 108
+2023-01-01 19:48:43,001 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:48:43,166 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:48:43,167 DEBUG 108
+2023-01-01 19:48:43,167 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:48:43,335 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:48:43,335 DEBUG 108
+2023-01-01 19:48:43,335 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:48:44,417 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:48:44,417 DEBUG 10
+2023-01-01 19:48:44,417 DEBUG new line detected
+2023-01-01 19:48:44,417 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:48:44,755 DEBUG multiple lines detected
+2023-01-01 19:48:44,755 DEBUG len line length: 2 y: 1
+2023-01-01 19:48:44,755 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:48:44,755 DEBUG 10
+2023-01-01 19:48:44,755 DEBUG new line detected
+2023-01-01 19:48:44,755 DEBUG new locations - y: 2 x: 0
+2023-01-01 19:48:44,963 DEBUG multiple lines detected
+2023-01-01 19:48:44,963 DEBUG len line length: 3 y: 2
+2023-01-01 19:48:44,963 DEBUG current cursor position - y: 2 x: 0
+2023-01-01 19:48:44,963 DEBUG 10
+2023-01-01 19:48:44,963 DEBUG new line detected
+2023-01-01 19:48:44,963 DEBUG new locations - y: 3 x: 0
+2023-01-01 19:48:45,446 DEBUG multiple lines detected
+2023-01-01 19:48:45,446 DEBUG len line length: 4 y: 3
+2023-01-01 19:48:45,446 DEBUG current cursor position - y: 3 x: 0
+2023-01-01 19:48:45,446 DEBUG 258
+2023-01-01 19:48:45,446 DEBUG new locations - y: 4 x: 0
+2023-01-01 19:48:45,611 DEBUG multiple lines detected
+2023-01-01 19:48:45,611 DEBUG len line length: 4 y: 4
+2023-01-01 19:48:45,611 DEBUG current cursor position - y: 4 x: 0
+2023-01-01 19:48:45,611 DEBUG 258
+2023-01-01 19:48:45,611 DEBUG new locations - y: 5 x: 0
+2023-01-01 19:48:46,248 DEBUG multiple lines detected
+2023-01-01 19:48:46,249 DEBUG len line length: 4 y: 5
+2023-01-01 19:48:46,249 DEBUG current cursor position - y: 5 x: 0
+2023-01-01 19:48:46,249 DEBUG 119
+2023-01-01 19:48:46,249 DEBUG new locations - y: 5 x: 1
+2023-01-01 19:48:46,368 DEBUG multiple lines detected
+2023-01-01 19:48:46,368 DEBUG len line length: 4 y: 5
+2023-01-01 19:48:46,368 DEBUG current cursor position - y: 5 x: 1
+2023-01-01 19:48:46,368 DEBUG 106
+2023-01-01 19:48:46,368 DEBUG new locations - y: 5 x: 2
+2023-01-01 19:48:46,474 DEBUG multiple lines detected
+2023-01-01 19:48:46,474 DEBUG len line length: 4 y: 5
+2023-01-01 19:48:46,474 DEBUG current cursor position - y: 5 x: 2
+2023-01-01 19:48:46,474 DEBUG 97
+2023-01-01 19:48:46,474 DEBUG new locations - y: 5 x: 3
+2023-01-01 19:48:46,607 DEBUG multiple lines detected
+2023-01-01 19:48:46,607 DEBUG len line length: 4 y: 5
+2023-01-01 19:48:46,607 DEBUG current cursor position - y: 5 x: 3
+2023-01-01 19:48:46,607 DEBUG 116
+2023-01-01 19:48:46,607 DEBUG new locations - y: 5 x: 4
+2023-01-01 19:48:56,163 INFO begin
+2023-01-01 19:49:15,435 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:49:15,435 DEBUG 119
+2023-01-01 19:49:15,435 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:49:15,784 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:49:15,785 DEBUG 263
+2023-01-01 19:49:15,785 DEBUG new locations - y: 0 x: 0
+2023-01-01 19:49:16,065 DEBUG current cursor position - y: 0 x: 0
+2023-01-01 19:49:16,065 DEBUG 104
+2023-01-01 19:49:16,065 DEBUG new locations - y: 0 x: 1
+2023-01-01 19:49:16,173 DEBUG current cursor position - y: 0 x: 1
+2023-01-01 19:49:16,173 DEBUG 101
+2023-01-01 19:49:16,173 DEBUG new locations - y: 0 x: 2
+2023-01-01 19:49:16,231 DEBUG current cursor position - y: 0 x: 2
+2023-01-01 19:49:16,231 DEBUG 108
+2023-01-01 19:49:16,231 DEBUG new locations - y: 0 x: 3
+2023-01-01 19:49:16,363 DEBUG current cursor position - y: 0 x: 3
+2023-01-01 19:49:16,363 DEBUG 108
+2023-01-01 19:49:16,363 DEBUG new locations - y: 0 x: 4
+2023-01-01 19:49:16,543 DEBUG current cursor position - y: 0 x: 4
+2023-01-01 19:49:16,543 DEBUG 111
+2023-01-01 19:49:16,543 DEBUG new locations - y: 0 x: 5
+2023-01-01 19:49:16,600 DEBUG current cursor position - y: 0 x: 5
+2023-01-01 19:49:16,600 DEBUG 32
+2023-01-01 19:49:16,600 DEBUG new locations - y: 0 x: 6
+2023-01-01 19:49:16,651 DEBUG current cursor position - y: 0 x: 6
+2023-01-01 19:49:16,651 DEBUG 119
+2023-01-01 19:49:16,651 DEBUG new locations - y: 0 x: 7
+2023-01-01 19:49:16,743 DEBUG current cursor position - y: 0 x: 7
+2023-01-01 19:49:16,743 DEBUG 111
+2023-01-01 19:49:16,743 DEBUG new locations - y: 0 x: 8
+2023-01-01 19:49:16,799 DEBUG current cursor position - y: 0 x: 8
+2023-01-01 19:49:16,799 DEBUG 114
+2023-01-01 19:49:16,799 DEBUG new locations - y: 0 x: 9
+2023-01-01 19:49:16,951 DEBUG current cursor position - y: 0 x: 9
+2023-01-01 19:49:16,951 DEBUG 108
+2023-01-01 19:49:16,951 DEBUG new locations - y: 0 x: 10
+2023-01-01 19:49:17,032 DEBUG current cursor position - y: 0 x: 10
+2023-01-01 19:49:17,032 DEBUG 100
+2023-01-01 19:49:17,032 DEBUG new locations - y: 0 x: 11
+2023-01-01 19:49:17,664 DEBUG current cursor position - y: 0 x: 11
+2023-01-01 19:49:17,664 DEBUG 33
+2023-01-01 19:49:17,664 DEBUG new locations - y: 0 x: 12
+2023-01-01 19:49:17,981 DEBUG current cursor position - y: 0 x: 12
+2023-01-01 19:49:17,981 DEBUG 10
+2023-01-01 19:49:17,981 DEBUG new line detected
+2023-01-01 19:49:17,981 DEBUG new locations - y: 1 x: 0
+2023-01-01 19:49:18,480 DEBUG multiple lines detected
+2023-01-01 19:49:18,480 DEBUG len line length: 1 y: 1
+2023-01-01 19:49:18,480 DEBUG current cursor position - y: 1 x: 0
+2023-01-01 19:49:18,480 DEBUG 10
+2023-01-01 19:49:18,480 DEBUG new line detected
+2023-01-01 19:49:18,480 DEBUG new locations - y: 2 x: 0
+2023-01-01 19:49:19,354 DEBUG multiple lines detected
+2023-01-01 19:49:19,355 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:19,355 DEBUG current cursor position - y: 2 x: 0
+2023-01-01 19:49:19,355 DEBUG 119
+2023-01-01 19:49:19,355 DEBUG new locations - y: 2 x: 1
+2023-01-01 19:49:19,432 DEBUG multiple lines detected
+2023-01-01 19:49:19,432 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:19,432 DEBUG current cursor position - y: 2 x: 1
+2023-01-01 19:49:19,432 DEBUG 104
+2023-01-01 19:49:19,432 DEBUG new locations - y: 2 x: 2
+2023-01-01 19:49:19,594 DEBUG multiple lines detected
+2023-01-01 19:49:19,594 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:19,594 DEBUG current cursor position - y: 2 x: 2
+2023-01-01 19:49:19,594 DEBUG 97
+2023-01-01 19:49:19,594 DEBUG new locations - y: 2 x: 3
+2023-01-01 19:49:19,684 DEBUG multiple lines detected
+2023-01-01 19:49:19,684 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:19,684 DEBUG current cursor position - y: 2 x: 3
+2023-01-01 19:49:19,684 DEBUG 116
+2023-01-01 19:49:19,684 DEBUG new locations - y: 2 x: 4
+2023-01-01 19:49:19,749 DEBUG multiple lines detected
+2023-01-01 19:49:19,749 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:19,749 DEBUG current cursor position - y: 2 x: 4
+2023-01-01 19:49:19,749 DEBUG 39
+2023-01-01 19:49:19,749 DEBUG new locations - y: 2 x: 5
+2023-01-01 19:49:19,942 DEBUG multiple lines detected
+2023-01-01 19:49:19,942 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:19,942 DEBUG current cursor position - y: 2 x: 5
+2023-01-01 19:49:19,942 DEBUG 115
+2023-01-01 19:49:19,942 DEBUG new locations - y: 2 x: 6
+2023-01-01 19:49:20,056 DEBUG multiple lines detected
+2023-01-01 19:49:20,056 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:20,056 DEBUG current cursor position - y: 2 x: 6
+2023-01-01 19:49:20,056 DEBUG 32
+2023-01-01 19:49:20,056 DEBUG new locations - y: 2 x: 7
+2023-01-01 19:49:20,262 DEBUG multiple lines detected
+2023-01-01 19:49:20,262 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:20,262 DEBUG current cursor position - y: 2 x: 7
+2023-01-01 19:49:20,262 DEBUG 117
+2023-01-01 19:49:20,262 DEBUG new locations - y: 2 x: 8
+2023-01-01 19:49:20,364 DEBUG multiple lines detected
+2023-01-01 19:49:20,364 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:20,364 DEBUG current cursor position - y: 2 x: 8
+2023-01-01 19:49:20,364 DEBUG 112
+2023-01-01 19:49:20,364 DEBUG new locations - y: 2 x: 9
+2023-01-01 19:49:22,865 DEBUG multiple lines detected
+2023-01-01 19:49:22,865 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:22,865 DEBUG current cursor position - y: 2 x: 9
+2023-01-01 19:49:22,865 DEBUG 260
+2023-01-01 19:49:22,865 DEBUG new locations - y: 2 x: 8
+2023-01-01 19:49:23,033 DEBUG multiple lines detected
+2023-01-01 19:49:23,033 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:23,033 DEBUG current cursor position - y: 2 x: 8
+2023-01-01 19:49:23,033 DEBUG 260
+2023-01-01 19:49:23,033 DEBUG new locations - y: 2 x: 7
+2023-01-01 19:49:23,177 DEBUG multiple lines detected
+2023-01-01 19:49:23,178 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:23,178 DEBUG current cursor position - y: 2 x: 7
+2023-01-01 19:49:23,178 DEBUG 260
+2023-01-01 19:49:23,178 DEBUG new locations - y: 2 x: 6
+2023-01-01 19:49:23,304 DEBUG multiple lines detected
+2023-01-01 19:49:23,304 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:23,304 DEBUG current cursor position - y: 2 x: 6
+2023-01-01 19:49:23,304 DEBUG 260
+2023-01-01 19:49:23,305 DEBUG new locations - y: 2 x: 5
+2023-01-01 19:49:24,416 DEBUG multiple lines detected
+2023-01-01 19:49:24,416 DEBUG len line length: 2 y: 2
+2023-01-01 19:49:24,416 DEBUG current cursor position - y: 2 x: 5
+2023-01-01 19:49:24,416 DEBUG 10
+2023-01-01 19:49:24,416 DEBUG new line detected
+2023-01-01 19:49:24,416 DEBUG new locations - y: 3 x: 0
+2023-01-01 19:49:24,666 DEBUG multiple lines detected
+2023-01-01 19:49:24,666 DEBUG len line length: 3 y: 3
+2023-01-01 19:49:24,666 DEBUG current cursor position - y: 3 x: 0
+2023-01-01 19:49:24,666 DEBUG 10
+2023-01-01 19:49:24,666 DEBUG new line detected
+2023-01-01 19:49:24,666 DEBUG new locations - y: 4 x: 0
+2023-01-01 19:49:25,682 DEBUG multiple lines detected
+2023-01-01 19:49:25,682 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:25,682 DEBUG current cursor position - y: 4 x: 0
+2023-01-01 19:49:25,682 DEBUG 106
+2023-01-01 19:49:25,682 DEBUG new locations - y: 4 x: 1
+2023-01-01 19:49:25,807 DEBUG multiple lines detected
+2023-01-01 19:49:25,807 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:25,807 DEBUG current cursor position - y: 4 x: 1
+2023-01-01 19:49:25,807 DEBUG 101
+2023-01-01 19:49:25,807 DEBUG new locations - y: 4 x: 2
+2023-01-01 19:49:26,335 DEBUG multiple lines detected
+2023-01-01 19:49:26,335 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:26,335 DEBUG current cursor position - y: 4 x: 2
+2023-01-01 19:49:26,335 DEBUG 114
+2023-01-01 19:49:26,335 DEBUG new locations - y: 4 x: 3
+2023-01-01 19:49:26,465 DEBUG multiple lines detected
+2023-01-01 19:49:26,465 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:26,465 DEBUG current cursor position - y: 4 x: 3
+2023-01-01 19:49:26,465 DEBUG 101
+2023-01-01 19:49:26,465 DEBUG new locations - y: 4 x: 4
+2023-01-01 19:49:27,065 DEBUG multiple lines detected
+2023-01-01 19:49:27,065 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:27,065 DEBUG current cursor position - y: 4 x: 4
+2023-01-01 19:49:27,065 DEBUG 263
+2023-01-01 19:49:27,065 DEBUG new locations - y: 4 x: 3
+2023-01-01 19:49:27,220 DEBUG multiple lines detected
+2023-01-01 19:49:27,220 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:27,220 DEBUG current cursor position - y: 4 x: 3
+2023-01-01 19:49:27,220 DEBUG 263
+2023-01-01 19:49:27,220 DEBUG new locations - y: 4 x: 2
+2023-01-01 19:49:27,375 DEBUG multiple lines detected
+2023-01-01 19:49:27,375 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:27,375 DEBUG current cursor position - y: 4 x: 2
+2023-01-01 19:49:27,375 DEBUG 263
+2023-01-01 19:49:27,375 DEBUG new locations - y: 4 x: 1
+2023-01-01 19:49:27,527 DEBUG multiple lines detected
+2023-01-01 19:49:27,527 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:27,527 DEBUG current cursor position - y: 4 x: 1
+2023-01-01 19:49:27,527 DEBUG 263
+2023-01-01 19:49:27,527 DEBUG new locations - y: 4 x: 0
+2023-01-01 19:49:31,085 DEBUG multiple lines detected
+2023-01-01 19:49:31,085 DEBUG len line length: 4 y: 4
+2023-01-01 19:49:31,085 DEBUG current cursor position - y: 4 x: 0
+2023-01-01 19:49:31,085 DEBUG 6
+2023-01-01 19:49:39,473 INFO begin
