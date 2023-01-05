@@ -15,9 +15,69 @@ logger.setLevel(logging.DEBUG)
 
 logger.info("begin")
 
-def move_down(cursor_y, cursor_x, editor_y, state):
-	logger.debug(f"{cursor_y} {editor_y} {len(state)}")
+def move_left(cursor_y, cursor_x, editor_y, state):
+	is_cursor_at_line_beginning = cursor_x == 0
+	is_cursor_at_editor_top = cursor_y == 0
 
+	# 4 scenerios
+	# Go left
+	# Go to previous line - beginning of line
+	# Scroll up - top of life with content above
+	# Do nothing - top of file
+
+	if is_cursor_at_line_beginning and is_cursor_at_editor_top and editor_y == 0:
+		return (cursor_y, cursor_x, editor_y)
+
+	previous_line = state[editor_y + cursor_y - 1]
+	previous_line_end = len(previous_line) - 1
+
+	if is_cursor_at_line_beginning and is_cursor_at_editor_top:
+		return (cursor_y, previous_line_end, editor_y - 1)
+
+	if is_cursor_at_line_beginning:
+		return (cursor_y - 1, previous_line_end, editor_y)
+
+	return (cursor_y, cursor_x - 1, editor_y)
+
+def move_right(cursor_y, cursor_x, editor_y, state):
+	curr_line_text = state[cursor_y + editor_y]
+
+	is_cursor_at_line_end = cursor_x == len(curr_line_text) - 1
+	is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
+	is_cursor_at_file_end = \
+		is_cursor_at_line_end and \
+		is_cursor_at_editor_bottom and \
+		cursor_y + editor_y == len(state) - 2
+
+	# 4 scenerios
+	# Go right
+	# Go to next line - end of line
+	# Go to next line and scroll - end of line and bottom of editor
+	# Do nothing - end of file
+
+	if is_cursor_at_file_end:
+		return (cursor_y, cursor_x, editor_y)
+
+	if is_cursor_at_line_end and is_cursor_at_editor_bottom:
+		return (cursor_y, 0, editor_y + 1)
+
+	if is_cursor_at_line_end:
+		return (cursor_y + 1, 0, editor_y)
+
+	return (cursor_y, cursor_x + 1, editor_y)
+
+def move_up(cursor_y, cursor_x, editor_y, state):
+	# Top of the file, don't do anything
+	if cursor_y == 0 and editor_y == 0:
+		return (cursor_y, cursor_x, editor_y)
+
+	# Need to scroll up
+	if cursor_y == 0:
+		return (cursor_y, cursor_x, editor_y - 1)
+
+	return (cursor_y - 1, cursor_x, editor_y)
+
+def move_down(cursor_y, cursor_x, editor_y, state):
 	# Cursor is at the end of the file
 	# -2 because cursor_y and editor_y both index at 0
 	if cursor_y + editor_y == len(state) - 2:
@@ -64,11 +124,11 @@ def main(scr):
 			state[y] = state[y][:x - 1] + state[y][x:]
 			new_x = x - 1
 		elif key == curses.KEY_LEFT:
-			new_x = x - 1
+			new_y, new_x, editor_y = move_left(y, x, editor_y, state)
 		elif key == curses.KEY_RIGHT:
-			new_x = x + 1
+			new_y, new_x, editor_y = move_right(y, x, editor_y, state)
 		elif key == curses.KEY_UP:
-			pass
+			new_y, new_x, editor_y = move_up(y, x, editor_y, state)
 		elif key == curses.KEY_DOWN:
 			new_y, new_x, editor_y = move_down(y, x, editor_y, state)
 			logger.debug(f"new_y: {new_y} new_x: {new_x} editor_y: {editor_y}")
