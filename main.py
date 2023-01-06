@@ -4,7 +4,7 @@ import logging
 import sys
 
 EDITOR_HEIGHT = 10
-EDITOR_WIDTH = 30
+EDITOR_WIDTH = 100
 
 logger = logging.getLogger(__file__)
 hdlr = logging.FileHandler(__file__ + ".log")
@@ -42,7 +42,7 @@ def move_left(cursor_y, cursor_x, editor_y, state):
 def move_right(cursor_y, cursor_x, editor_y, state):
 	curr_line_text = state[cursor_y + editor_y]
 
-	is_cursor_at_line_end = cursor_x == len(curr_line_text) - 1
+	is_cursor_at_line_end = cursor_x == len(curr_line_text)
 	is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
 	is_cursor_at_file_end = \
 		is_cursor_at_line_end and \
@@ -71,11 +71,19 @@ def move_up(cursor_y, cursor_x, editor_y, state):
 	if cursor_y == 0 and editor_y == 0:
 		return (cursor_y, cursor_x, editor_y)
 
+	previous_line = state[cursor_y + editor_y - 1]
+
+	# if the previous line is shorter than the current one
+	# set x to the last character position
+	previous_line_x = cursor_x
+	if cursor_x > len(previous_line) - 1:
+		previous_line_x = len(previous_line)
+
 	# Need to scroll up
 	if cursor_y == 0:
-		return (cursor_y, cursor_x, editor_y - 1)
+		return (cursor_y, previous_line_x, editor_y - 1)
 
-	return (cursor_y - 1, cursor_x, editor_y)
+	return (cursor_y - 1, previous_line_x, editor_y)
 
 def move_down(cursor_y, cursor_x, editor_y, state):
 	# Cursor is at the end of the file
@@ -83,12 +91,20 @@ def move_down(cursor_y, cursor_x, editor_y, state):
 	if cursor_y + editor_y == len(state) - 2:
 		return (cursor_y, cursor_x, editor_y)
 
+	next_line = state[cursor_y + editor_y + 1]
+
+	# if the next line is shorter than the current one
+	# set x to the last character position
+	next_line_x = cursor_x
+	if cursor_x > len(next_line) - 1:
+		next_line_x = len(next_line)
+
 	# Cursor is at the end of the screen, scroll down
 	if cursor_y == EDITOR_HEIGHT:
-		return (cursor_y, cursor_x, editor_y + 1)
+		return (cursor_y, next_line_x, editor_y + 1)
 
 	# Cursor can just move down
-	return (cursor_y + 1, cursor_x, editor_y)
+	return (cursor_y + 1, next_line_x, editor_y)
 
 def main(scr):
 	curses.noecho()
@@ -103,7 +119,7 @@ def main(scr):
 	logger.debug(state)
 	text_file.close()
 
-	editor = curses.newpad(100, 100)
+	editor = curses.newpad(200, 10000)
 	scr.refresh()
 
 	editor_y = 0
@@ -120,10 +136,8 @@ def main(scr):
 		logger.debug(f"current cursor position - y: {y} x: {x}")
 		logger.debug(key)
 
-		if key == curses.KEY_BACKSPACE:
-			state[y] = state[y][:x - 1] + state[y][x:]
-			new_x = x - 1
-		elif key == curses.KEY_LEFT:
+
+		if key == curses.KEY_LEFT:
 			new_y, new_x, editor_y = move_left(y, x, editor_y, state)
 		elif key == curses.KEY_RIGHT:
 			new_y, new_x, editor_y = move_right(y, x, editor_y, state)
@@ -147,27 +161,32 @@ def main(scr):
 			# s
 			elif key == 115:
 				text_file = open(file_name, "w")
-				text_file.write(state)
+				text_file.write("\n".join(state))
 				text_file.close()
 				exit()
 			scr.move(new_y_position, new_x_position)
 			continue
 		else:
 			char = chr(key)
+			logger.debug(char)
 			if char == "\n":
 				logger.debug("new line detected")
-				new_y = y + 1
+				new_y = y + editor_y + 1
 				new_x = 0
+				state.append("" + state[y + editor_y][x:])
+				state[y + editor_y] = state[y + editor_y][:x]
+			elif key == curses.KEY_BACKSPACE:
+				state[y + editor_y] = state[y + editor_y][:x - 1] + state[y + editor_y][x:]
+				new_x = x - 1
 			else:
 				new_x = x + 1
+				state[y + editor_y] = state[y + editor_y][:x] + char + state[y + editor_y][x:]
 
-			state[y] = state[y][:x] + char + state[x:]
+			editor.clear()
+			editor.addstr("\n".join(state))
 
-		editor.clear()
-		editor.addstr("\n".join(state))
 		editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
 		logger.debug(f"new locations - y: {new_y} x: {new_x}")
 		scr.move(new_y, new_x)
-		scr.refresh()
 
 wrapper(main)
