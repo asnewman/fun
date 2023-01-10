@@ -29,7 +29,7 @@ def move_left(cursor_y, cursor_x, editor_y, state):
 		return (cursor_y, cursor_x, editor_y)
 
 	previous_line = state[editor_y + cursor_y - 1]
-	previous_line_end = len(previous_line) - 1
+	previous_line_end = len(previous_line)
 
 	if is_cursor_at_line_beginning and is_cursor_at_editor_top:
 		return (cursor_y, previous_line_end, editor_y - 1)
@@ -44,10 +44,15 @@ def move_right(cursor_y, cursor_x, editor_y, state):
 
 	is_cursor_at_line_end = cursor_x == len(curr_line_text)
 	is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
+
+	# If content is shorter than the editor, bottom is earlier
+	if len(state) < EDITOR_HEIGHT:
+		is_cursor_at_editor_bottom = cursor_y + 1 == len(state)
+
 	is_cursor_at_file_end = \
 		is_cursor_at_line_end and \
 		is_cursor_at_editor_bottom and \
-		cursor_y + editor_y == len(state) - 2
+		cursor_y + editor_y == len(state) - 1
 
 	# 4 scenerios
 	# Go right
@@ -87,8 +92,7 @@ def move_up(cursor_y, cursor_x, editor_y, state):
 
 def move_down(cursor_y, cursor_x, editor_y, state):
 	# Cursor is at the end of the file
-	# -2 because cursor_y and editor_y both index at 0
-	if cursor_y + editor_y == len(state) - 2:
+	if cursor_y + editor_y == len(state) - 1:
 		return (cursor_y, cursor_x, editor_y)
 
 	next_line = state[cursor_y + editor_y + 1]
@@ -125,6 +129,7 @@ def main(scr):
 	editor_y = 0
 	editor.addstr(raw_state)
 	editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
+	scr.move(0, 0)
 
 	while True:
 		key = scr.getch()
@@ -173,7 +178,7 @@ def main(scr):
 				logger.debug("new line detected")
 				new_y = y + editor_y + 1
 				new_x = 0
-				state.append("" + state[y + editor_y][x:])
+				state.insert(new_y, "" + state[y + editor_y][x:])
 				state[y + editor_y] = state[y + editor_y][:x]
 			elif key == curses.KEY_BACKSPACE:
 				state[y + editor_y] = state[y + editor_y][:x - 1] + state[y + editor_y][x:]
