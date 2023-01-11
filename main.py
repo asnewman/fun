@@ -3,8 +3,8 @@ from curses import wrapper
 import logging
 import sys
 
-EDITOR_HEIGHT = 10
-EDITOR_WIDTH = 100
+EDITOR_HEIGHT = 1
+EDITOR_WIDTH = 1
 
 logger = logging.getLogger(__file__)
 hdlr = logging.FileHandler(__file__ + ".log")
@@ -37,10 +37,14 @@ def move_left(cursor_y, cursor_x, editor_y, state):
 	if is_cursor_at_line_beginning:
 		return (cursor_y - 1, previous_line_end, editor_y)
 
+	if (curr_line_text[cursor_x] == "\t"):
+		return (cursor_y, cursor_x - 8, editor_y)
+
 	return (cursor_y, cursor_x - 1, editor_y)
 
 def move_right(cursor_y, cursor_x, editor_y, state):
 	curr_line_text = state[cursor_y + editor_y]
+	logger.debug(f"curr_line_text {curr_line_text}")
 
 	is_cursor_at_line_end = cursor_x == len(curr_line_text)
 	is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
@@ -68,6 +72,9 @@ def move_right(cursor_y, cursor_x, editor_y, state):
 
 	if is_cursor_at_line_end:
 		return (cursor_y + 1, 0, editor_y)
+
+	if (curr_line_text[cursor_x] == "\t"):
+		return (cursor_y, cursor_x + 8, editor_y)
 
 	return (cursor_y, cursor_x + 1, editor_y)
 
@@ -113,6 +120,15 @@ def move_down(cursor_y, cursor_x, editor_y, state):
 def main(scr):
 	curses.noecho()
 
+	logger.debug(scr.getmaxyx())
+	screen_height, screen_width = scr.getmaxyx()
+	global EDITOR_HEIGHT
+	global EDITOR_WIDTH
+	EDITOR_HEIGHT = screen_height - 1
+	EDITOR_WIDTH = screen_width - 1
+
+	logger.debug(f"EDITOR_HEIGHT: {EDITOR_HEIGHT} EDITOR_WIDTH: {EDITOR_WIDTH}")
+
 	if len(sys.argv) != 2:
 		exit()
 	file_name = sys.argv[1]
@@ -123,7 +139,7 @@ def main(scr):
 	logger.debug(state)
 	text_file.close()
 
-	editor = curses.newpad(200, 10000)
+	editor = curses.newpad(10000, 100)
 	scr.refresh()
 
 	editor_y = 0
@@ -185,7 +201,15 @@ def main(scr):
 				new_x = x - 1
 			else:
 				new_x = x + 1
-				state[y + editor_y] = state[y + editor_y][:x] + char + state[y + editor_y][x:]
+				curr_line_num = y + editor_y
+				curr_line_text = state[curr_line_num]
+
+				tab_cnt = 0
+				for i in range(len(curr_line_text)):
+					if curr_line_text[i] == "\t":
+						tab_cnt += 1
+
+				state[y + editor_y] = state[y + editor_y][:x - tab_cnt * 8] + char + state[y + editor_y][x - tab_cnt * 8:]
 
 			editor.clear()
 			editor.addstr("\n".join(state))
