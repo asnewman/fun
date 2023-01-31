@@ -43,6 +43,7 @@ def move_right(cursor_y, cursor_x, editor_y, state):
   curr_line_text = state[cursor_y + editor_y]
   logger.debug(f"curr_line_text {curr_line_text}")
 
+
   is_cursor_at_line_end = cursor_x == len(curr_line_text)
   is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
 
@@ -186,7 +187,10 @@ def main(scr):
       logger.debug(char)
       if char == "\n":
         logger.debug("new line detected")
-        new_y = y + 1
+        new_y = y
+        logger.debug(f"y: {y} EDITOR_HEIGHT: {EDITOR_HEIGHT}")
+        if y != EDITOR_HEIGHT:
+          new_y = y + 1
         new_x = 0
         state.insert(new_y + editor_y, "" + state[y + editor_y][x:])
         state[y + editor_y] = state[y + editor_y][:x]
@@ -205,13 +209,7 @@ def main(scr):
         curr_line_num = y + editor_y
         curr_line_text = state[curr_line_num]
 
-        #tab_cnt = 0
-        #for i in range(len(curr_line_text)):
-        #  if curr_line_text[i] == "\t":
-        #    tab_cnt += 1
-
         state[y + editor_y] = state[y + editor_y][:x] + char + state[y + editor_y][x:]
-        #state[y + editor_y] = state[y + editor_y][:x - tab_cnt * 8] + char + state[y + editor_y][x - tab_cnt * 8:]
 
       editor.clear()
       editor.addstr("\n".join(state))
