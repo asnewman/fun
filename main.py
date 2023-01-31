@@ -198,7 +198,7 @@ def main(scr):
         else:
           if len(state[y + editor_y]) == 0:
             del state[y + editor_y]
-            new_y = y + editor_y - 1
+            new_y = y - 1
             new_x = len(state[y + editor_y - 1])
       else:
         new_x = x + 1
