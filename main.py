@@ -148,20 +148,19 @@ def main(scr):
 
     new_y = y
     new_x = x
+    new_editor_y = editor_y
 
     logger.debug(f"current cursor position - y: {y} x: {x}")
     logger.debug(key)
 
-
     if key == curses.KEY_LEFT:
-      new_y, new_x, editor_y = move_left(y, x, editor_y, state)
+      new_y, new_x, new_editor_y = move_left(y, x, editor_y, state)
     elif key == curses.KEY_RIGHT:
-      new_y, new_x, editor_y = move_right(y, x, editor_y, state)
+      new_y, new_x, new_editor_y = move_right(y, x, editor_y, state)
     elif key == curses.KEY_UP:
-      new_y, new_x, editor_y = move_up(y, x, editor_y, state)
+      new_y, new_x, new_editor_y = move_up(y, x, editor_y, state)
     elif key == curses.KEY_DOWN:
-      new_y, new_x, editor_y = move_down(y, x, editor_y, state)
-      logger.debug(f"new_y: {new_y} new_x: {new_x} editor_y: {editor_y}")
+      new_y, new_x, new_editor_y = move_down(y, x, editor_y, state)
     # Delete line with CTRL + d
     elif key == 4:
       state = []
@@ -188,7 +187,6 @@ def main(scr):
       if char == "\n":
         logger.debug("new line detected")
         new_y = y
-        logger.debug(f"y: {y} EDITOR_HEIGHT: {EDITOR_HEIGHT}")
         if y != EDITOR_HEIGHT:
           new_y = y + 1
         new_x = 0
@@ -196,7 +194,6 @@ def main(scr):
         state[y + editor_y] = state[y + editor_y][:x]
       elif key == curses.KEY_BACKSPACE or key == 127:
         if x != 0:
-
           state[y + editor_y] = state[y + editor_y][:x - 1] + state[y + editor_y][x:]
           new_x = x - 1
         else:
@@ -204,6 +201,12 @@ def main(scr):
             del state[y + editor_y]
             new_y = y - 1
             new_x = len(state[y + editor_y - 1])
+          else:
+            # Delete line, push left over to previous line
+            state[y + editor_y - 1] = state[y + editor_y - 1] + state[y + editor_y]
+            del state[y + editor_y]
+            new_x = len(state[y + editor_y - 1])
+            new_y = y - 1
       else:
         new_x = x + 1
         curr_line_num = y + editor_y
@@ -214,7 +217,9 @@ def main(scr):
       editor.clear()
       editor.addstr("\n".join(state))
 
-    editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
+    if editor_y != new_editor_y:
+      editor.refresh(new_editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
+      editor_y = new_editor_y
     logger.debug(f"new locations - y: {new_y} x: {new_x}")
     scr.move(new_y, new_x)
 
