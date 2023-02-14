@@ -6,6 +6,7 @@ import sys
 EDITOR_HEIGHT = 1
 EDITOR_WIDTH = 1
 
+
 logger = logging.getLogger(__file__)
 hdlr = logging.FileHandler(__file__ + ".log")
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
@@ -112,8 +113,26 @@ def move_down(cursor_y, cursor_x, editor_y, state):
   # Cursor can just move down
   return (cursor_y + 1, next_line_x, editor_y)
 
+def render(editor, state, editor_y):
+  editor.clear()
+  for i in range(len(state)):
+    tabcnt = state[i].count("  ")
+    if "  " in state[i]:
+      editor.attron(curses.color_pair(tabcnt % 3 + 1))
+      editor.addstr(state[i])
+      editor.attroff(curses.color_pair(tabcnt % 3 + 1))
+    else:
+      editor.addstr(state[i])
+    if (i != len(state) - 1):
+      editor.addstr("\n")
+  editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
+
 def main(scr):
   curses.noecho()
+  curses.start_color()
+  curses.init_pair(1, curses.COLOR_MAGENTA, curses.COLOR_BLACK)
+  curses.init_pair(2, curses.COLOR_CYAN, curses.COLOR_BLACK)
+  curses.init_pair(3, curses.COLOR_GREEN, curses.COLOR_BLACK)
 
   logger.debug(scr.getmaxyx())
   screen_height, screen_width = scr.getmaxyx()
@@ -124,7 +143,7 @@ def main(scr):
 
   logger.debug(f"EDITOR_HEIGHT: {EDITOR_HEIGHT} EDITOR_WIDTH: {EDITOR_WIDTH}")
 
-  if len(sys.argv) != 2:
+  if len(sys.argv) < 2:
     exit()
   file_name = sys.argv[1]
 
@@ -134,13 +153,34 @@ def main(scr):
   logger.debug(state)
   text_file.close()
 
-  editor = curses.newpad(10000, 120)
+  editor = curses.newpad(10000, EDITOR_WIDTH)
   scr.refresh()
 
+  start_y = 0
+  try:
+    start_y = int(sys.argv[2])
+  except ValueError as e:
+    # find line of code that matches
+    i = 0
+    for i in range(len(state)):
+      if "def " + sys.argv[2] in state[i]:
+        break
+    start_y = i + 1
+  except:
+    pass
+
   editor_y = 0
-  editor.addstr(raw_state)
-  editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
-  scr.move(0, 0)
+
+  if start_y > 0 and start_y - EDITOR_HEIGHT > 0:
+    editor_y = start_y - EDITOR_HEIGHT
+    start_y = start_y - editor_y - 1
+  
+  render(editor, state, editor_y)
+
+  if start_y:
+    scr.move(start_y, 0)
+  else:
+    scr.move(0, 0)
 
   while True:
     key = scr.getch()
@@ -167,19 +207,22 @@ def main(scr):
     # CTRL + F
     elif key == 6:
       key = scr.getch()
+      # c
+      if key == 99:
+        exit()
       # d
       if key == 100:
-        new_x_position = 0
-        new_y_position = 0
-        state = ""
-        scr.clear()
+        new_x = 0
+        if y != 0:
+          new_y = y - 1
+        del state[y + editor_y]
+        render(editor, state, new_editor_y)
       # s
       elif key == 115:
         text_file = open(file_name, "w")
         text_file.write("\n".join(state))
         text_file.close()
-        exit()
-      scr.move(new_y_position, new_x_position)
+      scr.move(new_y, new_x)
       continue
     else:
       char = chr(key)
@@ -212,10 +255,14 @@ def main(scr):
         curr_line_num = y + editor_y
         curr_line_text = state[curr_line_num]
 
+        # all tabs are two spaces in fun because I want it that way
+        if char == "\t":
+          char = "  "
+          new_x += 1
+
         state[y + editor_y] = state[y + editor_y][:x] + char + state[y + editor_y][x:]
 
-      editor.clear()
-      editor.addstr("\n".join(state))
+      render(editor, state, new_editor_y)
 
     if editor_y != new_editor_y:
       editor.refresh(new_editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
