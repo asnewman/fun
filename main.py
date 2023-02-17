@@ -3,9 +3,15 @@ from curses import wrapper
 import logging
 import sys
 
+# Capture ctrl + c and gracefully shutdown
+import signal
+def signal_handler(sig, frame):
+  sys.exit(0)
+signal.signal(signal.SIGINT, signal_handler)
+##########################################
+
 EDITOR_HEIGHT = 1
 EDITOR_WIDTH = 1
-
 
 logger = logging.getLogger(__file__)
 hdlr = logging.FileHandler(__file__ + ".log")
@@ -117,12 +123,9 @@ def render(editor, state, editor_y):
   editor.clear()
   for i in range(len(state)):
     tabcnt = state[i].count("  ")
-    if "  " in state[i]:
-      editor.attron(curses.color_pair(tabcnt % 3 + 1))
-      editor.addstr(state[i])
-      editor.attroff(curses.color_pair(tabcnt % 3 + 1))
-    else:
-      editor.addstr(state[i])
+    editor.attron(curses.color_pair(tabcnt % 3 + 1))
+    editor.addstr(state[i])
+    editor.attroff(curses.color_pair(tabcnt % 3 + 1))
     if (i != len(state) - 1):
       editor.addstr("\n")
   editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
@@ -132,7 +135,8 @@ def main(scr):
   curses.start_color()
   curses.init_pair(1, curses.COLOR_MAGENTA, curses.COLOR_BLACK)
   curses.init_pair(2, curses.COLOR_CYAN, curses.COLOR_BLACK)
-  curses.init_pair(3, curses.COLOR_GREEN, curses.COLOR_BLACK)
+  curses.init_pair(3, curses.COLOR_WHITE, curses.COLOR_BLACK)
+  curses.init_pair(4, curses.COLOR_GREEN, curses.COLOR_BLACK)
 
   logger.debug(scr.getmaxyx())
   screen_height, screen_width = scr.getmaxyx()
