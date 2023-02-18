@@ -51,7 +51,7 @@ def move_right(cursor_y, cursor_x, editor_y, state):
   logger.debug(f"curr_line_text {curr_line_text}")
 
 
-  is_cursor_at_line_end = cursor_x == len(curr_line_text)
+  is_cursor_at_line_end = cursor_x == len(curr_line_text) or cursor_x == EDITOR_WIDTH - 1
   is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
 
   # If content is shorter than the editor, bottom is earlier
@@ -124,8 +124,10 @@ def render(editor, state, editor_y):
   for i in range(len(state)):
     tabcnt = state[i].count("  ")
     editor.attron(curses.color_pair(tabcnt % 3 + 1))
-    editor.addstr(state[i])
+    editor.addstr(state[i][0 : EDITOR_WIDTH])
     editor.attroff(curses.color_pair(tabcnt % 3 + 1))
+
+    # Add new lines on all lines except for the last one
     if (i != len(state) - 1):
       editor.addstr("\n")
   editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
@@ -244,11 +246,11 @@ def main(scr):
           state[y + editor_y] = state[y + editor_y][:x - 1] + state[y + editor_y][x:]
           new_x = x - 1
         else:
-          if len(state[y + editor_y]) == 0:
+          if len(state[y + editor_y]) == 0 and y != 0 and editor_y != 0:
             del state[y + editor_y]
             new_y = y - 1
             new_x = len(state[y + editor_y - 1])
-          else:
+          elif y != 0 and editor_y != 0:
             # Delete line, push left over to previous line
             state[y + editor_y - 1] = state[y + editor_y - 1] + state[y + editor_y]
             del state[y + editor_y]
