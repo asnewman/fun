@@ -242,15 +242,16 @@ def main(scr):
         state.insert(new_y + editor_y, "" + state[y + editor_y][x:])
         state[y + editor_y] = state[y + editor_y][:x]
       elif key == curses.KEY_BACKSPACE or key == 127:
+        cursor_at_file_beginning = y == 0 and editor_y == 0
         if x != 0:
           state[y + editor_y] = state[y + editor_y][:x - 1] + state[y + editor_y][x:]
           new_x = x - 1
         else:
-          if len(state[y + editor_y]) == 0 and y != 0 and editor_y != 0:
+          if len(state[y + editor_y]) == 0 and not cursor_at_file_beginning:
             del state[y + editor_y]
             new_y = y - 1
             new_x = len(state[y + editor_y - 1])
-          elif y != 0 and editor_y != 0:
+          elif not cursor_at_file_beginning:
             # Delete line, push left over to previous line
             state[y + editor_y - 1] = state[y + editor_y - 1] + state[y + editor_y]
             del state[y + editor_y]
