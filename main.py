@@ -164,7 +164,7 @@ def main(scr):
 
   start_y = 0
   try:
-    start_y = int(sys.argv[2])
+    start_y = int(sys.argv[2]) - 1
   except ValueError as e:
     # find line of code that matches
     i = 0
