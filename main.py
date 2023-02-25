@@ -1,4 +1,4 @@
-import curses
+import curses, curses.panel
 from curses import wrapper
 import logging
 import sys
@@ -139,6 +139,8 @@ def main(scr):
   curses.init_pair(2, curses.COLOR_CYAN, curses.COLOR_BLACK)
   curses.init_pair(3, curses.COLOR_WHITE, curses.COLOR_BLACK)
   curses.init_pair(4, curses.COLOR_GREEN, curses.COLOR_BLACK)
+  curses.init_pair(5, curses.COLOR_BLACK, curses.COLOR_YELLOW)
+  BLACK_AND_YELLOW = curses.color_pair(5)
 
   logger.debug(scr.getmaxyx())
   screen_height, screen_width = scr.getmaxyx()
@@ -160,6 +162,9 @@ def main(scr):
   text_file.close()
 
   editor = curses.newpad(10000, EDITOR_WIDTH)
+  statusbartext = curses.newwin(1, EDITOR_WIDTH, 0, 0)
+  statusbar = curses.panel.new_panel(statusbartext)
+  statusbar.hide()
   scr.refresh()
 
   start_y = 0
@@ -212,6 +217,10 @@ def main(scr):
       state = []
     # CTRL + F
     elif key == 6:
+      statusbartext.clear()
+      statusbartext.addstr("Waiting for a command character", BLACK_AND_YELLOW)
+      statusbartext.refresh()
+      statusbar.show()
       key = scr.getch()
       # c
       if key == 99:
@@ -229,6 +238,8 @@ def main(scr):
         text_file.write("\n".join(state))
         text_file.close()
       scr.move(new_y, new_x)
+      statusbar.hide()
+      scr.refresh()
       continue
     else:
       char = chr(key)
