@@ -3,6 +3,8 @@ from curses import wrapper
 import logging
 import sys
 
+# hello world
+
 # Capture ctrl + c and gracefully shutdown
 import signal
 def signal_handler(sig, frame):
@@ -113,15 +115,19 @@ def move_down(cursor_y, cursor_x, editor_y, state):
     next_line_x = len(next_line)
 
   # Cursor is at the end of the screen, scroll down
-  if cursor_y == EDITOR_HEIGHT:
+  if cursor_y == EDITOR_HEIGHT - 1:
     return (cursor_y, next_line_x, editor_y + 1)
 
   # Cursor can just move down
   return (cursor_y + 1, next_line_x, editor_y)
 
-def render(editor, state, editor_y):
+def render(editor, state, editor_y, cursor_x, cursor_y):
   editor.clear()
-  for i in range(len(state)):
+
+  upper_range = editor_y + EDITOR_HEIGHT
+  if (upper_range > len(state)):
+    upper_range = len(state)
+  for i in range(editor_y, upper_range):
     tabcnt = state[i].count("  ")
     editor.attron(curses.color_pair(tabcnt % 3 + 1))
     editor.addstr(state[i][0 : EDITOR_WIDTH])
@@ -129,12 +135,23 @@ def render(editor, state, editor_y):
 
     # Add new lines on all lines except for the last one
     if (i != len(state) - 1):
-      editor.addstr("\n")
-  editor.refresh(editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
+      try:
+        editor.addstr("\n")
+      # catch if adding \n at the bottom of the screen since the cursor gets advanced by addstr
+      except curses.error:
+        pass
+
+  editor.move(cursor_y, cursor_x)
+  editor.refresh()
 
 def main(scr):
-  curses.noecho()
-  curses.start_color()
+  global EDITOR_HEIGHT
+  global EDITOR_WIDTH
+  screen_height, screen_width = scr.getmaxyx()
+  EDITOR_HEIGHT = screen_height - 2 # 2 cause statusbar takes up 1 space
+  EDITOR_WIDTH = screen_width - 1
+
+  #-- Colors
   curses.init_pair(1, curses.COLOR_MAGENTA, curses.COLOR_BLACK)
   curses.init_pair(2, curses.COLOR_CYAN, curses.COLOR_BLACK)
   curses.init_pair(3, curses.COLOR_WHITE, curses.COLOR_BLACK)
@@ -142,31 +159,21 @@ def main(scr):
   curses.init_pair(5, curses.COLOR_BLACK, curses.COLOR_YELLOW)
   BLACK_AND_YELLOW = curses.color_pair(5)
 
-  logger.debug(scr.getmaxyx())
-  screen_height, screen_width = scr.getmaxyx()
-  global EDITOR_HEIGHT
-  global EDITOR_WIDTH
-  EDITOR_HEIGHT = screen_height - 1
-  EDITOR_WIDTH = screen_width - 1
-
-  logger.debug(f"EDITOR_HEIGHT: {EDITOR_HEIGHT} EDITOR_WIDTH: {EDITOR_WIDTH}")
-
+  #-- Text file reading
   if len(sys.argv) < 2:
     exit()
   file_name = sys.argv[1]
-
   text_file = open(file_name, "r")
   raw_state = text_file.read()
   state = raw_state.split("\n")
-  logger.debug(state)
   text_file.close()
 
-  editor = curses.newpad(10000, EDITOR_WIDTH)
-  statusbartext = curses.newwin(1, EDITOR_WIDTH, 0, 0)
-  statusbar = curses.panel.new_panel(statusbartext)
-  statusbar.hide()
-  scr.refresh()
+  #-- Init statusbar
+  statusbar = curses.newwin(1, EDITOR_WIDTH, 0, 0)
+  statusbar.addstr(file_name, BLACK_AND_YELLOW)
+  statusbar.refresh()
 
+  #-- Determine cursor start position
   start_y = 0
   try:
     start_y = int(sys.argv[2]) - 1
@@ -180,29 +187,30 @@ def main(scr):
   except:
     pass
 
-  editor_y = 0
-
+  # Handle line number that is too large for the file
   if start_y > 0 and start_y - EDITOR_HEIGHT > 0:
     editor_y = start_y - EDITOR_HEIGHT
     start_y = start_y - editor_y - 1
   
-  render(editor, state, editor_y)
 
-  if start_y:
-    scr.move(start_y, 0)
-  else:
-    scr.move(0, 0)
+  #-- Init editor
+  editor = curses.newwin(EDITOR_HEIGHT, EDITOR_WIDTH, 1, 0)
+  editor.keypad(True)
+  editor_y = 0
+  render(editor=editor, state=state, editor_y=editor_y, cursor_x=0, cursor_y=start_y)
 
   while True:
-    key = scr.getch()
-    y, x = scr.getyx()
+    key = editor.getch()
+
+    statusbar.clear()
+    statusbar.addstr(file_name, BLACK_AND_YELLOW)
+    statusbar.refresh()
+
+    y, x = editor.getyx()
 
     new_y = y
     new_x = x
     new_editor_y = editor_y
-
-    logger.debug(f"current cursor position - y: {y} x: {x}")
-    logger.debug(key)
 
     if key == curses.KEY_LEFT:
       new_y, new_x, new_editor_y = move_left(y, x, editor_y, state)
@@ -212,16 +220,11 @@ def main(scr):
       new_y, new_x, new_editor_y = move_up(y, x, editor_y, state)
     elif key == curses.KEY_DOWN:
       new_y, new_x, new_editor_y = move_down(y, x, editor_y, state)
-    # Delete line with CTRL + d
-    elif key == 4:
-      state = []
-    # CTRL + F
+    #   # CTRL + F
     elif key == 6:
-      statusbartext.clear()
-      statusbartext.addstr("Waiting for a command character", BLACK_AND_YELLOW)
-      statusbartext.refresh()
-      statusbar.show()
-      key = scr.getch()
+      statusbar.clear()
+      statusbar.addstr("Waiting for a command character", BLACK_AND_YELLOW)
+      key = statusbar.getch()
       # c
       if key == 99:
         exit()
@@ -231,21 +234,21 @@ def main(scr):
         if y != 0:
           new_y = y - 1
         del state[y + editor_y]
-        render(editor, state, new_editor_y)
+        statusbar.clear()
+        statusbar.addstr("Deleted line", BLACK_AND_YELLOW)
+        statusbar.refresh()
       # s
       elif key == 115:
         text_file = open(file_name, "w")
         text_file.write("\n".join(state))
         text_file.close()
-      scr.move(new_y, new_x)
-      statusbar.hide()
-      scr.refresh()
-      continue
+        statusbar.clear()
+        statusbar.addstr("Saved!", BLACK_AND_YELLOW)
+        statusbar.refresh()
     else:
       char = chr(key)
       logger.debug(char)
       if char == "\n":
-        logger.debug("new line detected")
         new_y = y
         if y != EDITOR_HEIGHT:
           new_y = y + 1
@@ -279,13 +282,86 @@ def main(scr):
           new_x += 1
 
         state[y + editor_y] = state[y + editor_y][:x] + char + state[y + editor_y][x:]
+        
+    render(editor=editor, state=state, editor_y=new_editor_y, cursor_x=new_x, cursor_y=new_y)
+    editor_y = new_editor_y
 
-      render(editor, state, new_editor_y)
+    
 
-    if editor_y != new_editor_y:
-      editor.refresh(new_editor_y, 0, 0, 0, EDITOR_HEIGHT, EDITOR_WIDTH)
-      editor_y = new_editor_y
-    logger.debug(f"new locations - y: {new_y} x: {new_x}")
-    scr.move(new_y, new_x)
+#   # Delete line with CTRL + d
+  #   elif key == 4:
+  #     state = []
+  #   # CTRL + F
+  #   elif key == 6:
+  #     statusbartext.clear()
+  #     statusbartext.addstr("Waiting for a command character", BLACK_AND_YELLOW)
+  #     statusbartext.refresh()
+  #     key = editor.getch()
+  #     # c
+  #     if key == 99:
+  #       exit()
+  #     # d
+  #     if key == 100:
+  #       new_x = 0
+  #       if y != 0:
+  #         new_y = y - 1
+  #       del state[y + editor_y]
+  #       render(editor, state, new_editor_y)
+  #       continue
+  #     # s
+  #     elif key == 115:
+  #       text_file = open(file_name, "w")
+  #       text_file.write("\n".join(state))
+  #       text_file.close()
+  #     editor.move(new_y, new_x)
+  #     statusbar.clear()
+  #     statusbar.addstr(file_name, BLACK_AND_YELLOW)
+  #     continue
+  #   else:
+  #     char = chr(key)
+  #     logger.debug(char)
+  #     if char == "\n":
+  #       logger.debug("new line detected")
+  #       new_y = y
+  #       if y != EDITOR_HEIGHT:
+  #         new_y = y + 1
+  #       new_x = 0
+  #       state.insert(new_y + editor_y, "" + state[y + editor_y][x:])
+  #       state[y + editor_y] = state[y + editor_y][:x]
+  #     elif key == curses.KEY_BACKSPACE or key == 127:
+  #       cursor_at_file_beginning = y == 0 and editor_y == 0
+  #       if x != 0:
+  #         state[y + editor_y] = state[y + editor_y][:x - 1] + state[y + editor_y][x:]
+  #         new_x = x - 1
+  #       else:
+  #         if len(state[y + editor_y]) == 0 and not cursor_at_file_beginning:
+  #           del state[y + editor_y]
+  #           new_y = y - 1
+  #           new_x = len(state[y + editor_y - 1])
+  #         elif not cursor_at_file_beginning:
+  #           # Delete line, push left over to previous line
+  #           state[y + editor_y - 1] = state[y + editor_y - 1] + state[y + editor_y]
+  #           del state[y + editor_y]
+  #           new_x = len(state[y + editor_y - 1])
+  #           new_y = y - 1
+  #     else:
+  #       new_x = x + 1
+  #       curr_line_num = y + editor_y
+  #       curr_line_text = state[curr_line_num]
+
+  #       # all tabs are two spaces in fun because I want it that way
+  #       if char == "\t":
+  #         char = "  "
+  #         new_x += 1
+
+  #       state[y + editor_y] = state[y + editor_y][:x] + char + state[y + editor_y][x:]
+
+  #     render(editor, state, new_editor_y)
+
+  #   if editor_y != new_editor_y:
+  #     editor_y = new_editor_y
+  #     editor.refresh()
+  #   logger.debug(f"new locations - y: {new_y} x: {new_x}")
+  #   scr.move(new_y, new_x)
 
 wrapper(main)
