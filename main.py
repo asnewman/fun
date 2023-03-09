@@ -176,6 +176,7 @@ def main(scr):
   #-- Determine cursor start position
   start_y = 0
   try:
+    logger.debug(f"Passed in start position: {sys.argv[2]}")
     start_y = int(sys.argv[2]) - 1
   except ValueError as e:
     # find line of code that matches
@@ -187,16 +188,16 @@ def main(scr):
   except:
     pass
 
-  # Handle line number that is too large for the file
-  if start_y > 0 and start_y - EDITOR_HEIGHT > 0:
-    editor_y = start_y - EDITOR_HEIGHT
-    start_y = start_y - editor_y - 1
-  
-
   #-- Init editor
   editor = curses.newwin(EDITOR_HEIGHT, EDITOR_WIDTH, 1, 0)
   editor.keypad(True)
   editor_y = 0
+
+  # Handle line number that is too large for the file
+  if start_y > 0 and start_y - EDITOR_HEIGHT > 0:
+    editor_y = start_y - EDITOR_HEIGHT
+    start_y = start_y - editor_y - 1
+
   render(editor=editor, state=state, editor_y=editor_y, cursor_x=0, cursor_y=start_y)
 
   while True:
