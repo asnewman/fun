@@ -191,6 +191,7 @@ def main(scr):
   editor = curses.newwin(EDITOR_HEIGHT, EDITOR_WIDTH, 1, 0)
   editor.keypad(True)
   editor_y = 0
+  curr_cpy = ""
 
   # Handle line number that is too large for the file
   if start_y > 0 and start_y - EDITOR_HEIGHT > 0:
@@ -227,7 +228,16 @@ def main(scr):
       key = statusbar.getch()
       # c
       if key == 99:
-        exit()
+        curr_cpy = state[y + editor_y]
+        statusbar.clear()
+        statusbar.addstr("Copied line", BLACK_AND_YELLOW)
+        statusbar.refresh()
+      # v
+      if key == 118:
+        state.insert(new_y + editor_y, curr_cpy)
+        statusbar.clear()
+        statusbar.addstr("Paste", BLACK_AND_YELLOW)
+        statusbar.refresh()
       # d
       if key == 100:
         new_x = 0
