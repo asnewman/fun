@@ -226,19 +226,26 @@ def main(scr):
       statusbar.clear()
       statusbar.addstr("Waiting for a command character", BLACK_AND_YELLOW)
       key = statusbar.getch()
-      # c
+      # f - find
+      if key == 102:
+        statusbar.clear()
+        search_term = ""
+        while (True):
+          new_find_char = chr(statusbar.getch())
+          statusbar.addstr(new_find_char, BLACK_AND_YELLOW)
+      # c - copy
       if key == 99:
         curr_cpy = state[y + editor_y]
         statusbar.clear()
         statusbar.addstr("Copied line", BLACK_AND_YELLOW)
         statusbar.refresh()
-      # v
+      # v - paste
       if key == 118:
         state.insert(new_y + editor_y, curr_cpy)
         statusbar.clear()
         statusbar.addstr("Paste", BLACK_AND_YELLOW)
         statusbar.refresh()
-      # d
+      # d - delete line
       if key == 100:
         new_x = 0
         if y != 0:
@@ -247,7 +254,7 @@ def main(scr):
         statusbar.clear()
         statusbar.addstr("Deleted line", BLACK_AND_YELLOW)
         statusbar.refresh()
-      # s
+      # s - save
       elif key == 115:
         text_file = open(file_name, "w")
         text_file.write("\n".join(state))
