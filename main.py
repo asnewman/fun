@@ -52,9 +52,8 @@ def move_right(cursor_y, cursor_x, editor_y, state):
   curr_line_text = state[cursor_y + editor_y]
   logger.debug(f"curr_line_text {curr_line_text}")
 
-
   is_cursor_at_line_end = cursor_x == len(curr_line_text) or cursor_x == EDITOR_WIDTH - 1
-  is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT
+  is_cursor_at_editor_bottom = cursor_y == EDITOR_HEIGHT - 1
 
   # If content is shorter than the editor, bottom is earlier
   if len(state) < EDITOR_HEIGHT:
