@@ -3,8 +3,6 @@ from curses import wrapper
 import logging
 import sys
 
-# hello world
-
 # Capture ctrl + c and gracefully shutdown
 import signal
 def signal_handler(sig, frame):
@@ -192,6 +190,7 @@ def main(scr):
   editor.keypad(True)
   editor_y = 0
   curr_cpy = ""
+  search = ""
 
   # Handle line number that is too large for the file
   if start_y > 0 and start_y - EDITOR_HEIGHT > 0:
@@ -228,11 +227,27 @@ def main(scr):
       key = statusbar.getch()
       # f - find
       if key == 102:
+        search = ""
         statusbar.clear()
-        search_term = ""
         while (True):
           new_find_char = chr(statusbar.getch())
-          statusbar.addstr(new_find_char, BLACK_AND_YELLOW)
+          if new_find_char == "\n":
+            for line in range(len(state)):
+              if search in state[line]:
+                new_editor_y = line - EDITOR_HEIGHT + 1
+                new_y = line
+                new_x = state[line].find(search)
+                # search is off screen
+                if new_editor_y > 0:
+                  new_y = EDITOR_HEIGHT - 1
+                # search is already on screen
+                else:
+                  new_editor_y = 0
+                break
+            break
+          else:
+            search = search + new_find_char
+            statusbar.addstr(new_find_char, BLACK_AND_YELLOW)
       # c - copy
       if key == 99:
         curr_cpy = state[y + editor_y]
