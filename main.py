@@ -22,6 +22,39 @@ logger.setLevel(logging.DEBUG)
 
 logger.info("begin")
 
+# Will not go between lines
+def move_right_option(cursor_x, curr_line):
+  # Cursor at the end of the line
+  if cursor_x == len(curr_line):
+    return cursor_x
+  x = cursor_x
+  started_on_whitespace = curr_line[cursor_x] == " "
+  while x < len(curr_line) - 1:
+    if started_on_whitespace and curr_line[x] != " ":
+      return x
+    elif not started_on_whitespace and curr_line[x] == " ":
+      return x + 1
+    x += 1
+  return x + 1
+  
+# Will not go between lines
+def move_left_option(cursor_x, curr_line):
+  # Cursor at the end of the line
+  if cursor_x == len(curr_line):
+    return cursor_x - 1
+  elif cursor_x == 0:
+    return 0
+  x = cursor_x
+  started_on_whitespace = curr_line[cursor_x] == " "
+  while x > 0:
+    if started_on_whitespace and curr_line[x] != " ":
+      return x
+    elif not started_on_whitespace and curr_line[x] == " ":
+      return x - 1
+    x -= 1
+  return x
+
+
 def move_left(cursor_y, cursor_x, editor_y, state):
   is_cursor_at_line_beginning = cursor_x == 0
   is_cursor_at_editor_top = cursor_y == 0
@@ -214,13 +247,20 @@ def main(scr):
 
     if key == curses.KEY_LEFT:
       new_y, new_x, new_editor_y = move_left(y, x, editor_y, state)
+    # Option left
+    elif key == 544:
+      new_x = move_left_option(x, state[editor_y + y])
+      logger.debug(new_x)
     elif key == curses.KEY_RIGHT:
       new_y, new_x, new_editor_y = move_right(y, x, editor_y, state)
     elif key == curses.KEY_UP:
       new_y, new_x, new_editor_y = move_up(y, x, editor_y, state)
+    # option + right
+    elif key == 559:
+      new_x = move_right_option(x, state[editor_y + y])
     elif key == curses.KEY_DOWN:
       new_y, new_x, new_editor_y = move_down(y, x, editor_y, state)
-    #   # CTRL + F
+    # CTRL + F
     elif key == 6:
       statusbar.clear()
       statusbar.addstr("Waiting for a command character", BLACK_AND_YELLOW)
